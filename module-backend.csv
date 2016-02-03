@@ -1,4 +1,4 @@
- Custom,Custom
+ Custom,Personalizado
 "Are you sure?","Tem certeza?"
 Close,Fechar
 Cancel,Cancelar
@@ -27,7 +27,7 @@ Edit,Editar
 "Cache storage may contain additional data. Are you sure that you want flush it?","Cache storage may contain additional data. Are you sure that you want flush it?"
 "Flush Cache Storage","Flush Cache Storage"
 Invalidated,Invalido
-Orders,Orders
+Orders,Pedidos
 Amounts,Amounts
 "Bestsellers","Mais vendidos"
 "Most Viewed Products","Mais vistos"
@@ -38,7 +38,7 @@ Items,Itens
 "Grand Total","Total"
 "Lifetime Sales","Todas as Vendas"
 "Average Orders","Average Orders"
-"Search Term","Buscas"
+"Search Term","Termo de Pesquisa"
 Results,Resultados
 Uses,Usos
 Average,Média
@@ -66,7 +66,7 @@ Email,Email
 "Interface Locale","Interface Locale"
 "Save Cache Settings","Save Cache Settings"
 "Catalog Rewrites","Catalog Rewrites"
-Refresh,Refresh
+Refresh,Atualizar
 "Images Cache","Images Cache"
 Clear,Clear
 "Search Index","Search Index"
@@ -93,8 +93,8 @@ Add,Adicionar
 "Design Theme","Design Theme"
 "Add \Exception","Add \Exception"
 "-- No Theme --","-- No Theme --"
-Synchronize,Synchronize
-Configuration,Configuration
+Synchronize,Sincronizar
+"Configuration","Configuração"
 "Add Design Change","Add Design Change"
 Delete,Excluir
 Save,Salvar
@@ -107,7 +107,7 @@ Store,Store
 "Date From","Date From"
 "Date To","Date To"
 "Design Change","Design Change"
-General,General
+General,Geral
 "Delete %1 '%2'","Delete %1 '%2'"
 "Delete %1","Delete %1"
 "Block Information","Block Information"
@@ -197,7 +197,7 @@ Any,Any
 "All Countries","All Countries"
 From,From
 To,To
-"Date selector","Date selector"
+"Date selector","Date sealector"
 "[ deleted ]","[ deleted ]"
 "Select All","Select All"
 " [deleted]"," [deleted]"
@@ -445,11 +445,11 @@ Loading...,Carregando...
 Country,País
 City,Cidade
 "VAT Number","VAT Number"
-"Street Address","Street Address"
-Design,Design
+"Street Address","Endereço"
+Design,Visual
 "Media Storage","Media Storage"
 Admin,Admin
-Advanced,Advanced
+Advanced,Avançado
 "Transactional Emails","Transactional Emails"
 "Store Name","Store Name"
 "Store Phone Number","Store Phone Number"
