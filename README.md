@@ -24,3 +24,4 @@ composer require bleez/magento2-pt_br
 
 - [r-martins](https://github.com/r-martins)
 - [iiagolima](https://github.com/iiagolima)
+- [rafaelstz](https://github.com/rafaelstz)
