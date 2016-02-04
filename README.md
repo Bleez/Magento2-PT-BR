@@ -19,3 +19,8 @@ composer require bleez/magento2-pt_br
 
 - Não use Google Translate
 - Fork o repositorio e envie um pull request ou edite no github
+
+## Contribuidores
+
+- [r-martins](https://github.com/r-martins)
+- [iiagolima](https://github.com/iiagolima)
