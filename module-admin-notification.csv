@@ -1,15 +1,15 @@
-"Read Details","Read Details"
-"Mark as Read","Mark as Read"
-"Are you sure?","Are you sure?"
-Remove,Remove
-"Messages Inbox","Messages Inbox"
-"You have %1 new system messages","You have %1 new system messages"
-"You have %1 new system message","You have %1 new system message"
-"Incoming Message","Incoming Message"
-close,close
-"Read details","Read details"
-Notifications,Notifications
-"The message has been marked as Read.","The message has been marked as Read."
+"Read Details","Leia os Detalhes"
+"Mark as Read","Marcar como lido"
+"Are you sure?","Você tem certeza?"
+Remove,Remover
+"Messages Inbox","Mensagens da Caixa de entreda"
+"You have %1 new system messages","Você tem %1 novas mensagens do sistema"
+"You have %1 new system message","Você tem %1 novas mensagens do sistemae"
+"Incoming Message","Mensagem Recebida"
+close,fechar
+"Read details","Leia os Detalhes"
+Notifications,Notificações
+"The message has been marked as Read.","A mensagem foi marcada como lida."
 "We couldn't mark the notification as Read because of an error.","We couldn't mark the notification as Read because of an error."
 "Please select messages.","Please select messages."
 "A total of %1 record(s) have been marked as Read.","A total of %1 record(s) have been marked as Read."
