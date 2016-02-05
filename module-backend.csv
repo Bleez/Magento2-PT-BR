@@ -1,4 +1,4 @@
- Custom,Personalizado
+Custom,Personalizado
 "Are you sure?","Tem certeza?"
 Close,Fechar
 Cancel,Cancelar
@@ -93,11 +93,11 @@ Add,Adicionar
 "Design Theme","Design Theme"
 "Add \Exception","Add \Exception"
 "-- No Theme --","-- Sem Tema --"
-"Synchronize","Sincronizar"
+Synchronize,Sincronizar
 "Configuration","Configuração"
 "Add Design Change","Add Design Change"
-"Delete","Excluir"
-"Save","Salvar"
+Delete,Excluir
+Save,Salvar
 "Edit Design Change","Edit Design Change"
 "New Store Design Change","New Store Design Change"
 "General Settings","General Settings"
@@ -113,7 +113,7 @@ General,Geral
 "Block Information","Block Information"
 "Backup Options","Backup Options"
 "Create DB Backup","Create DB Backup"
-"Yes","Sim"
+Yes,Sim
 "Delete Store","Delete Store"
 "Delete Web Site","Delete Web Site"
 "Save Web Site","Salvar Web Site"
