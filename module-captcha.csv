@@ -1,15 +1,15 @@
-Always,Always
+Always,Sempre
 "After number of attempts to login","After number of attempts to login"
-"Incorrect CAPTCHA","Incorrect CAPTCHA"
-"Incorrect CAPTCHA.","Incorrect CAPTCHA."
+"Incorrect CAPTCHA","CAPTCHA Incorreto"
+"Incorrect CAPTCHA.","CAPTCHA Incorreto."
 "Please enter the letters from the image:","Please enter the letters from the image:"
-"Reload captcha","Reload captcha"
-"<strong>Attention</strong>: Captcha is case sensitive.","<strong>Attention</strong>: Captcha is case sensitive."
+"Reload captcha","Recarregar captcha"
+"<strong>Attention</strong>: Captcha is case sensitive.","<strong>Atenção</strong>: Captcha diferencia letras maiusculas e minusculas."
 "Please type the letters below","Please type the letters below"
 CAPTCHA,CAPTCHA
-"Enable CAPTCHA in Admin","Enable CAPTCHA in Admin"
+"Enable CAPTCHA in Admin","Habilitar CAPTCHA em Admin"
 Font,Font
-Forms,Forms
+Forms,Formulários
 "Displaying Mode","Displaying Mode"
 "Number of Unsuccessful Attempts to Login","Number of Unsuccessful Attempts to Login"
 "If 0 is specified, CAPTCHA on the Login form will be always available.","If 0 is specified, CAPTCHA on the Login form will be always available."
