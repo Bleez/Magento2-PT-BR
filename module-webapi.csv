@@ -13,7 +13,7 @@ API,API
 "Request method is invalid.","Request method is invalid."
 "Decoding error.","Decoding error."
 "Decoding error: %1%2%3%4","Decoding error: %1%2%3%4"
-"Server cannot match any of the given Accept HTTP header media type(s) from the request: "%1 with media types from the config of response renderer.", "Server cannot match any of the given Accept HTTP header media type(s) from the request: "%1 with media types from the config of response renderer."
+"Server cannot match any of the given Accept HTTP header media type(s) from the request: %1 with media types from the config of response renderer.", "Server cannot match any of the given Accept HTTP header media type(s) from the request: %1 with media types from the config of response renderer."
 "Request does not match any route.","Requisição não combina com nenhuma rota."
 "Not allowed parameters: %1. Please use only %2 and %3.","Parametros não permitidos: %1. Use somente %2 e %3."
 "Incorrect format of WSDL request URI or Requested services are missing.","Formato incorreto da URI do WSDL ou Serviços estão desativados."
