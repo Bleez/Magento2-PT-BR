@@ -1,20 +1,20 @@
-Reset,Reset
-System,System
-Import,Import
-"Save Currency Rates","Save Currency Rates"
-"Manage Currency Rates","Manage Currency Rates"
-"Import Service","Import Service"
-"Save Currency Symbols","Save Currency Symbols"
-"Currency Symbols","Currency Symbols"
-"Use Standard","Use Standard"
-"Currency Rates","Currency Rates"
-"Please specify a correct Import Service.","Please specify a correct Import Service."
+Reset,Resetar
+System,Sistema
+Import,Importar
+"Save Currency Rates","Salvar Taxas de Câmbio"
+"Manage Currency Rates","Gerenciar Taxas de Câmbio"
+"Import Service","Importar Serviço"
+"Save Currency Symbols","Salvar Simbolos de Câmbio"
+"Currency Symbols","Simbolos de Câmbio"
+"Use Standard","Usar Padrão"
+"Currency Rates","Taxas de Câmbio"
+"Please specify a correct Import Service.","Por favor especificar o serviço a ser importado."
 "We can't initialize the import model.","We can't initialize the import model."
 "All possible rates were fetched, please click on ""Save"" to apply","All possible rates were fetched, please click on ""Save"" to apply"
 "All rates were fetched, please click on ""Save"" to apply","All rates were fetched, please click on ""Save"" to apply"
 "Please correct the input data for %1 => %2 rate","Please correct the input data for %1 => %2 rate"
 "All valid rates have been saved.","All valid rates have been saved."
 "The custom currency symbols were applied.","The custom currency symbols were applied."
-Currency,Currency
-Symbol,Symbol
-"Old rate:","Old rate:"
+Currency,Câmbio
+Symbol,Simbolo
+"Old rate:","Taxa anterior:"
