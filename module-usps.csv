@@ -1,25 +1,25 @@
 None,None
-No,No
-Yes,Yes
-"Sort Order","Sort Order"
-Variable,Variable
-Title,Title
-Required,Required
-Password,Password
-Height,Height
-Width,Width
+No,Não
+Yes,Sim
+"Sort Order","Ordem"
+Variable,Variavel
+Title,Título
+Required,Obrigatório
+Password,Senha
+Height,Altura
+Width,Largura
 Regular,Regular
-Documents,Documents
+Documents,Documentos
 "Unable to retrieve tracking","Unable to retrieve tracking"
 Sample,Sample
 "Not Required","Not Required"
 "Empty response","Empty response"
 Mode,Mode
 Return,Return
-Size,Size
+Size,Tamanho
 Girth,Girth
-Length,Length
-"Sorry, something went wrong. Please try again or contact us and we'll try to help.","Sorry, something went wrong. Please try again or contact us and we'll try to help."
+Length,Comprimento
+"Sorry, something went wrong. Please try again or contact us and we'll try to help.","Desculpe, alguma coisa deu errado. Tente novamente ou entre em contato conosco."
 "User ID","User ID"
 "First-Class Mail Large Envelope","First-Class Mail Large Envelope"
 "First-Class Mail Letter","First-Class Mail Letter"
@@ -103,14 +103,14 @@ Flat,Flat
 Parcel,Parcel
 "Flat-Rate Box","Flat-Rate Box"
 "Flat-Rate Envelope","Flat-Rate Envelope"
-Rectangular,Rectangular
-Non-rectangular,Non-rectangular
+Rectangular,Retangular
+Non-rectangular,Não rentangular
 Large,Large
 track_summary,track_summary
 "Service type does not match","Service type does not match"
 Merchandise,Merchandise
-Gift,Gift
-Other,Other
+Gift,Presente
+Other,Outro
 Container,Container
 Debug,Debug
 "Gateway URL","Gateway URL"
