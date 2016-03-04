@@ -1,15 +1,10 @@
-Cancel,Cancelar
-Action,Ação
 failed,falhou
 successful,sucesso
-Delete,Deletar
-Name,Nome
 Type,Tipo
-System,Sistema
 "We can't save the Cron expression.","We can't save the Cron expression."
-Database,Bando de Dados
+Database,Banco de Dados
 Time,Tempo
-"System Backup","Sistema Backup"
+"System Backup","Backup do Sistema"
 "Database and Media Backup","Database and Media Backup"
 "Database Backup","Backup de Banco de Dados"
 "The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.","The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems."

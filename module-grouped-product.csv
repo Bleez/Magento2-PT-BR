@@ -3,7 +3,6 @@ Price,Price
 ID,ID
 SKU,SKU
 Qty,Qty
-Name,Name
 Availability,Availability
 "In stock","In stock"
 "Out of stock","Out of stock"

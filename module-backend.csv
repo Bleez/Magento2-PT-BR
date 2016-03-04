@@ -29,7 +29,6 @@ Edit,Editar
 Invalidated,Inválido
 Orders,Pedidos
 Amounts,Amounts
-"Bestsellers","Mais vendidos"
 "Most Viewed Products","Mais vistos"
 "New Customers","Novos Clientes"
 Customer,Cliente
@@ -101,38 +100,38 @@ Save,Salvar
 "Edit Design Change","Editar Mudanças no Design"
 "New Store Design Change","New Store Design Change"
 "General Settings","Configuração Geral"
-Store,Store
-"-- Please Select --","-- Please Select --"
+Store,Loja
+"-- Please Select --","-- Selecione --"
 "Custom Design","Design Customizado"
 "Date From","Date From"
 "Date To","Date To"
 "Design Change","Mudanças no Design"
 General,Geral
-"Delete %1 '%2'","Deletar %1 '%2'"
-"Delete %1","Deletar %1"
-"Block Information","Block Information"
+"Delete %1 '%2'","Excluir %1 '%2'"
+"Delete %1","Excluir %1"
+"Block Information","Bloco de Informações"
 "Backup Options","Opções de Backup"
-"Create DB Backup","Create DB Backup"
+"Create DB Backup","Criar Backup do Banco"
 Yes,Sim
-"Delete Store","Deletar Store"
+"Delete Store","Exluir Loja"
 "Delete Web Site"," Web Site"
 "Save Web Site","Salvar Web Site"
 "Save Store","Salvar Store"
 "Save Store View","Salvar Store View"
-"Delete Store View","Deletar Store View"
+"Delete Store View","Excluir Store View"
 "Edit Web Site","Editar Web Site"
 "New Web Site","Novo Web Site"
-"Edit Store","Editar Store"
-"New Store","Nova Store"
-"Edit Store View","Editar Store View"
-"New Store View","Novo Store View"
-"Store Information","Informações da Store"
+"Edit Store","Editar Loja"
+"New Store","Nova Loja"
+"Edit Store View","Editar Visão de Loja"
+"New Store View","Nova Visão de Loja"
+"Store Information","Informações da Loja"
 "Web Site","Web Site"
 Name,Nome
-"Root Category","Categoria Root"
-"Default Store View","Store View Padrão"
-"Store View Information","Store View Information"
-Code,Code
+"Root Category","Categoria Raíz"
+"Default Store View","Visão de Loja Padrão"
+"Store View Information","Informação da Visão de Loja"
+Code,Código
 Status,Status
 Disabled,Inativo
 Enabled,Ativo
@@ -140,18 +139,18 @@ Enabled,Ativo
 "Web Site Information","Web Site Information"
 "Default Store","Store Padrão"
 "Set as Default","Usar como Padrão"
-Stores,Stores
+Stores,Lojas
 "Create Website","Criar Website"
-"Create Store","Criar Store"
-"Create Store View","Criar Store View"
-"Custom Variables","Custom Variables"
-"Add New Variable","Add Nova Variável"
+"Create Store","Criar Loja"
+"Create Store View","Criar Visão de Loja"
+"Custom Variables","Variáveis Customizada"
+"Add New Variable","Adicionar Nova Variável"
 "Save and Continue Edit","Salvar e Continuar Editando"
 "Custom Variable ""%1""","Variável Customizada ""%1"""
 "New Custom Variable","Nova Variável Customizada"
 Variable,Variável
-"Variable Code","Variable Code"
-"Variable Name","Variable Name"
+"Variable Code","Código da Variável"
+"Variable Name","Nome da Variável"
 "Use Default Variable Values","Use Default Variable Values"
 "Variable HTML Value","Variable HTML Value"
 "Variable Plain Value","Variable Plain Value"
@@ -413,7 +412,6 @@ Scope:,Scope:
 "Themes JavaScript and CSS files combined to one file.","Themes JavaScript and CSS files combined to one file."
 "Flush Static Files Cache", "Limpar Cache de Arquivos Estáticos"
 "Preprocessed view files and static files", "Preprocessed view files and static files"
-Catalog,Catalogo
 JavaScript/CSS,JavaScript/CSS
 "JavaScript/CSS Cache","Cache de JavaScript/CSS"
 "Add after","Add after"
@@ -643,3 +641,4 @@ Extensions,Extensions
 "Filters","Filtros"
 "Active filters:","Filtros aplicados:"
 "Please wait...","Aguarde..."
+Shipping,Frete

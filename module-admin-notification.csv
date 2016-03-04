@@ -35,15 +35,13 @@ notice,notice
 "We appreciate our merchants' feedback. Please <a href=""#"" data-mage-init=%1>take our survey</a> and tell us about features you'd like to see in Magento.","We appreciate our merchants' feedback. Please <a href=""#"" data-mage-init=%1>take our survey</a> and tell us about features you'd like to see in Magento."
 "Close popup","Close popup"
 Close,Close
-"Critical System Messages","Critical System Messages"
-"Major System Messages","Major System Messages"
-"System messages","System messages"
-Notification,Notification
-Cancel,Cancel
+"Critical System Messages","Mensagens Críticas"
+"Major System Messages","Mensagens Prioritárias"
+"System messages","Mensagens do sistema"
+Notification,Notificações
 Acknowledge,Acknowledge
 "See All (%1 unread)","See All (%1 unread)"
-Actions,Actions
-Message,Message
+Message,Mensagem
 "Use HTTPS to Get Feed","Use HTTPS to Get Feed"
 "Update Frequency","Update Frequency"
 "Last Update","Last Update"

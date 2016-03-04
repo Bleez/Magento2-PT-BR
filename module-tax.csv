@@ -9,7 +9,6 @@ Reset,Reset
 "Unit Price","Unit Price"
 Tax,Tax
 Save,Save
-Name,Name
 Code,Code
 "Sort Order","Sort Order"
 "Save and Continue Edit","Save and Continue Edit"
@@ -20,7 +19,6 @@ Priority,Priority
 Country,Country
 "Billing Address","Billing Address"
 "Shipping Address","Shipping Address"
-Sales,Sales
 CSV,CSV
 "Excel XML","Excel XML"
 Rate,Rate

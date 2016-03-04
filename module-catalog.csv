@@ -9,7 +9,6 @@ Qty,Qtd
 "-- Please Select --","-- Please Select --"
 "Custom Design","Custom Design"
 "Web Site","Web Site"
-Name,Nome
 Status,Status
 "Save and Continue Edit","Salvar e Continuar Editando"
 Title,Título
@@ -25,7 +24,7 @@ Website,Website
 "All Websites","All Websites"
 Next,Próximo
 "Please enter a valid number in this field.","Please enter a valid number in this field."
-Catalog,Catalogo
+"Catalog","Catálogo
 "Unselect All","Unselect All"
 "Select Visible","Select Visible"
 "Unselect Visible","Unselect Visible"

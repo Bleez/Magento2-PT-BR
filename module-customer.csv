@@ -8,7 +8,7 @@ Quantity,Quantity
 ID,ID
 SKU,SKU
 Configure,Configure
-Customers,Customers
+Customers,Clientes
 "Shopping Cart","Shopping Cart"
 No,No
 Qty,Qty
@@ -18,10 +18,8 @@ Total,Total
 "Are you sure that you want to remove this item?","Are you sure that you want to remove this item?"
 Edit,Edit
 Orders,Orders
-"New Customers","New Customers"
-Customer,Customer
+Customer,Cliente
 "Grand Total","Grand Total"
-"Lifetime Sales","Lifetime Sales"
 "All Store Views","All Store Views"
 "My Account","My Account"
 "Account Information","Account Information"
@@ -36,7 +34,6 @@ Store,Store
 "-- Please Select --","-- Please Select --"
 Yes,Yes
 "Web Site","Web Site"
-Name,Name
 Status,Status
 "Save and Continue Edit","Save and Continue Edit"
 "Store View","Store View"
@@ -90,14 +87,14 @@ Register,Register
 "Edit Address","Edit Address"
 "Add New Address","Add New Address"
 region,region
-"Add New Customer","Add New Customer"
-"Save Customer","Save Customer"
-"Delete Customer","Delete Customer"
-"Reset Password","Reset Password"
-"New Customer","New Customer"
-"or ","or "
+"Add New Customer","Adicionar Novo Cliente"
+"Save Customer","Salvar Cliente"
+"Delete Customer","Excluir Cliente"
+"Reset Password","Resetar Senha"
+"New Customer","Novo Cliente"
+"or ","ou "
 " Send auto-generated password"," Send auto-generated password"
-"Please select","Please select"
+"Please select","Selecione"
 "Send Welcome Email","Send Welcome Email"
 "Send From","Send From"
 "Send Welcome Email after Confirmation","Send Welcome Email after Confirmation"

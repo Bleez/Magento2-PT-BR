@@ -1,9 +1,9 @@
 Action,Ação
-Tax,Taxa
+Tax,Imposto
 Website,Website
 "All Websites","Todos os Websites"
-"Add Tax","Adicionar Taxa"
-"Delete Tax","Deletar Taxas"
+"Add Tax","Adicionar Imposto"
+"Delete Tax","Excluir Imposto"
 "We found a duplicate of website, country and state fields for a fixed product tax","We found a duplicate of website, country and state fields for a fixed product tax"
 "Including FPT only","Incluindo somente FPT"
 "Including FPT and FPT description","Incluindo FPT e descrição FPT"
@@ -17,6 +17,6 @@ Country/State,País/Estado
 "Display Prices On Product View Page","Mostar preços na página do produto"
 "Display Prices In Sales Modules","Mostrar nos modulos de venda"
 "Display Prices In Emails","Mostrar preços nos emails"
-"Apply Tax To FPT","Aplicar taxa ao FPT"
+"Apply Tax To FPT","Aplicar Imposto ao FPT"
 "Include FPT In Subtotal","Incluir FPT no Subtotal"
 "FPT","FPT"
