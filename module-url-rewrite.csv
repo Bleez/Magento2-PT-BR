@@ -1,16 +1,3 @@
-Custom,Custom
-Back,Voltar
-ID,ID
-SKU,SKU
-No,No
-Custom,Custom
-Back,Voltar
-ID,ID
-SKU,SKU
-No,Não
-Action,Action
-Reset,Reset
-Edit,Editar
 "Two and more slashes together are not permitted in request path","Two and more slashes together are not permitted in request path"
 "Anchor symbol (#) is not supported in request path","O símbolo de âncora(#) não é suportado"
 "Request Path for Specified Store","Request Path for Specified Store"
@@ -36,7 +23,7 @@ Edit,Editar
 "Store View","Store View"
 "Edit URL Rewrite","Editar URL Rewrite"
 "Add New URL Rewrite","Adicinar New URL Rewrite"
-"Delete","Deletar"
+"Delete","Excluir"
 "Are you sure you want to do this?","Você tem certeza que desja fazer isso?"
 "Save","Salvar"
 "Block Information","Informação Bloco"

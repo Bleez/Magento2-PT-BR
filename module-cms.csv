@@ -1,9 +1,4 @@
-ID,ID
-Action,Action
 "Delete File","Delete File"
-"-- Please Select --","-- Please Select --"
-"Custom Design","Custom Design"
-"Block Information","Block Information"
 Status,Status
 Disabled,Disabled
 Enabled,Enabled
@@ -35,18 +30,15 @@ Identifier,Identifier
 "Edit Page '%1'","Edit Page '%1'"
 "New Page","New Page"
 "Content Heading","Content Heading"
-"Page Layout","Page Layout"
 Layout,Layout
 "Layout Update XML","Layout Update XML"
-"Custom Design From","Custom Design From"
-"Custom Design To","Custom Design To"
-"Custom Theme","Custom Theme"
-"Custom Layout","Custom Layout"
-"Custom Layout Update XML","Custom Layout Update XML"
+"Custom Design From","Ativo a partir de"
+"Custom Design To","Ativo até"
+"Custom Layout Update XML","Ajuste de Layout"
 Design,Design
 "Page Information","Page Information"
 "Page Title","Page Title"
-"Relative to Web Site Base URL","Relative to Web Site Base URL"
+"Relative to Website Base URL","Relative to Website Base URL"
 "Page Status","Page Status"
 "Meta Data","Meta Data"
 Keywords,Keywords

@@ -1,7 +1,3 @@
-Back,Back
-Price,Price
-SKU,SKU
-Qty,Qty
 "Excl. Tax","Excl. Tax"
 Total,Total
 "Incl. Tax","Incl. Tax"
@@ -9,11 +5,10 @@ Total,Total
 "Move to Wishlist","Move to Wishlist"
 File,File
 "Edit item parameters","Edit item parameters"
-Edit,Edit
 "Remove item","Remove item"
 "All Files","All Files"
 [GLOBAL],[GLOBAL]
-"[STORE VIEW]","[STORE VIEW]"
+"[STORE VIEW]","[VISÃO]"
 Delete,Delete
 Status,Status
 "Sort Order","Sort Order"
@@ -42,7 +37,8 @@ Message:,Message:
 "Order #","Order #"
 Date,Date
 "Upload Files","Upload Files"
-"Downloadable Information","Downloadable Information"
+"Downloadable Product","Produto Digital"
+"Downloadable Information","Produto Digital"
 Samples,Samples
 Links,Links
 Unlimited,Unlimited

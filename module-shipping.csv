@@ -1,13 +1,7 @@
 "Are you sure?","Are you sure?"
 Cancel,Cancel
 "Add Products","Add Products"
-Product,Product
-SKU,SKU
-Qty,Qty
-Action,Action
 "Incl. Tax","Incl. Tax"
-Add,Add
-Delete,Delete
 Title,Title
 Type,Type
 Description,Description
@@ -23,7 +17,7 @@ Country,Country
 "Shipping Information","Shipping Information"
 City,City
 "Street Address","Street Address"
-Weight,Weight
+Weight,Peso
 Package,Package
 Packages,Packages
 Date,Date
@@ -149,8 +143,8 @@ Track:,Track:
 "Delivered to:","Delivered to:"
 "Shipped or billed on:","Shipped or billed on:"
 "Service Type:","Service Type:"
-Weight:,Weight:
-"Local Time","Local Time"
+Weight:,Peso:
+"Local Time","Hora Local"
 "There is no tracking available for this shipment.","There is no tracking available for this shipment."
 "There is no tracking available.","There is no tracking available."
 "ZIP/Postal Code","ZIP/Postal Code"

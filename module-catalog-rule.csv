@@ -4,7 +4,7 @@ SKU,SKU
 Apply,Apply
 No,No
 Yes,Yes
-"Web Site","Web Site"
+"Website","Website"
 Status,Status
 "Save and Continue Edit","Save and Continue Edit"
 Type,Type
@@ -19,7 +19,6 @@ Active,Active
 "This rule no longer exists.","This rule no longer exists."
 "General Information","General Information"
 Websites,Websites
-"Attribute Set","Attribute Set"
 "Apply Rules","Apply Rules"
 "Catalog Price Rules","Catalog Price Rules"
 "Add New Rule","Add New Rule"
@@ -39,7 +38,6 @@ Conditions,Conditions
 "Conditions (leave blank for all products)","Conditions (leave blank for all products)"
 "Rule Name","Rule Name"
 Inactive,Inactive
-"Customer Groups","Customer Groups"
 "From Date","From Date"
 "To Date","To Date"
 Priority,Priority

@@ -33,7 +33,7 @@ Password,Senha
 "Confirm New Password","Confirmar nova senha"
 "Reset a Password","Recuperar senha"
 "Email Address:","Endereço de e-mail:"
-"Delete Role","Deletar Grupo"
+"Delete Role","Excluir Grupo"
 "Save Role","Salvar Grupo"
 Roles,Grupos
 "Add New Role","Adicionar novo grupo"
@@ -46,7 +46,7 @@ Roles,Grupos
 "Add New User","Adicionar novo usuário"
 Users,Usuário
 "Save User","Salvar usuário"
-"Delete User","Deletar usuário"
+"Delete User","Excluir usuário"
 "Edit User '%1'","Editar usuário '%1'"
 "New User","Novo usuário"
 "This account is","Essa conta é"

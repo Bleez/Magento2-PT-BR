@@ -6,7 +6,7 @@ Discount,Discount
 Uses,Uses
 Delete,Delete
 Yes,Yes
-"Web Site","Web Site"
+"Website","Website"
 Status,Status
 "Save and Continue Edit","Save and Continue Edit"
 Description,Description
@@ -27,7 +27,6 @@ Websites,Websites
 Conditions,Conditions
 "Rule Name","Rule Name"
 Inactive,Inactive
-"Customer Groups","Customer Groups"
 "From Date","From Date"
 "To Date","To Date"
 Priority,Priority
@@ -115,7 +114,6 @@ Labels,Labels
 "No Coupon","No Coupon"
 "Specific Coupon","Specific Coupon"
 "Can't acquire coupon.","Can't acquire coupon."
-"Special Price","Special Price"
 "Total Items Quantity","Total Items Quantity"
 "Shipping Postcode","Shipping Postcode"
 "Shipping Region","Shipping Region"

@@ -5,6 +5,7 @@ Cancel,Cancelar
 Back,Voltar
 Product,Produto
 Price,Preço
+Price:,Preço:
 Quantity,Quantidade
 ID,ID
 SKU,SKU
@@ -114,19 +115,19 @@ General,Geral
 "Create DB Backup","Criar Backup do Banco"
 Yes,Sim
 "Delete Store","Exluir Loja"
-"Delete Web Site"," Web Site"
-"Save Web Site","Salvar Web Site"
+"Delete Website"," Website"
+"Save Website","Salvar Website"
 "Save Store","Salvar Store"
 "Save Store View","Salvar Store View"
 "Delete Store View","Excluir Store View"
-"Edit Web Site","Editar Web Site"
-"New Web Site","Novo Web Site"
+"Edit Website","Editar Website"
+"New Website","Novo Website"
 "Edit Store","Editar Loja"
 "New Store","Nova Loja"
 "Edit Store View","Editar Visão de Loja"
 "New Store View","Nova Visão de Loja"
 "Store Information","Informações da Loja"
-"Web Site","Web Site"
+"Website","Website"
 Name,Nome
 "Root Category","Categoria Raíz"
 "Default Store View","Visão de Loja Padrão"
@@ -136,7 +137,7 @@ Status,Status
 Disabled,Inativo
 Enabled,Ativo
 "Sort Order","Ordenar Pedidos"
-"Web Site Information","Web Site Information"
+"Website Information","Website Information"
 "Default Store","Store Padrão"
 "Set as Default","Usar como Padrão"
 Stores,Lojas
@@ -366,7 +367,7 @@ password,senha
 "Customer View","Customer View"
 "Sign Out","Sign Out"
 "About the calendar","About the calendar"
-"Go Today","Go Today"
+"Go Today","Hoje"
 Previous,Previous
 Next,Próximo
 WK,WK
