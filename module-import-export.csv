@@ -4,10 +4,8 @@ From,From
 To,To
 Export,Export
 label,label
-"Attribute Code","Attribute Code"
 Import,Import
 Continue,Continue
-"Attribute Label","Attribute Label"
 "Export Settings","Export Settings"
 "Entity Type","Entity Type"
 "Export File Format","Export File Format"

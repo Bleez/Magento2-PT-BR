@@ -15,16 +15,13 @@ Title,Título
 Type,Tipo
 Home,Home
 Search,Busca
-"Select All","Select All"
 "Add New","Add New"
 "Please select items.","Please select items."
 Required,Required
 Website,Website
 "All Websites","All Websites"
-Next,Próximo
 "Please enter a valid number in this field.","Please enter a valid number in this field."
 "Catalog","Catálogo"
-"Unselect All","Unselect All"
 "Select Visible","Select Visible"
 "Unselect Visible","Unselect Visible"
 "items selected","items selected"
@@ -114,9 +111,9 @@ Integer,Integer
 "Attribute Information","Attribute Information"
 Properties,Properties
 "Manage Labels","Manage Labels"
-Visible,Visible
-Searchable,Searchable
-Comparable,Comparable
+Visible,Visível
+Searchable,Buscável
+Comparable,Comparável
 "Delete Selected Group","Delete Selected Group"
 "Delete Attribute Set","Delete Attribute Set"
 "You are about to delete all products in this set. ' 'Are you sure you want to delete this attribute set?","You are about to delete all products in this set. ' 'Are you sure you want to delete this attribute set?"
@@ -683,3 +680,10 @@ Cost,Custo
 "Tax Class","Imposto"
 "Images and Videos","Imagens e Vídeos"
 "Weight","Peso"
+"Step 1: Select Attributes","Passo 1: Seleção de Atributos"
+"Step 2: Attribute Values","Passo 2: Valores dos Atributos"
+"Create New Attribute","Criar Novo Atributo"
+"Selected Attributes:","Atributos Selecionados:"
+"Select Attributes","Seleção de Atributos"
+"Attribute Values","Valores dos Atributos"
+"Create New Value","Criar Novo Valor"

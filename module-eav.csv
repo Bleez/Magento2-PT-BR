@@ -4,7 +4,6 @@ Email,Email
 Yes,Yes
 Required,Required
 label,label
-"Attribute Code","Attribute Code"
 "For internal use. Must be unique with no spaces. Maximum length of attribute code must be less than %1 symbols","For internal use. Must be unique with no spaces. Maximum length of attribute code must be less than %1 symbols"
 "Default Value","Default Value"
 "Unique Value","Unique Value"
@@ -52,7 +51,7 @@ URL,URL
 """%1"" length must be equal or less than %2 characters.","""%1"" length must be equal or less than %2 characters."
 "Maximum length of attribute code must be less than %1 symbols","Maximum length of attribute code must be less than %1 symbols"
 "Attribute Properties","Attribute Properties"
-"Attribute Label","Attribute Label"
+"Attribute Label","Nome do Atributo"
 "Catalog Input Type for Store Owner","Catalog Input Type for Store Owner"
 "Values Required","Values Required"
 "Decimal Number","Decimal Number"

@@ -200,6 +200,7 @@ To,Para
 "Date selector","Date selector"
 "[ deleted ]","[ deletado ]"
 "Select All","Selecionar Tudo"
+"Deselect All","Desselecionar Tudo"
 " [deleted]"," [deletado]"
 "We couldn't find any records.","Não há registros."
 "Add New","Adiconar Novo"
@@ -643,3 +644,4 @@ Extensions,Extensions
 "Active filters:","Filtros aplicados:"
 "Please wait...","Aguarde..."
 Shipping,Frete
+"Selected Attributes","Atributos Selecionados"
