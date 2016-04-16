@@ -1,23 +1,4 @@
-None,None
-Close,Close
-Cancel,Cancel
-Product,Product
-ID,ID
-SKU,SKU
-Qty,Qty
-"Excl. Tax","Excl. Tax"
-Total,Total
-"Incl. Tax","Incl. Tax"
-"Total incl. tax","Total incl. tax"
-Delete,Delete
-From,From
-To,To
-Required,Required
-Position,Position
 "Percent Discount","Percent Discount"
-"-- Select --","-- Select --"
-Dynamic,Dynamic
-Fixed,Fixed
 "Create New Option","Create New Option"
 "Bundle Items","Bundle Items"
 "Add Products to Option","Add Products to Option"

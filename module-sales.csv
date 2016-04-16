@@ -1,18 +1,9 @@
-Remove,Remove
-Close,Close
-Cancel,Cancel
-"Add Products","Add Products"
 "Update Items and Qty's","Update Items and Qty's"
-ID,ID
-SKU,SKU
-Apply,Apply
-Configure,Configure
 "Shopping Cart","Shopping Cart"
 "Quote item id is not received.","Quote item id is not received."
 "Quote item is not loaded.","Quote item is not loaded."
 "Apply Coupon Code","Apply Coupon Code"
 "Remove Coupon Code","Remove Coupon Code"
-Qty,Qty
 "Row Subtotal","Row Subtotal"
 "No ordered items","No ordered items"
 "Total %1 product(s)","Total %1 product(s)"

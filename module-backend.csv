@@ -202,6 +202,7 @@ To,Para
 "Select All","Selecionar Tudo"
 "Deselect All","Desselecionar Tudo"
 " [deleted]"," [deletado]"
+"We couldn\'t find any records.","Não há registros."
 "We couldn't find any records.","Não há registros."
 "Add New","Adiconar Novo"
 Export,Exportar
@@ -400,7 +401,7 @@ Minute,Minuto
 "Please enter a valid password.","Please enter a valid password."
 "Please enter a number greater than 0 in this field.","Please enter a number greater than 0 in this field."
 "Please enter a valid credit card number.","Please enter a valid credit card number."
-"Please wait, loading...","Please wait, loading..."
+"Please wait, loading...","Aguarde, carregando..."
 "JavaScript may be disabled in your browser.","JavaScript may be disabled in your browser."
 "To use this website you must first enable JavaScript in your browser.","To use this website you must first enable JavaScript in your browser."
 "This is only a demo store. You can browse and place orders, but nothing will be processed.","This is only a demo store. You can browse and place orders, but nothing will be processed."

@@ -2,21 +2,12 @@
 "You added %1 to your shopping cart.","You added %1 to your shopping cart."
 "The coupon code ""%1"" is not valid.","The coupon code ""%1"" is not valid."
 "Shopping Cart Items","Shopping Cart Items"
-Qty,Qty
-Subtotal,Subtotal
-"Excl. Tax","Excl. Tax"
-Total,Total
-"Incl. Tax","Incl. Tax"
-"Total incl. tax","Total incl. tax"
 "Move to Wishlist","Move to Wishlist"
 "Edit item parameters","Edit item parameters"
-Edit,Edit
 "Remove item","Remove item"
-Item,Item
 "Unit Price","Unit Price"
 Loading...,Loading...
 "* Required Fields","* Required Fields"
-Change,Change
 "See price before order confirmation.","See price before order confirmation."
 "What's this?","What's this?"
 "1 item","1 item"

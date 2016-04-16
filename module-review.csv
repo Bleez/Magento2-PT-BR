@@ -8,25 +8,22 @@ Websites,Websites
 "A total of %1 record(s) have been deleted.","A total of %1 record(s) have been deleted."
 "A total of %1 record(s) have been updated.","A total of %1 record(s) have been updated."
 "Product Name","Product Name"
-Inactive,Inactive
 "View Details","View Details"
-Created,Created
 "Product Reviews","Product Reviews"
-Pending,Pending
-Review,Review
-Reviews,Reviews
-"Save Review","Save Review"
-"Add New Review","Add New Review"
-"Review Details","Review Details"
-"Product Rating","Product Rating"
-"Visible In","Visible In"
-Nickname,Nickname
+Review,Comentário
+Reviews,Comentários
+"Save Review","Salvar Comentário"
+"Add New Review","Novo Comentário"
+"Review Details","Detalhes do Comentário"
+"Product Rating","Avaliação do Produto"
+"Visible In","Visível Em"
+Nickname,Apelido
 "Summary of Review","Summary of Review"
 "Save and Previous","Save and Previous"
-"Save and Next","Save and Next"
-"Delete Review","Delete Review"
+"Save and Next","Salvar e Avançar"
+"Delete Review","Excluir Comentário"
 "Edit Review '%1'","Edit Review '%1'"
-"New Review","New Review"
+"New Review","Novo Comentário"
 "<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>","<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>"
 Administrator,Administrator
 "Posted By","Posted By"
@@ -48,7 +45,6 @@ Administrator,Administrator
 "New Rating","New Rating"
 "Rating Title","Rating Title"
 "Rating Visibility","Rating Visibility"
-"Is Active","Is Active"
 "Please specify a rating title for a store, or we'll just use the default value.","Please specify a rating title for a store, or we'll just use the default value."
 "Rating Information","Rating Information"
 "Customer Reviews","Customer Reviews"
@@ -83,15 +79,15 @@ Rating,Rating
 "My Recent Reviews","My Recent Reviews"
 "View All Reviews","View All Reviews"
 "Average Customer Rating:","Average Customer Rating:"
-"Your Rating:","Your Rating:"
-Rating:,Rating:
+"Your Rating:","Sua avaliação:"
+Rating:,Avaliação:
 "Your Review (submitted on %1):","Your Review (submitted on %1):"
 "Review (submitted on %1):","Review (submitted on %1):"
-"Back to My Reviews","Back to My Reviews"
-"Be the first to review this product","Be the first to review this product"
-"Write Your Own Review","Write Your Own Review"
-"You're reviewing:","You're reviewing:"
-"How do you rate this product?","How do you rate this product?"
+"Back to My Reviews","Voltar para Meus Comentários"
+"Be the first to review this product","Seja o primeiro a avaliar este produto"
+"Write Your Own Review","Escreva Seu Comentário"
+"You're reviewing:","Você está comentando:"
+"How do you rate this product?","Como você avalia este produto?"
 "%1 %2","%1 %2"
 "Summary of Your Review","Summary of Your Review"
 "Submit Review","Submit Review"

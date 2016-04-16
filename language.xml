@@ -3,5 +3,5 @@
     <code>pt_BR</code>
     <vendor>bleez</vendor>
     <package>pt_br</package>
-    <use vendor="magento" package="pt_br"/>
+    <!--<use vendor="magento" package="pt_br"/>-->
 </language>

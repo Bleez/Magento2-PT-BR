@@ -1,15 +1,3 @@
-Close,Close
-Cancel,Cancel
-"Add Products","Add Products"
-No,No
-"Delete File","Delete File"
-Delete,Delete
-Save,Save
-Yes,Yes
-"Please select items.","Please select items."
-Submit,Submit
-Error,Error
-"Please wait...","Please wait..."
 "Please select an option.","Please select an option."
 "This is a required field.","This is a required field."
 "Please enter a valid number in this field.","Please enter a valid number in this field."
@@ -19,7 +7,6 @@ Error,Error
 "Please select State/Province.","Please select State/Province."
 "Please enter a number greater than 0 in this field.","Please enter a number greater than 0 in this field."
 "Please enter a valid credit card number.","Please enter a valid credit card number."
-"Please wait, loading...","Please wait, loading..."
 "No records found.","No records found."
 Loading...,Loading...
 OK,OK
