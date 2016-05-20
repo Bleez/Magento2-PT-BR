@@ -1,0 +1,18 @@
+{
+    "name": "bleez/magento2-pt_br",
+    "description": "Magento2 pt_BR - Traduzido por Agência Bleez",
+    "version": "0.0.1",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "require": {
+        "magento/framework": "100.0.*"
+    },
+    "type": "magento2-language",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}

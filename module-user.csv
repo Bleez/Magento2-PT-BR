@@ -1,0 +1,120 @@
+All,Todos
+Custom,Custom
+Reset,Resetar
+"Account Information","Informações da conta"
+"User Name","Usuario"
+"First Name","Nome"
+"Last Name","Sobrenome"
+Email,Email
+"User Email","E-mail"
+"New Password","Nova Senha"
+"Password Confirmation","Confirmar senha"
+"Interface Locale","Interface Locale"
+Status,Status
+"Are you sure you want to do this?","Are you sure you want to do this?"
+System,Sistema
+"Access denied.","Acesso negado."
+"Log into Magento Admin Page","Acessar a administração do magento"
+"Magento Admin Panel","Painel de administração do magento"
+Active,Ativo
+Role,Role
+Inactive,Inativo
+Password,Senha
+"Reset Password","Recuperar senha"
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","Se existir uma conta assiciado a %1 você receberá um e-mail para recuperar sua senha."
+"Your password reset link has expired.","Seu link de recuperação de senha expirou."
+"Your password has been updated.","Sua senha foi atualizada."
+"The first name cannot be empty.","O campo nome é obrigatório."
+"The last name cannot be empty.","O campo sobrenome é obrigatório"
+"Please correct this email address: ""%1"".","Corrigir E-mail: ""%1""."
+"Back to Login","Voltar para o Login"
+"Confirm New Password","Confirmar nova senha"
+"Reset a Password","Recuperar senha"
+"Email Address:","Endereço de e-mail:"
+"Delete Role","Excluir Grupo"
+"Save Role","Salvar Grupo"
+Roles,Grupos
+"Add New Role","Adicionar novo grupo"
+"Role Information","Informações do grupo"
+"Role Users","Usuários do grupo"
+"User ID","User ID"
+"Role Resources","Recursos do Grupo"
+"Role Info","Informações do grupo"
+"Role Name","Nome do Grupo"
+"Add New User","Adicionar novo usuário"
+Users,Usuário
+"Save User","Salvar usuário"
+"Delete User","Excluir usuário"
+"Edit User '%1'","Editar usuário '%1'"
+"New User","Novo usuário"
+"This account is","Essa conta é"
+"Account Status","Status da conta"
+"User Roles Information","Informaçoes do grupo de usuário"
+Assigned,Assigned
+"User Information","Informações do usuário"
+"User Info","Informações do usuário"
+"User Role","Grupo do usuário"
+"Please correct this email address:","Corrigir E-mail::"
+"The email address is empty.","Email é obrigatório."
+"Please correct the password reset token.","Please correct the password reset token."
+"Please specify the correct account and try again.","Please specify the correct account and try again."
+Permissions,Permissões
+"This user no longer exists.","Esse usuário não existe."
+"Edit User","Editar usuário"
+"You saved the user.","Você salvou o usuário."
+"You cannot delete your own account.","Você não pode excluir sua própria conta."
+"You deleted the user.","Você excluiu o usuário."
+"We can't find a user to delete.","Não foi possivel encontrar usuario para excluir."
+"Edit Role","Editar Grupo"
+"New Role","Novo Grupp"
+"You cannot delete self-assigned roles.","You cannot delete self-assigned roles."
+"You deleted the role.","Você excluiu o grupo."
+"An error occurred while deleting this role.","Um erro aconteceu ao tentar excluir o grupo."
+"This role no longer exists.","Grupo não existe."
+"You saved the role.","Você salvou um grupo."
+"An error occurred while saving this role.","Um erro aconteceu ao tentar savar o grupo."
+"A user with the same user name or email already exists.","Um usuario com esse mesmo e-mail já existe."
+"User Name is a required field.","O campo usuário é obrigatório."
+"First Name is a required field.","O campo nome é obrigatório."
+"Last Name is a required field.","O campo sobrenome é obrigatório."
+"Please enter a valid email.","Insira um e-mail válido"
+"The user name cannot be empty.","Usuário é obrigatório."
+"Password is required field.","O campo senha é obrigatório."
+"Your password must be at least %1 characters.","Sua senha de conter pelo menos %1 caracteres."
+"Your password must include both numeric and alphabetic characters.","Sua senha deve conter numeros e letras."
+"Your password confirmation must match your password.","A confirmação da senha deve ser igual a senha."
+"You did not sign in correctly or your account is temporarily disabled.","Você não pode se logar sua conta foi desativada temporariamente."
+"Forgot your user name or password?","Esqueceu seu usuário ou sua senha?"
+"Retrieve Password","Recuperar Senha"
+"Roles Resources","Recursos do grupo"
+"Resource Access","Resource Access"
+Resources,Recursos
+"Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?"
+"Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?"
+"Reset Password Template","Template de recuperação de senha"
+No,Não
+Yes,Sim
+Username,Usuário
+"Locked Users","Usuário bloqueados"
+"Unlocked %1 user(s).","%1 Usuário(s) desbloqueados."
+"This account is locked.","Essa conta está bloquado."
+"It's time to change your password.","Está na hora de você mudar sua senha."
+"It's time to <a href=""%1"">change your password</a>.","Está na hora de você <a href=""%1"">mudar sua senha</a>."
+"Sorry, but this password has already been used. Please create another.","Desculpe, sua senha já está sendo usada, Crie outra."
+"Your password has expired; please contact your administrator.","Sua senha expirou; entre em contato com o administrador."
+Recommended,Recomendado
+Forced,Forced
+"Maximum Login Failures to Lockout Account","Tentativas maxima de logins para bloquear conta"
+"We will disable this feature if the value is empty.","We will disable this feature if the value is empty."
+"Lockout Time (minutes)","Lockout Time (minutes)"
+"Password Lifetime (days)","Password Lifetime (days)"
+"We will disable this feature if the value is empty. ","We will disable this feature if the value is empty. "
+"Password Change","Mudar senha"
+"Admin Accounts Locks","Administradores bloquados"
+Unlock,Desbloquear
+"Last login","Ultimo login"
+Failures,Failures
+Unlocked,Unlocked
+"All Users","Todos usuários"
+"User Roles","Grupos de usuários"
+"Your Password","Sua senha"

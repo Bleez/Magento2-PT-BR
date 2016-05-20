@@ -1,0 +1,58 @@
+All,Todos
+Close,Fechar
+Products,Produtos
+Apply,Aplicar
+"Design Theme","Design Theme"
+"-- Please Select --","-- Selecione --"
+"Sort Order","Ordenação"
+"Save and Continue Edit","Salvar e continuar editando"
+Type,Tipo
+Page,Página
+label,label
+"Frontend Properties","Propriedades de Frontend"
+Categories,Categorias
+Continue,Continuar
+CMS,CMS
+%1,%1
+"Open Chooser","Open Chooser"
+Settings,Configurações
+Template,Template
+"Not Selected","Not Selected"
+"Widget Insertion","Widget Insertion"
+"Insert Widget","Inserir Widget"
+Choose...,Escolha...
+Widget,Widget
+"Widget Type","Tipo de Widget"
+"Manage Widget Instances","Editar Widget"
+"Add New Widget Instance","Adicionar nova Widget"
+"Widget ""%1""","Widget ""%1"""
+"New Widget Instance","Nova Widget"
+"Custom Layouts","Custom Layouts"
+"Page Layouts","Page Layouts"
+"Please Select Container First","Selecione o container primeiro"
+"Design Package/Theme","Design Package/Theme"
+"Widget Instance Title","Titulo da widget"
+"Assign to Store Views","Assign to Store Views"
+"Sort Order of widget instances in the same container","Ordem das widget no mesmo container"
+"Layout Updates","Layout Updates"
+"Anchor Categories","Anchor Categories"
+"Non-Anchor Categories","Non-Anchor Categories"
+"All Product Types","Todos os tipos de produtos"
+"Generic Pages","Paginas Genéricas"
+"All Pages","Todas as páginas"
+"Specified Page","Página específica"
+"Add Layout Update","Add Layout Update"
+"Remove Layout Update","Remove Layout Update"
+"Widget Options","Opções da Widget"
+"Widget Instance","Widget Instance"
+"Please specify a Widget Type.","Escolha um tipo de widget."
+"Widgets","Widgets"
+"Please specify a correct widget.","Please specify a correct widget."
+"New Widget","Nova Widget"
+"The widget instance has been saved.","Widget salva."
+"The widget instance has been deleted.","Widget removida."
+description,description
+"We cannot create the widget instance because it is missing required information.","Não foi possivel criar widget por falta de informações obrigatórias."
+Container,Container
+"Specific %1","Specific %1"
+"Widget ID","Widget ID"
