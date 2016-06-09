@@ -2,7 +2,6 @@
 label,label
 Continue,Continue
 "We can't initialize the import model.","We can't initialize the import model."
-Currency,Currency
 "Please correct the target currency.","Please correct the target currency."
 "Undefined rate from ""%1-%2"".","Undefined rate from ""%1-%2""."
 "We can't retrieve a rate from %1.","We can't retrieve a rate from %1."
@@ -16,7 +15,7 @@ WARNING:,WARNING:
 "Your current currency is: %1.","Your current currency is: %1."
 "Start Time","Start Time"
 Frequency,Frequency
-"Currency Setup","Currency Setup"
+"Currency Setup","Configuração de Moeda"
 "Currency Options","Currency Options"
 "Base Currency","Base Currency"
 "
@@ -34,7 +33,7 @@ Webservicex,Webservicex
 "Error Email Template","Error Email Template"
 Service,Service
 "Installed Currencies","Installed Currencies"
-"Zip/Postal Code is Optional for","Zip/Postal Code is Optional for"
-"State Options","State Options"
-"State is Required for","State is Required for"
-"Allow to Choose State if It is Optional for Country","Allow to Choose State if It is Optional for Country"
+"Zip/Postal Code is Optional for","CEP é opcional para"
+"State Options","Opções de Estado"
+"State is Required for","Estado é Obrigatório para"
+"Allow to Choose State if It is Optional for Country","Permitir Escolher Estado Mesmo Sendo Opcional"

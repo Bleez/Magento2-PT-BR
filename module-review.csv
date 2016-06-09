@@ -58,7 +58,7 @@ Administrator,Administrator
 "You saved the rating.","You saved the rating."
 "You deleted the rating.","You deleted the rating."
 Ratings,Ratings
-"My Product Reviews","My Product Reviews"
+"My Product Reviews","Minhas Avaliações"
 "Your review has been accepted for moderation.","Your review has been accepted for moderation."
 "We cannot post the review.","We cannot post the review."
 "Storage key was not set","Storage key was not set"
@@ -69,9 +69,9 @@ Approved,Aprovado
 "The review field can't be empty.","The review field can't be empty."
 "Rating isn't Available","Rating isn't Available"
 "Assigned Options","Assigned Options"
-"Option Title:","Option Title:"
-Rating,Rating
-"You have submitted no reviews.","You have submitted no reviews."
+"Option Title:","Título:"
+Rating,Avaliação
+"You have submitted no reviews.","Você não fez nenhuma avaliação ainda."
 "My Recent Reviews","My Recent Reviews"
 "View All Reviews","View All Reviews"
 "Average Customer Rating:","Average Customer Rating:"

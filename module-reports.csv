@@ -8,10 +8,7 @@ Canceled,Canceled
 "In stock","In stock"
 "Out of stock","Out of stock"
 Day,Day
-Month,Month
-Year,Year
 "Search Query","Search Query"
-"Search Terms","Search Terms"
 "Add to Wishlist","Add to Wishlist"
 "Add to Compare","Add to Compare"
 "Items in Cart","Items in Cart"
@@ -113,7 +110,7 @@ Coupons,Coupons
 "Customer Shopping Carts","Customer Shopping Carts"
 "Products in Carts","Products in Carts"
 "Abandoned Carts","Abandoned Carts"
-Statistics,Statistics
+Statistics,Estatísticas
 "No report code is specified.","No report code is specified."
 "Recent statistics have been updated.","Recent statistics have been updated."
 "We can't refresh recent statistics.","We can't refresh recent statistics."

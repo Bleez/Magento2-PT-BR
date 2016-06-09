@@ -1,4 +1,3 @@
-"Please enter a valid number in this field.","Please enter a valid number in this field."
 "Please enter a valid date.","Please enter a valid date."
 "Please make sure your passwords match.","Please make sure your passwords match."
 "Please enter a valid zip code.","Please enter a valid zip code."
@@ -8,8 +7,6 @@
 "No records found.","No records found."
 Loading...,Loading...
 OK,OK
-"New Option","New Option"
-Import,Import
 "Please enter a number 0 or greater in this field.","Please enter a number 0 or greater in this field."
 "The From Date value should be less than or equal to the To Date value.","The From Date value should be less than or equal to the To Date value."
 "select all","select all"
@@ -24,7 +21,6 @@ Reauthorize,Reauthorize
 "Create New Wish List","Create New Wish List"
 "Please enter a valid credit card verification number.","Please enter a valid credit card verification number."
 "Edit Order","Edit Order"
-"Please specify a shipping method.","Please specify a shipping method."
 Complete,Complete
 "Upload Security Error","Upload Security Error"
 "Upload HTTP Error","Upload HTTP Error"

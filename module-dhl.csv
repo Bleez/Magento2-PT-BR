@@ -68,7 +68,7 @@ Debug,Debug
 "Handling Fee","Handling Fee"
 "Divide Order Weight","Divide Order Weight"
 "This allows breaking total order weight into smaller pieces if it exeeds 70 kg to ensure accurate calculation of shipping charges.","This allows breaking total order weight into smaller pieces if it exeeds 70 kg to ensure accurate calculation of shipping charges."
-"Weight Unit","Weight Unit"
+"Weight Unit","Unidade de Peso"
 "Allowed Methods","Allowed Methods"
 "Displayed Error Message","Displayed Error Message"
 "Free Method","Free Method"

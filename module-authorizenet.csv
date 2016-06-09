@@ -55,8 +55,8 @@ void,void
 "Amount of %1 approved by payment gateway. Transaction ID: ""%2"".","Amount of %1 approved by payment gateway. Transaction ID: ""%2""."
 "Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again."
 "Credit Card Type","Credit Card Type"
-"Credit Card Number","Credit Card Number"
-"Expiration Date","Expiration Date"
+"Credit Card Number","Número do Cartão"
+"Expiration Date","Validade"
 "Card Verification Number","Card Verification Number"
 "Click ""Cancel"" to remove any pending status and release money already processed during this payment.","Click ""Cancel"" to remove any pending status and release money already processed during this payment."
 "Please enter a different credit card number to complete your purchase.","Please enter a different credit card number to complete your purchase."
@@ -71,7 +71,6 @@ Processing...,Processing...
 "Sort Order","Sort Order"
 Title,Title
 "3D Secure Card Validation","3D Secure Card Validation"
-"New Order Status","New Order Status"
 "No confirmation","No confirmation"
 Authorize.net,Authorize.net
 "Credit Card Types","Credit Card Types"

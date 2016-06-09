@@ -1,6 +1,5 @@
 "Delete File","Delete File"
 Status,Status
-Disabled,Disabled
 "Save and Continue Edit","Save and Continue Edit"
 Title,Title
 "URL Key","URL Key"
@@ -52,13 +51,13 @@ Preview,Preview
 "Images (%1)","Images (%1)"
 "Storage Root","Storage Root"
 CMS,CMS
-Blocks,Blocks
+Blocks,Blocos
 "This block no longer exists.","This block no longer exists."
 "Edit Block","Edit Block"
 "The block has been saved.","The block has been saved."
 "The block has been deleted.","The block has been deleted."
 "We can't find a block to delete.","We can't find a block to delete."
-Pages,Pages
+Pages,Página
 "This page no longer exists.","This page no longer exists."
 "Edit Page","Edit Page"
 "The page has been saved.","The page has been saved."
@@ -82,7 +81,7 @@ Pages,Pages
 "We cannot delete root directory %1.","We cannot delete root directory %1."
 "Directory %1 is not under storage root path.","Directory %1 is not under storage root path."
 "No files found","No files found"
-Block,Block
+Block,Bloco
 Template,Template
 "Anchor Custom Text","Anchor Custom Text"
 "Anchor Custom Title","Anchor Custom Title"
@@ -94,7 +93,7 @@ Template,Template
 "Redirect to CMS-page if Cookies are Disabled","Redirect to CMS-page if Cookies are Disabled"
 "Show Notice if JavaScript is Disabled","Show Notice if JavaScript is Disabled"
 "Show Notice if Local Storage is Disabled","Show Notice if Local Storage is Disabled"
-"Content Management","Content Management"
+"Content Management","Gerenciamento de Conteúdo"
 "WYSIWYG Options","WYSIWYG Options"
 "Enable WYSIWYG Editor","Enable WYSIWYG Editor"
 "CMS Page Link","CMS Page Link"
@@ -110,4 +109,4 @@ Elements,Elements
 Blocks,Blocks
 Widgets,Widgets
 Themes,Themes
-Schedule,Schedule
+Schedule,Agendamento

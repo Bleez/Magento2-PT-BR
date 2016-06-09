@@ -19,10 +19,7 @@ Sku,Sku
 "You created the order.","You created the order."
 Orders,Pedidos
 Customer,Cliente
-Guest,Convidade
-"Account Information","Account Information"
 " [deleted]"," [deleted]"
-Dashboard,Dashboard
 title,title
 Specified,Specified
 Order,Order
@@ -53,14 +50,12 @@ Telephone,Telephone
 "Save in address book","Save in address book"
 Continue,Continue
 "Order #","Order #"
-"No Payment Methods","No Payment Methods"
 "Billing Address","Billing Address"
 "Payment Method","Payment Method"
 Sales,Vendas
 Select,Select
 Comment,Comment
 %1,%1
-"Add New Address","Add New Address"
 "Purchase Date","Purchase Date"
 "Bill-to Name","Bill-to Name"
 "Ship-to Name","Ship-to Name"
@@ -70,8 +65,7 @@ Comment,Comment
 Notified,Notified
 "Notify Customer by Email","Notify Customer by Email"
 Billing,Billing
-"Newsletter Subscription","Newsletter Subscription"
-"Order Status","Order Status"
+"Order Status","Status de Pedido"
 "View Order","View Order"
 Amount,Acumulado
 Message,Message
@@ -236,7 +230,7 @@ Reorder,Reorder
 "Order History","Order History"
 "Order Information","Order Information"
 "Order Invoices","Order Invoices"
-Shipments,Remessas
+Shipments,Envios
 "Order Shipments","Order Shipments"
 Transactions,Transações
 "Order View","Order View"
@@ -251,7 +245,7 @@ Value,Valor
 "Back to My Orders","Back to My Orders"
 "View Another Order","View Another Order"
 "About Your Refund","About Your Refund"
-"My Orders","My Orders"
+"My Orders","Meus Pedidos"
 "About Your Invoice","About Your Invoice"
 "Print Order # %1","Print Order # %1"
 "Grand Total to be Charged","Grand Total to be Charged"
@@ -406,9 +400,10 @@ Mixed,Mixed
 "Please set a proper payment object.","Please set a proper payment object."
 "The Transaction ID field cannot be empty.","The Transaction ID field cannot be empty."
 "You can't do this without a transaction object.","You can't do this without a transaction object."
-"Sold to:","Sold to:"
-"Ship to:","Ship to:"
-"Shipping Method:","Shipping Method:"
+"Sold to:","Vendido para:"
+"Ship to:","Enviar para:"
+"Ship To:","Enviar Para:"
+"Shipping Method:","Forma de Envio:"
 "Total Shipping Charges","Total Shipping Charges"
 "We found an invalid renderer model.","We found an invalid renderer model."
 "Please define the PDF object before using.","Please define the PDF object before using."
@@ -515,7 +510,7 @@ Complete,Complete
 "Print All Refunds","Print All Refunds"
 "Refund #","Refund #"
 "Print Refund","Print Refund"
-"You have placed no orders.","You have placed no orders."
+"You have placed no orders.","Você não fez nenhum pedido ainda."
 "<span class=""label"">Order Date:</span> %1","<span class=""label"">Order Date:</span> %1"
 "No shipping information available","No shipping information available"
 "Print Order","Print Order"
@@ -568,7 +563,7 @@ Comma-separated,Comma-separated
 "Multi-address Error to Show in Shopping Cart","Multi-address Error to Show in Shopping Cart"
 "We'll use the default error above if you leave this empty.","We'll use the default error above if you leave this empty."
 "Use Aggregated Data (beta)","Use Aggregated Data (beta)"
-"Sales Emails","Sales Emails"
+"Sales Emails","Emails de Venda"
 "New Order Confirmation Email Sender","New Order Confirmation Email Sender"
 "New Order Confirmation Template","New Order Confirmation Template"
 "New Order Confirmation Template for Guest","New Order Confirmation Template for Guest"
@@ -610,7 +605,7 @@ Shipment,Shipment
 "Credit Memo Comment Email Template for Guest","Credit Memo Comment Email Template for Guest"
 "Send Credit Memo Comment Email Copy To","Send Credit Memo Comment Email Copy To"
 "Send Credit Memo Comments Email Copy Method","Send Credit Memo Comments Email Copy Method"
-"PDF Print-outs","PDF Print-outs"
+"PDF Print-outs","Geração de PDF"
 "Display Order ID in Header","Display Order ID in Header"
 "Orders and Returns Search Form","Orders and Returns Search Form"
 "PDF Credit Memos","PDF Credit Memos"

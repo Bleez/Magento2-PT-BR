@@ -9,7 +9,7 @@ Sending,Sending
 Paused,Paused
 Newsletter,Newsletter
 Updated,Updated
-"Newsletter Subscription","Newsletter Subscription"
+"Newsletter Subscription","Inscrição na Newsletter"
 "Add New Template","Add New Template"
 "Delete Template","Delete Template"
 "Convert to Plain Text","Convert to Plain Text"
@@ -69,7 +69,7 @@ Subscribers,Subscribers
 "The newsletter template has been deleted.","The newsletter template has been deleted."
 "An error occurred while deleting this template.","An error occurred while deleting this template."
 "Something went wrong while saving your subscription.","Something went wrong while saving your subscription."
-"We saved the subscription.","We saved the subscription."
+"We saved the subscription.","Informações salvas."
 "We removed the subscription.","We removed the subscription."
 "The confirmation request has been sent.","The confirmation request has been sent."
 "Thank you for your subscription.","Thank you for your subscription."
@@ -99,7 +99,7 @@ Cancelled,Cancelled
 Subscribe,Inscrever
 CSV,CSV
 "Excel XML","Excel XML"
-"Subscription Options","Subscription Options"
+"Subscription Options","Opções de Inscrição"
 "Allow Guest Subscription","Allow Guest Subscription"
 "Need to Confirm","Need to Confirm"
 "Confirmation Email Sender","Confirmation Email Sender"

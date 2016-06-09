@@ -1,16 +1,13 @@
 No,No
 Discount,Discount
 "Credit Card Type","Credit Card Type"
-"Credit Card Number","Credit Card Number"
-"Expiration Date","Expiration Date"
 "Card Verification Number","Card Verification Number"
 "--Please Select--","--Please Select--"
 "Card Verification Number Visual Reference","Card Verification Number Visual Reference"
 "What is this?","What is this?"
 Yes,Yes
+"CVV","Número de Verificação"
 N/A,N/A
-Month,Month
-Year,Year
 "Start Date","Start Date"
 "We cannot retrieve the payment method model object.","We cannot retrieve the payment method model object."
 "We cannot retrieve the payment info model object.","We cannot retrieve the payment info model object."
@@ -37,4 +34,4 @@ Year,Year
 "Switch/Solo/Maestro Only","Switch/Solo/Maestro Only"
 "Issue Number","Issue Number"
 " is not available. You still can process offline actions."," is not available. You still can process offline actions."
-"Payment Methods","Payment Methods"
+"Payment Methods","Formas de Pagamento"

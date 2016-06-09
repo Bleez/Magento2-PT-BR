@@ -1,8 +1,5 @@
-"-- Please Select --","-- Please Select --"
 Status,Status
-Export,Export
 label,label
-Import,Import
 Continue,Continue
 "Export Settings","Export Settings"
 "Entity Type","Entity Type"
@@ -16,7 +13,7 @@ Filter,Filter
 "Import Behavior","Import Behavior"
 "File to Import","File to Import"
 "Select File to Import","Select File to Import"
-Import/Export,Import/Export
+Import/Export,Importar/Exportar
 "Please correct the data sent.","Please correct the data sent."
 "Import successfully done","Import successfully done"
 "File does not contain data. Please upload another one","File does not contain data. Please upload another one"

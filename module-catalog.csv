@@ -7,7 +7,6 @@ Qty,Qtd
 "Add to Cart","Adicionar ao Carrinho"
 "Adding...","Adicionando..."
 "Added","Adicionado"
-"-- Please Select --","-- Selecione --"
 "Custom Design","Tema"
 "Website","Website"
 Status,Status
@@ -21,7 +20,6 @@ Search,Busca
 Required,Required
 Website,Website
 "All Websites","All Websites"
-"Please enter a valid number in this field.","Please enter a valid number in this field."
 "Catalog","Catálogo"
 "Select Visible","Select Visible"
 "Unselect Visible","Unselect Visible"
@@ -36,10 +34,6 @@ Fixed,Fixo
 "Use Default Value","Usar Padrão"
 N/A,N/I
 Percent,Porcento
-"Option Title","Option Title"
-"Input Type","Input Type"
-"New Option","New Option"
-"Price Type","Price Type"
 "* Required Fields","* Obrigatório"
 Availability,Disponibilidade
 "In stock","Em estoque"
@@ -89,7 +83,7 @@ Scope,Escopo
 "Declare attribute value saving scope","Declara o escopo que o atributo será salvo"
 "Frontend Properties","Frontend Properties"
 "Use in Quick Search","Use in Quick Search"
-"Use in Advanced Search","Use in Advanced Search"
+"Use in Advanced Search","Usar na Busca Avançada"
 "Comparable on Frontend","Comparable on Frontend"
 "Use for Promo Rule Conditions","Usar Como Condição nas Regras de Promoção"
 "Allow HTML Tags on Storefront","Permitir Tags HTML"
@@ -157,11 +151,10 @@ Websites,Websites
 "Send Count","Send Count"
 "New Attribute","New Attribute"
 "Attribute Set","Grupo de Atributo"
-"Add New Option","Add New Option"
-"Import Options","Import Options"
-Import,Import
-"Add New Row","Add New Row"
-"Delete Row","Delete Row"
+"Add New Option","Nova Opção"
+"Import Options","Importar Opções"
+"Add New Row","Nova Linha"
+"Delete Row","Apagar Linha"
 "Tier Pricing","Tier Pricing"
 "Default Price","Default Price"
 "Add Group Price","Add Group Price"
@@ -223,7 +216,7 @@ Categories,Categorias
 "Something went wrong while trying to delete the category.","Something went wrong while trying to delete the category."
 "This product no longer exists.","This product no longer exists."
 "Unable to save product","Unable to save product"
-"You saved the product.","You saved the product."
+"You saved the product.","Produto salvo."
 "SKU for product %1 has been changed to %2.","SKU for product %1 has been changed to %2."
 "You duplicated the product.","You duplicated the product."
 "Please select product(s).","Please select product(s)."
@@ -243,9 +236,9 @@ Categories,Categorias
 "Attribute Set with name '%1' already exists.","Attribute Set with name '%1' already exists."
 "Something went wrong saving the attribute.","Something went wrong saving the attribute."
 "Attribute code ""%1"" is invalid. Please use only letters (a-z), ' 'numbers (0-9) or underscore(_) in this field, first character should be a letter.","Attribute code ""%1"" is invalid. Please use only letters (a-z), ' 'numbers (0-9) or underscore(_) in this field, first character should be a letter."
-"You can't update your attribute.","You can't update your attribute."
-"You saved the product attribute.","You saved the product attribute."
-"This attribute cannot be deleted.","This attribute cannot be deleted."
+"You can't update your attribute.","Não foi possível salvar o atributo."
+"You saved the product attribute.","Atributo salvo."
+"This attribute cannot be deleted.","Este atributo não pode ser excluído."
 "The product attribute has been deleted.","The product attribute has been deleted."
 "We can't find an attribute to delete.","We can't find an attribute to delete."
 "A group with the same name already exists.","A group with the same name already exists."
@@ -260,7 +253,7 @@ Categories,Categorias
 "New Product Template","New Product Template"
 "The attribute set has been removed.","The attribute set has been removed."
 "An error occurred while deleting this set.","An error occurred while deleting this set."
-"Search Terms","Search Terms"
+"Search Terms","Termos de Busca"
 "This search no longer exists.","This search no longer exists."
 "Edit Search","Edit Search"
 "You already have an identical search term query.","You already have an identical search term query."
@@ -302,7 +295,6 @@ frontend_label,frontend_label
 "Automatic (equalize price ranges)","Automatic (equalize price ranges)"
 "Automatic (equalize product counts)","Automatic (equalize product counts)"
 Manual,Manual
-"-- Please select --","-- Please select --"
 "Product Thumbnail Itself","Product Thumbnail Itself"
 "Parent Product Thumbnail","Parent Product Thumbnail"
 "12h AM/PM","12h AM/PM"
@@ -322,7 +314,7 @@ Center,Center
 "The category must be an instance of \Magento\Catalog\Model\Category.","The category must be an instance of \Magento\Catalog\Model\Category."
 "Please correct the category.","Please correct the category."
 "The attribute model is not defined.","The attribute model is not defined."
-Category,Category
+Category,Categoria
 "%1 - %2","%1 - %2"
 "The filter must be an object. Please set correct filter.","The filter must be an object. Please set correct filter."
 "%1 and above","%1 ou maior"
@@ -522,7 +514,7 @@ Show,Show
 "More Views","More Views"
 "Click on image to view it full sized","Click on image to view it full sized"
 "Click on image to zoom","Click on image to zoom"
-"Email to a Friend","Email to a Friend"
+"Email to a Friend","Email para Amigos"
 Details,Details
 Template,Template
 "File extension not known or unsupported type.","File extension not known or unsupported type."
@@ -703,9 +695,9 @@ Cost,Custo
 "Bulk Images & Price","Imagens e Preço em Massa"
 "Create New Value","Criar Novo Valor"
 "Add to Column Options","Adicionar nas Opções de Colunas"
-"Select ""Yes"" to add this attribute to the list of column options in the product grid.","Se marcado ""Sim"" o atributo é adicionado à lista de colunas disponiveis na grade de produtos."
+"Select ""Yes"" to add this attribute to the list of column options in the product grid.","Se marcado ""Sim"" o atributo é adicionado à lista de colunas disponiveis na grade de produtos da administração."
 "Use in Filter Options","Adicionar nas Opções de Filtro"
-"Select ""Yes"" to add this attribute to the list of filter options in the product grid.","Se marcado ""Sim"" o atributo é adicionado à lista de filtros disponiveis na grade de produtos."
+"Select ""Yes"" to add this attribute to the list of filter options in the product grid.","Se marcado ""Sim"" o atributo é adicionado à lista de filtros disponiveis na grade de produtos da administração."
 "Based on your selections <span class=""new-products-count"" data-bind=""text:countVariations""></span>
          new products will be created. Use this step to customize images and price for your new products.","Baseado na sua seleção <span class=""new-products-count"" data-bind=""text:countVariations""></span>
                                                                                                                      novos produtos serão criados. Use esse passo para personalizar as imagens e os preços dos produtos."
@@ -728,3 +720,4 @@ Cost,Custo
 "Choose existing Attribute Set","Escolha o Grupo de Atributo"
 "You need to choose options for your item.","Você precisa informar opções para este item."
 "More Information","Mais Informações"
+"We can't find products matching the selection.","Nenhum produto encontrado."

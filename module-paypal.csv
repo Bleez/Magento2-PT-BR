@@ -13,14 +13,12 @@ Continue,Continue
 "Order #","Order #"
 Login,Login
 "Payment Method","Payment Method"
-"Place Order","Place Order"
 "Sorry, no quotes are available for this order at this time.","Sorry, no quotes are available for this order at this time."
 Display,Display
 User,User
 Daily,Daily
 Never,Never
 Updated,Updated
-"Order Status","Order Status"
 "View Order","View Order"
 Event,Event
 "Please Select","Please Select"
@@ -346,7 +344,7 @@ Updated:,Updated:
 "Payment Method:","Payment Method:"
 "Ship To","Ship To"
 "Back to Billing Agreements","Back to Billing Agreements"
-"There are no billing agreements yet.","There are no billing agreements yet."
+"There are no billing agreements yet.","Você não aceitou nenhum termo de cobrança ainda."
 "New Billing Agreement","New Billing Agreement"
 "You will be redirected to the payment system website.","You will be redirected to the payment system website."
 Create...,Create...
@@ -365,7 +363,6 @@ Create...,Create...
 "Acceptance Mark","Acceptance Mark"
 "What is PayPal?","What is PayPal?"
 "Sign a billing agreement to streamline further purchases with PayPal.","Sign a billing agreement to streamline further purchases with PayPal."
-Schedule,Schedule
 Size,Size
 "Sorry, something went wrong.","Sorry, something went wrong."
 "Sorry, something went wrong. Please try again later.","Sorry, something went wrong. Please try again later."

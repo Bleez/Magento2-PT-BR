@@ -55,7 +55,7 @@ Shipping,Frete
 "All Store Views","Todas as Visões"
 "Save Account","Salvar Conta"
 "My Account","Minha Conta"
-"Account Information","Informações da Conta"
+"Account Information","Informações de Contato"
 "User Name","Nome de usuário"
 "First Name","Primeiro Nome"
 "Last Name","Último Nome"
@@ -64,10 +64,10 @@ Email,Email
 "New Password","Nova Senha"
 "Password Confirmation","Confirmação de senha"
 "Interface Locale","Interface Locale"
-"Save Cache Settings","Salvar Configurações de Cache"
-"Catalog Rewrites","Catalog Rewrites"
+"Save Cache Settings","Salvar"
+"Catalog Rewrites","Reescritas de Catalogo"
 Refresh,Atualizar
-"Images Cache","Images Cache"
+"Images Cache","Cache das imagens"
 Clear,Limpar
 "Search Index","Search Index"
 Rebuild,Recriar
@@ -81,7 +81,7 @@ Rebuild,Recriar
 Disable,Desabilitar
 Enable,Habilitar
 "Default Config","Configurações Padrão"
-"Save Config","Salvar Configurações"
+"Save Config","Salvar"
 [GLOBAL],[GLOBAL]
 [WEBSITE],[WEBSITE]
 "[STORE VIEW]","[VISÃO]"
@@ -211,14 +211,14 @@ Export,Exportar
 Submit,Enviar
 "Please correct the tab configuration and try again.","Please correct the tab configuration and try again."
 "You have logged out.","You have logged out."
-"Cache Management","Cache Management"
+"Cache Management","Gerenciamento de Cache"
 "You flushed the cache storage.","You flushed the cache storage."
 "The Magento cache storage has been flushed.","The Magento cache storage has been flushed."
 "%1 cache type(s) enabled.","%1 cache type(s) enabled."
 "An error occurred while enabling cache.","An error occurred while enabling cache."
 "%1 cache type(s) disabled.","%1 cache type(s) disabled."
 "An error occurred while disabling cache.","An error occurred while disabling cache."
-"%1 cache type(s) refreshed.","%1 cache type(s) refreshed."
+"%1 cache type(s) refreshed.","%1 tipo(s) de cache atualizado(s)."
 "An error occurred while refreshing cache.","An error occurred while refreshing cache."
 "Specified cache type(s) don't exist: ","Specified cache type(s) don't exist: "
 "The JavaScript/CSS cache has been cleaned.","The JavaScript/CSS cache has been cleaned."
@@ -238,7 +238,7 @@ System,Sistema
 "The account has been saved.","The account has been saved."
 "An error occurred while saving account.","An error occurred while saving account."
 "This section is not allowed.","This section is not allowed."
-"You saved the configuration.","You saved the configuration."
+"You saved the configuration.","Configuração salva."
 "An error occurred while saving this configuration:","An error occurred while saving this configuration:"
 "Synchronizing %1 to %2","Sicronizando %1 de %2"
 Synchronizing...,Sincronizando...
@@ -275,7 +275,7 @@ Synchronizing...,Sincronizando...
 "Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1."
 "You saved the custom variable.","You saved the custom variable."
 "You deleted the custom variable.","You deleted the custom variable."
-"URL Rewrites","URL Rewrites"
+"URL Rewrites","Reescrita de URL"
 "[New/Edit] URL Rewrite","[New/Edit] URL Rewrite"
 "The URL Rewrite has been saved.","The URL Rewrite has been saved."
 "An error occurred while saving URL Rewrite.","An error occurred while saving URL Rewrite."
@@ -366,19 +366,20 @@ password,senha
 "Magento ver. %1","Magento ver. %1"
 "Help Us Keep Magento Healthy - Report All Bugs","Help Us Keep Magento Healthy - Report All Bugs"
 "Account Setting","Configurações de Conta"
-"Customer View","Customer View"
-"Sign Out","Sign Out"
+"Customer View","Visualizar Loja"
+"Sign Out","Sair"
 "About the calendar","About the calendar"
 "Go Today","Hoje"
-Previous,Previous
+Previous,Anterior
 Next,Próximo
 WK,WK
 Time,Tempo
 Hour,Hora
 Minute,Minuto
 "Please select an option.","Selecione uma opção."
+"Please select an option.","Selecione uma opção"
 "This is a required field.","Campo obrigatório."
-"Please enter a valid number in this field.","Please enter a valid number in this field."
+"Please enter a valid number in this field.","Informe um número válido."
 "Please enter only numbers (1-9) into this field. Do not use spaces, commas, or any other characters.","Please enter only numbers (1-9) into this field. Do not use spaces, commas, or any other characters."
 "Please enter only letters (a-z) into this field.","Please enter only letters (a-z) into this field."
 "Please enter only numbers (0-9) or letters (a-z) into this field.","Please enter only numbers (0-9) or letters (a-z) into this field."
@@ -386,7 +387,7 @@ Minute,Minuto
 "Please enter only letters (a-z), numbers (0-9), spaces and the ""#"" character into this field.","Please enter only letters (a-z), numbers (0-9), spaces and the ""#"" character into this field."
 "Please enter a valid phone number (for example, (123) 456-7890 or 123-456-7890).","Please enter a valid phone number (for example, (123) 456-7890 or 123-456-7890)."
 "Please enter a valid date.","Please enter a valid date."
-"Please enter a valid email address(for example johndoe@domain.com.).","Please enter a valid email address(for example johndoe@domain.com.)."
+"Please enter a valid email address(for example johndoe@domain.com.).","Informe um endereço válido(exemplo joao@gmail.com.)."
 "Please enter 6 or more characters.","Please enter 6 or more characters."
 "Please make sure your passwords match.","Please make sure your passwords match."
 "Please enter a valid URL (for example, the URL must begin with ""http://"").","Please enter a valid URL (for example, the URL must begin with ""http://"")."
@@ -449,15 +450,15 @@ City,Cidade
 "VAT Number","CPF"
 "Street Address","Endereço"
 "Media Storage","Media Storage"
-Admin,Admin
+Admin,Administração
 Advanced,Avançado
 "Transactional Emails","Emails Transacionais"
-"Store Name","Store Name"
-"Store Phone Number","Store Phone Number"
-Region/State,Region/State
+"Store Name","Nome da Loja"
+"Store Phone Number","Telefone da Loja"
+"Region/State","Estado"
 "Sender Name","Sender Name"
 "Sender Email","Sender Email"
-Locale,Locale
+Locale,Localização
 "Base URL","Base URL"
 "Enable Charts","Enable Charts"
 "Secure Base URL","Secure Base URL"
@@ -465,9 +466,9 @@ Host,Host
 "File extension not known or unsupported type.","File extension not known or unsupported type."
 Debug,Debug
 "System(config.xml, local.xml) and modules configuration files(config.xml, menu.xml).","System(config.xml, local.xml) and modules configuration files(config.xml, menu.xml)."
-Services,Services
+Services,Serviços
 "Disable Modules Output","Disable Modules Output"
-"Store Email Addresses","Store Email Addresses"
+"Store Email Addresses","Emails da Loja"
 "Custom Email 1","Custom Email 1"
 "Custom Email 2","Custom Email 2"
 "General Contact","General Contact"
@@ -517,19 +518,19 @@ Developer,Desenvolvedor
 "Image Adapter","Image Adapter"
 "Static Files Settings","Configurações de Arquivos Estáticos"
 "Sign Static Files","Sign Static Files"
-"Country Options","Country Options"
-"Allow Countries","Allow Countries"
-"Default Country","Default Country"
-"European Union Countries","European Union Countries"
-"Locale Options","Locale Options"
-Timezone,Timezone
-"First Day of Week","First Day of Week"
-"Weekend Days","Weekend Days"
-"ZIP/Postal Code","CEP"
-"Street Address Line 2","Street Address Line 2"
-"Single-Store Mode","Single-Store Mode"
-"Enable Single-Store Mode","Enable Single-Store Mode"
-"This setting will not be taken into account if system has more than one store view.","This setting will not be taken into account if system has more than one store view."
+"Country Options","Opções de País"
+"Allow Countries","Países Permitidos"
+"Default Country","País Padrão"
+"European Union Countries","Países da União Europeia"
+"Locale Options","Opções de Localização"
+"Timezone","Fuso Horário"
+"First Day of Week","Primeiro Dia da Semana"
+"Weekend Days","Fins de Semana"
+"Zip/Postal Code","CEP"
+"Street Address Line 2","Número"
+"Single-Store Mode","Modo Loja Única"
+"Enable Single-Store Mode","Ativar Modo Loja Única"
+"This setting will not be taken into account if system has more than one store view.","Essa função não funcionará se houver mais de uma Visão de Loja."
 "Mail Sending Settings","Mail Sending Settings"
 "Disable Email Communications","Disable Email Communications"
 "Port (25)","Porta (25)"
@@ -558,27 +559,24 @@ Security,Security
 "Admin Session Lifetime (seconds)","Admin Session Lifetime (seconds)"
 "Values less than 60 are ignored.","Values less than 60 are ignored."
 Web,Web
-"Url Options","Url Options"
-"Add Store Code to Urls","Add Store Code to Urls"
-"
-                        <strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).
-                    ","
-                        <strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).
-                    "
-"Auto-redirect to Base URL","Auto-redirect to Base URL"
+"Url Options","Opções de URL"
+"Add Store Code to Urls","Adicionar Código da Loja na URL"
+"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red"">Atenção!</strong> Se esta opção estiver habilitada o sistema pode não responder caso a URL esteja sendo usada por serviços externos como PagSeguro, Paypal, etc."
+"Auto-redirect to Base URL","Redirecionamento para Página Inicial"
+"I.e. redirect from http://example.com/store/ to http://www.example.com/store/","Exemplo: domínio sem www redireciona para domínio com www."
 "Search Engine Optimization","Search Engine Optimization"
-"Use Web Server Rewrites","Use Web Server Rewrites"
-"Base URLs","Base URLs"
-"Specify URL or {{base_url}} placeholder.","Specify URL or {{base_url}} placeholder."
+"Use Web Server Rewrites","Usar Reescrita do Servidor"
+"Base URLs","URLs Base"
+"Specify URL or {{base_url}} placeholder.","Informe uma URL ou use a variável {{base_url}}."
 "Base Link URL","Base Link URL"
 "Base URL for Static View Files","Base URL for Static View Files"
-"May be empty or start with {{unsecure_base_url}} placeholder.","May be empty or start with {{unsecure_base_url}} placeholder."
+"May be empty or start with {{unsecure_base_url}} placeholder.","Informe uma URL ou use a variável {{unsecure_base_url}}."
 "Base URL for User Media Files","Base URL for User Media Files"
 "Base URLs (Secure)","Base URLs (Secure)"
-"Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder."
+"Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","Informe uma URL ou use a variável {{base_url}} ou {{unsecure_base_url}}."
 "Secure Base Link URL","Secure Base Link URL"
 "Secure Base URL for Static View Files","Secure Base URL for Static View Files"
-"May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder."
+"May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","Informe uma URL ou use a variável  {{secure_base_url}} ou {{unsecure_base_url}}."
 "Secure Base URL for User Media Files","Secure Base URL for User Media Files"
 "Use Secure URLs in Frontend","Use Secure URLs in Frontend"
 "Use Secure URLs in Admin","Use Secure URLs in Admin"
@@ -613,16 +611,16 @@ Options,Options
 "You saved the account.","Você salvou a conta."
 "Current User Identity Verification","Current User Identity Verification"
 Marketing,Marketing
-Communications,Communications
-"SEO & Search","SEO & Search"
+Communications,Comunicação
+"SEO & Search","SEO & Busca"
 "User Content","Conteúdo do Usuário"
 "Data Transfer","Data Transfer"
-"Import History","Import History"
-Extensions,Extensions
+"Import History","Histórico de Importação"
+Extensions,Extensões
 "Web Setup Wizard","Web Setup Wizard"
 "VAT number","CPF"
-"Top destinations","Top destinations"
-"Store Hours of Operation","Store Hours of Operation"
+"Top destinations","Destinos Principais"
+"Store Hours of Operation","Hora de Funcionamento"
 "Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. http://example.com/magento/","Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. http://example.com/magento/"
 "Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. https://example.com/magento/","Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. https://example.com/magento/"
 "Use Secure URLs on Storefront","Use Secure URLs on Storefront"
@@ -650,3 +648,6 @@ or,ou
 "Delete items","Excluir Itens"
 "Delete selected items?","Excluir itens selecionados?"
 selected,selecionado(s)
+"Other Settings","Outras Configurações"
+"Data Transfer","Transferência de Dados"
+Address,Endereço

@@ -1,7 +1,6 @@
 Subtotal,Subtotal
 Discount,Discount
 "Grand Total","Grand Total"
-Tax,Tax
 "Store Credit","Store Credit"
 "An item option with code %1 already exists.","An item option with code %1 already exists."
 "Discount (%1)","Discount (%1)"
@@ -25,6 +24,5 @@ Tax,Tax
 "Some item options or their combination are not currently available.","Some item options or their combination are not currently available."
 "The requested Payment Method is not available.","The requested Payment Method is not available."
 "Please check the shipping address information. %1","Please check the shipping address information. %1"
-"Please specify a shipping method.","Please specify a shipping method."
 "Please check the billing address information. %1","Please check the billing address information. %1"
 "Please select a valid payment method.","Please select a valid payment method."

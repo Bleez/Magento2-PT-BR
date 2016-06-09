@@ -28,7 +28,6 @@ Inactive,Inactive
 "From Date","From Date"
 "To Date","To Date"
 Priority,Priority
-Promotions,Promotions
 "Edit Rule","Edit Rule"
 "The rule has been saved.","The rule has been saved."
 "An error occurred while saving the rule data. Please review the log and try again.","An error occurred while saving the rule data. Please review the log and try again."
@@ -66,7 +65,7 @@ CSV,CSV
 "Total Weight","Total Weight"
 "Discount (%1)","Discount (%1)"
 "Store View Specific Labels","Store View Specific Labels"
-"Shopping Cart Price Rules","Shopping Cart Price Rules"
+"Shopping Cart Price Rules","Regras de Carrinho"
 "Update prices using the following information","Update prices using the following information"
 "Percent of product price discount","Percent of product price discount"
 "Fixed amount discount","Fixed amount discount"
@@ -96,7 +95,7 @@ Labels,Labels
 "Uses per Coupon","Uses per Coupon"
 "Uses per Customer","Uses per Customer"
 "Public In RSS Feed","Public In RSS Feed"
-"Cart Price Rules","Cart Price Rules"
+"Cart Price Rules","Regras de Carrinho"
 "New Cart Price Rule","New Cart Price Rule"
 "The wrong rule is specified.","The wrong rule is specified."
 "We can't find a rule to delete.","We can't find a rule to delete."

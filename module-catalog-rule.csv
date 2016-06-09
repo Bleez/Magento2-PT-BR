@@ -17,7 +17,7 @@ Active,Active
 "This rule no longer exists.","This rule no longer exists."
 Websites,Websites
 "Apply Rules","Apply Rules"
-"Catalog Price Rules","Catalog Price Rules"
+"Catalog Price Rules","Regras de Catálogo"
 "Add New Rule","Add New Rule"
 "Save and Apply","Save and Apply"
 "Edit Rule '%1'","Edit Rule '%1'"
@@ -38,8 +38,8 @@ Inactive,Inactive
 "From Date","From Date"
 "To Date","To Date"
 Priority,Priority
-"Catalog Price Rule","Catalog Price Rule"
-Promotions,Promotions
+"Catalog Price Rule","Regras de Catálogo"
+Promotions,Promoções
 Promo,Promo
 "New Catalog Price Rule","New Catalog Price Rule"
 "Edit Rule","Edit Rule"

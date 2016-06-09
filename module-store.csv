@@ -1,6 +1,4 @@
 "All Store Views","All Store Views"
-"-- Please Select --","-- Please Select --"
-Admin,Admin
 "Store with the same code","Store with the same code"
 "Website with the same code","Website with the same code"
 "Website code may only contain letters (a-z), numbers (0-9) or underscore(_), the first character must be a letter","Website code may only contain letters (a-z), numbers (0-9) or underscore(_), the first character must be a letter"
@@ -21,6 +19,5 @@ Layouts,Layouts
 "Paths to pre-processed view files (e.g, CSS files with fixed paths or generated from LESS files).","Paths to pre-processed view files (e.g, CSS files with fixed paths or generated from LESS files)."
 "Collections Data","Collections Data"
 "Collection data files.","Collection data files."
-"All Stores","All Stores"
-"Other Settings","Other Settings"
-Attribute,Attribute
+"All Stores","Todas as Lojas"
+Attribute,Atributo
