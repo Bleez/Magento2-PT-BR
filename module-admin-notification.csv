@@ -10,30 +10,30 @@ close,fechar
 "Read details","Leia os Detalhes"
 Notifications,Notificações
 "The message has been marked as Read.","A mensagem foi marcada como lida."
-"We couldn't mark the notification as Read because of an error.","We couldn't mark the notification as Read because of an error."
-"Please select messages.","Please select messages."
-"A total of %1 record(s) have been marked as Read.","A total of %1 record(s) have been marked as Read."
-"The message has been removed.","The message has been removed."
-"We couldn't remove the messages because of an error.","We couldn't remove the messages because of an error."
-"Total of %1 record(s) have been removed.","Total of %1 record(s) have been removed."
-"1 Hour","1 Hour"
-"2 Hours","2 Hours"
-"6 Hours","6 Hours"
-"12 Hours","12 Hours"
-"24 Hours","24 Hours"
+"We couldn't mark the notification as Read because of an error.","Não conseguimos marcar a notificação como Lida devido a um erro."
+"Please select messages.","Por favor selecione as mensagens."
+"A total of %1 record(s) have been marked as Read.","Um total de %1 entrada(s) foi marcada como Lida."
+"The message has been removed.","A mensagem foi removida."
+"We couldn't remove the messages because of an error.","Não conseguimos remover as mensagens devido a um erro."
+"Total of %1 record(s) have been removed."," %1 entrada(s) removida(s)."
+"1 Hour","1 Hora"
+"2 Hours","2 Horas"
+"6 Hours","6 Horas"
+"12 Hours","12 Horas"
+"24 Hours","24 Horas"
 critical,critical
 major,major
 minor,minor
 notice,notice
-"Wrong message type","Wrong message type"
+"Wrong message type","Tipo de mensagem errado"
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. It is highly recommended to change this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. It is highly recommended to change this value in your Magento <a href=""%1"">configuration</a>."
 "One or more of the Cache Types are invalidated: %1. ","One or more of the Cache Types are invalidated: %1. "
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Please go to <a href=""%1"">Cache Management</a> and refresh cache types."
 "One or more media files failed to be synchronized during the media storages synchronization process. Refer to the log file for details.","One or more media files failed to be synchronized during the media storages synchronization process. Refer to the log file for details."
-"Synchronization of media storages has been completed.","Synchronization of media storages has been completed."
+"Synchronization of media storages has been completed.","A sincronização dos repositórios de mídia foi concluida."
 "Your web server is configured incorrectly. As a result, configuration files with sensitive information are accessible from the outside. Please contact your hosting provider.","Your web server is configured incorrectly. As a result, configuration files with sensitive information are accessible from the outside. Please contact your hosting provider."
 "We appreciate our merchants' feedback. Please <a href=""#"" data-mage-init=%1>take our survey</a> and tell us about features you'd like to see in Magento.","We appreciate our merchants' feedback. Please <a href=""#"" data-mage-init=%1>take our survey</a> and tell us about features you'd like to see in Magento."
-"Close popup","Close popup"
+"Close popup","Fechar popup"
 Close,Close
 "Critical System Messages","Mensagens Críticas"
 "Major System Messages","Mensagens Prioritárias"
@@ -41,10 +41,10 @@ Close,Close
 "System messages:","Mensagens do sistema:"
 Notification,Notificações
 Acknowledge,Acknowledge
-"See All (%1 unread)","See All (%1 unread)"
+"See All (%1 unread)","Ver todas (%1 não lida)"
 Message,Mensagem
 "Use HTTPS to Get Feed","Use HTTPS to Get Feed"
-"Update Frequency","Update Frequency"
-"Last Update","Last Update"
+"Update Frequency","Atualizar Frequência"
+"Last Update","Última Atualização"
 Severity,Severity
-"Date Added","Date Added"
+"Date Added","Inserido em"
