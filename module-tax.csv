@@ -11,7 +11,6 @@ Code,Code
 "New Rule","New Rule"
 Priority,Priority
 "Edit Rule","Edit Rule"
-"Billing Address","Billing Address"
 "Endereço de Entrega","Shipping Address"
 CSV,CSV
 "Excel XML","Excel XML"
@@ -22,7 +21,6 @@ Rate,Rate
 "Grand Total Incl. Tax","Grand Total Incl. Tax"
 "Subtotal (Excl. Tax)","Subtotal (Excl. Tax)"
 "Subtotal (Incl. Tax)","Subtotal (Incl. Tax)"
-"Row Total","Row Total"
 "Tax Rate Information","Tax Rate Information"
 "Tax Identifier","Tax Identifier"
 "Zip/Post is Range","Zip/Post is Range"

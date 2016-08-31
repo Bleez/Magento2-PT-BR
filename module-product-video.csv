@@ -1,4 +1,5 @@
 "Add video","Adicionar vídeo"
+"Add Video","Adicionar Vídeo"
 "New Video","Novo Vídeo"
 "Product Video","Vídeo do Produto"
 "YouTube API key","YouTube API key"
@@ -7,3 +8,5 @@
 "Preview Image","Pré-visualizar"
 "Get Video Information","Informações do vídeo"
 "Youtube or Vimeo supported","Suporta Youtube ou Vimeo"
+"Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.","Aceita Vimeo.<br />Para Youtube você precisa <a href=""%1"">informar sua Chave de API</a>."
+"Maximum 255 chars. Meta Description should optimally be between 150-160 characters","Recomendado entre 150 e 160 caracteres"

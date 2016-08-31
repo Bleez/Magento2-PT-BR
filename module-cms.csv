@@ -3,9 +3,7 @@ Status,Status
 "Save and Continue Edit","Save and Continue Edit"
 Title,Title
 "URL Key","URL Key"
-Description,Description
 Home,Home
-"Browse Files...","Browse Files..."
 Content,Conteúdo
 "Go to Home Page","Go to Home Page"
 px.,px.
@@ -42,7 +40,7 @@ Created:,Criado:
 Modified,Modificado
 Preview,Preview
 "Media Storage","Media Storage"
-"Create Folder...","Create Folder..."
+"Create Folder...","Criar Pasta"
 "Delete Folder","Delete Folder"
 "Insert File","Insert File"
 "New Folder Name:","New Folder Name:"
@@ -96,17 +94,22 @@ Template,Template
 "Content Management","Gerenciamento de Conteúdo"
 "WYSIWYG Options","WYSIWYG Options"
 "Enable WYSIWYG Editor","Enable WYSIWYG Editor"
-"CMS Page Link","CMS Page Link"
+"CMS Page Link","Link para Página de Conteúdo"
+"CMS Static Block","Bloco de Conteúdo"
 "Link to a CMS Page","Link to a CMS Page"
 "CMS Page","CMS Page"
 "If empty, the Page Title will be used","If empty, the Page Title will be used"
 "CMS Page Link Block Template","CMS Page Link Block Template"
 "CMS Page Link Inline Template","CMS Page Link Inline Template"
-"CMS Static Block","CMS Static Block"
 "Contents of a Static Block","Contents of a Static Block"
 "CMS Static Block Default Template","CMS Static Block Default Template"
-Elements,Elements
-Blocks,Blocks
+Elements,Elementos
+Blocks,Blocos
 Widgets,Widgets
-Themes,Themes
+Themes,Temas
 Schedule,Agendamento
+"Search Engine Optimisation","SEO"
+"Custom Design Update","Agendamento de Mudança de Layout"
+"Enable Page","Habilitar"
+"Page in Websites","Websites"
+"You saved the page.","Salvo com sucesso."

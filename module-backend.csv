@@ -36,6 +36,7 @@ Customer,Cliente
 Guest,Convidado
 Items,Itens
 "Grand Total","Total"
+"Grand Total:","Total:"
 "Lifetime Sales","Todas as Vendas"
 "Average Orders","Média de Pedidos"
 "Search Term","Termo de Pesquisa"
@@ -90,7 +91,7 @@ Enable,Habilitar
 Add,Adicionar
 "Delete File","Excluir Arquivo"
 "Search String","Search String"
-"Design Theme","Design Theme"
+"Design Theme","Tema"
 "Add \Exception","Add \Exceção"
 "-- No Theme --","-- Sem Tema --"
 Synchronize,Sincronizar
@@ -103,6 +104,7 @@ Save,Salvar
 "General Settings","Configuração Geral"
 Store,Loja
 "-- Please Select --","-- Selecione --"
+"-- Please select --","-- Selecione --"
 "Custom Design","Design Customizado"
 "Date From","Date From"
 "Date To","Date To"
@@ -200,7 +202,11 @@ To:,Até:
 "Date selector","Date selector"
 "[ deleted ]","[ deletado ]"
 "Select All","Selecionar Tudo"
+"Select all","Selecionar Tudo"
 "Deselect All","Desselecionar Tudo"
+"Deselect all","Desselecionar Tudo"
+"Unselect All","Desselecionar Tudo"
+"Unselect all","Desselecionar Tudo"
 " [deleted]"," [deletado]"
 "We couldn\'t find any records.","Não há registros."
 "We couldn't find any records.","Não há registros."
@@ -239,6 +245,7 @@ System,Sistema
 "An error occurred while saving account.","An error occurred while saving account."
 "This section is not allowed.","This section is not allowed."
 "You saved the configuration.","Configuração salva."
+"You saved the block.","Salvo com sucesso."
 "An error occurred while saving this configuration:","An error occurred while saving this configuration:"
 "Synchronizing %1 to %2","Sicronizando %1 de %2"
 Synchronizing...,Sincronizando...
@@ -326,6 +333,7 @@ Bcc,Bcc
 "%1 (Default)","%1 (Default)"
 title,title
 Optional,Opcional
+optional,opcional
 Required,Obrigatorio
 Website,Website
 "File System","Arquivos do Sistema"
@@ -336,6 +344,7 @@ Database,Database
 "Yes (301 Moved Permanently)","Yes (301 Moved Permanently)"
 Specified,Specified
 Order,Pedido
+"Order # %1","Pedido #%1"
 "Order #%1","Pedido #%1"
 "Order #%1 (%2)","Pedido #%1 (%2)"
 "Access denied","Accesso negado"
@@ -360,7 +369,6 @@ password,senha
 "View Statistics For:","View Statistics For:"
 "All Websites","Todos Websites"
 "Shipping Amount","Shipping Amount"
-"Tax Amount","Tax Amount"
 "Browse Files...","Browse Files..."
 "Copyright&copy; %1 Magento Commerce Inc. All rights reserved.","Copyright&copy; %1 Magento Commerce Inc. All rights reserved."
 "Magento ver. %1","Magento ver. %1"
@@ -481,7 +489,7 @@ Services,Serviços
                         Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>
                     "
 "Find a string in client user-agent header and switch to specific design theme for that browser.","Find a string in client user-agent header and switch to specific design theme for that browser."
-Pagination,Pagination
+Pagination,Paginação
 "Pagination Frame","Pagination Frame"
 "How many links to display at once.","How many links to display at once."
 "Pagination Frame Skip","Pagination Frame Skip"
@@ -639,6 +647,7 @@ Extensions,Extensões
 "Reload Data","Atualizar"
 "Welcome, please sign in","Bem vindo! Faça seu login."
 "Sign In","Entrar"
+"Sign in","Entrar"
 "Filters","Filtros"
 "Active filters:","Filtros aplicados:"
 "Please wait...","Aguarde..."
@@ -651,3 +660,5 @@ selected,selecionado(s)
 "Other Settings","Outras Configurações"
 "Data Transfer","Transferência de Dados"
 Address,Endereço
+"The order confirmation email was sent","Email de confirmação foi enviado"
+"Your current session has been expired.","Sua sessão expirou."

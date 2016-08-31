@@ -16,15 +16,9 @@ WARNING:,WARNING:
 "Start Time","Start Time"
 Frequency,Frequency
 "Currency Setup","Configuração de Moeda"
-"Currency Options","Currency Options"
-"Base Currency","Base Currency"
-"
-                        Base currency is used for all online payment transactions. If you have more than one store view, the base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").
-                    ","
-                        Base currency is used for all online payment transactions. If you have more than one store view, the base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").
-                    "
-"Default Display Currency","Default Display Currency"
-"Allowed Currencies","Allowed Currencies"
+"Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").","Moeda base é usada para todas as transações online. Se você tem mais de uma visão de loja, o escopo da moeda base é definido pelo escopo do preço (""Cataloga"" > ""Preço"" > ""Escopo"")."
+"Default Display Currency","Moeda de Exibição"
+"Allowed Currencies","Moedas Permitidas"
 Webservicex,Webservicex
 "Connection Timeout in Seconds","Connection Timeout in Seconds"
 "Scheduled Import Settings","Scheduled Import Settings"

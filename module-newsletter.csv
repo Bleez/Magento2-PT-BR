@@ -24,8 +24,8 @@ Updated,Updated
 "New Template","New Template"
 Template,Template
 "Are you sure that you want to delete this template?","Are you sure that you want to delete this template?"
-"Sender Name","Sender Name"
-"Sender Email","Sender Email"
+"Sender Name","Nome do Remetente"
+"Sender Email","Email do Remetente"
 Message,Message
 Recipients,Recipients
 "Please enter a valid email address.","Please enter a valid email address."

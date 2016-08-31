@@ -1,12 +1,12 @@
 "Percent Discount","Percent Discount"
 "Create New Option","Create New Option"
-"Bundle Items","Bundle Items"
-"Add Products to Option","Add Products to Option"
+"Bundle Items","Itens do Pacote"
+"Add Products to Option","Adicionar Produtos"
 "Delete Option","Delete Option"
 "Please enter search conditions to view products.","Please enter search conditions to view products."
 "There is no defined renderer for ""%1"" option type.","There is no defined renderer for ""%1"" option type."
-"As Low as","As Low as"
-"Price Range","Price Range"
+"As Low as","A partir de"
+"Price Range","Faixa de Preço"
 "Please specify product option(s).","Please specify product option(s)."
 "Please select all required options.","Please select all required options."
 "The required options you selected are not available.","The required options you selected are not available."
@@ -15,23 +15,18 @@ N/A,N/A
 Percent,Percent
 Qty:,Qtd:
 "Choose a selection...","Choose a selection..."
-"Ship Bundle Items","Ship Bundle Items"
-Separately,Separately
-Together,Together
+"Ship Bundle Items","Envio dos Itens"
+Separately,Separado
+Together,Junto
 "Option Title","Título"
 "Store View Title","Store View Title"
 "Input Type","Tipo"
 "There are no products in this option.","There are no products in this option."
 "New Option","Nova Opção"
-Default,Default
+Default,Padrão
 "Price Type","Tipo do Preço"
-"Default Quantity","Default Quantity"
-"User Defined","User Defined"
-Ordered,Ordered
-Invoiced,Invoiced
-Shipped,Shipped
-Refunded,Refunded
-Canceled,Canceled
+"Default Quantity","Qtd. Padrão"
+"User Defined","Definido Pelo Usuário"
 "As low as","As low as"
 "Buy %1 with %2 discount each","Buy %1 with %2 discount each"
 "Go back to product details","Go back to product details"
@@ -49,4 +44,3 @@ Message:,Message:
 "Total Incl. Tax","Total Incl. Tax"
 "Add Products to New Option","Add Products to New Option"
 "Add Products to Option ""%1""","Add Products to Option ""%1"""
-"Add Selected Products","Add Selected Products"

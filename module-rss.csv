@@ -1,6 +1,5 @@
 Subtotal,Subtotal
 Discount,Discount
-"Grand Total","Grand Total"
 "Gift Message","Gift Message"
 Message:,Message:
 "Click for price","Click for price"
@@ -41,8 +40,8 @@ Comment:,Comment:
 "Get Feed","Get Feed"
 "Category Feeds","Category Feeds"
 "There are no Rss Feeds.","There are no Rss Feeds."
-"Customer Name: %1","Customer Name: %1"
-"Purchased From: %1","Purchased From: %1"
+"Customer Name: %1","Cliente: %1"
+"Purchased From: %1","Loja: %1"
 "Discount (%1)","Discount (%1)"
 "Shipping &amp; Handling","Shipping &amp; Handling"
 "RSS Feeds","RSS Feeds"

@@ -1,27 +1,27 @@
 "Conditions Combination","Conditions Combination"
-contains,contains
+contains,contém
 "Open Chooser","Open Chooser"
-"is one of","is one of"
-"is not one of","is not one of"
-"equals or greater than","equals or greater than"
-"equals or less than","equals or less than"
-"greater than","greater than"
-"less than","less than"
-is,is
-"is not","is not"
+"is one of","está entre"
+"is not one of","não está entre"
+"equals or greater than","maior ou igual a"
+"equals or less than","menor ou igual a"
+"greater than","maior que"
+"less than","menor que"
+is,é
+"is not","não é"
 "Invalid discount amount.","Invalid discount amount."
 "End Date must follow Start Date.","End Date must follow Start Date."
 "Websites must be specified.","Websites must be specified."
 "Customer Groups must be specified.","Customer Groups must be specified."
 to,to
-by,by
-"Please choose an action to add.","Please choose an action to add."
+by,por
+"Please choose an action to add.","Escolha uma ação"
 "Perform following actions","Perform following actions"
-"does not contain","does not contain"
-"Please choose a condition to add.","Please choose a condition to add."
+"does not contain","não contém"
+"Please choose a condition to add.","Escolha uma condição"
 ALL,TUDO
 ANY,QUALQUER
-TRUE,TRUE
-FALSE,FALSE
-"If %1 of these conditions are %2:","If %1 of these conditions are %2:"
+TRUE,VERDADEIRO
+FALSE,FALSO
+"If %1 of these conditions are %2:","Se %1 dessas condições for %2:"
 "There is no information about associated entity type ""%1"".","There is no information about associated entity type ""%1""."

@@ -3,7 +3,6 @@ Title,Title
 "Are you sure you want to do this?","Are you sure you want to do this?"
 "* Required Fields","* Required Fields"
 Websites,Websites
-"Product Name","Product Name"
 "View Details","View Details"
 "Product Reviews","Comentários do Produto"
 Review,Comentário
@@ -14,7 +13,7 @@ Reviews,Comentários
 "Product Rating","Avaliação do Produto"
 "Visible In","Visível Em"
 Nickname,Apelido
-"Summary of Review","Summary of Review"
+"Summary of Review","Título"
 "Save and Previous","Save and Previous"
 "Save and Next","Salvar e Avançar"
 "Delete Review","Excluir Comentário"
@@ -34,13 +33,13 @@ Administrator,Administrator
 "All Reviews","All Reviews"
 "Product Store Name","Product Store Name"
 "Manage Ratings","Manage Ratings"
-"Add New Rating","Add New Rating"
-"Save Rating","Save Rating"
+"Add New Rating","Novo"
+"Save Rating","Salvar"
 "Delete Rating","Delete Rating"
 "Edit Rating #%1","Edit Rating #%1"
-"New Rating","New Rating"
-"Rating Title","Rating Title"
-"Rating Visibility","Rating Visibility"
+"New Rating","Nova Avaliação"
+"Rating Title","Título"
+"Rating Visibility","Visibilidade"
 "Please specify a rating title for a store, or we'll just use the default value.","Please specify a rating title for a store, or we'll just use the default value."
 "Rating Information","Rating Information"
 "Customer Reviews","Comentários"
@@ -57,7 +56,7 @@ Administrator,Administrator
 "An error occurred while saving review.","An error occurred while saving review."
 "You saved the rating.","You saved the rating."
 "You deleted the rating.","You deleted the rating."
-Ratings,Ratings
+Ratings,Avaliações
 "My Product Reviews","Minhas Avaliações"
 "Your review has been accepted for moderation.","Your review has been accepted for moderation."
 "We cannot post the review.","We cannot post the review."
@@ -67,7 +66,7 @@ Approved,Aprovado
 "The review summary field can't be empty.","The review summary field can't be empty."
 "The nickname field can't be empty.","The nickname field can't be empty."
 "The review field can't be empty.","The review field can't be empty."
-"Rating isn't Available","Rating isn't Available"
+"Rating isn't Available","Avaliação Não Disponível"
 "Assigned Options","Assigned Options"
 "Option Title:","Título:"
 Rating,Avaliação
@@ -105,3 +104,14 @@ Quality,Qualidade
 Summary,Título
 "You submitted your review for moderation.","Seu comentário foi enviado para moderação"
 "Please select one of each of the ratings above.","Informe as estrelas que esse produto merece"
+"Rating Information","Informações da Avaliação"
+"Please specify a rating title for a store, or we'll just use the default value.","Informe um título para cara loja caso queira que seja diferente da padrão"
+"Search Synonyms","Sinônimos de Busca"
+"Search by keyword","O que você procura?"
+"New Synonym Group","Novo Sinônimo"
+"Save Synonym Group","Salvar"
+"Synonyms","Sinônimos"
+"You can adjust the scope of this synonym group by selecting an option from the list.","Você pode criar sinonimos diferentes para cada vião de loja que você possua."
+"Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an “OR” search query to search your entire store. For example, if you enter “shoes,footwear”, and user were to search for ""shoes"", the search results will include any product or content with term “shoes"" or ""footwear.”","Separe os termos por vírgula."
+"Merge existing synonyms","Fundir sinônimos existentes"
+"Automatically merges synonyms in groups that share the same scope. If you check this box and you add one or more of the same terms to different synonym groups in the same scope, automatically merges all the terms to one group. If this isn't what you want, uncheck the box and an error displays if you try to add the same terms.","Marque esta opção caso você queira permitir que um dos termos esteja em mais de um grupo de sinônimos."

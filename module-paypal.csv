@@ -1,18 +1,14 @@
 "Are you sure you want to do this?","Are you sure you want to do this?"
 "Start Date","Start Date"
-"Product Name","Product Name"
 "3D Secure Card Validation","3D Secure Card Validation"
 "Merchant Liability","Merchant Liability"
 "Billing Information","Billing Information"
 "Shipping Information","Shipping Information"
-"Shipping Method","Shipping Method"
 "Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order."
 "Account confirmation is required. Please, check your e-mail for confirmation link. To resend confirmation email please <a href=""%1"">click here</a>.","Account confirmation is required. Please, check your e-mail for confirmation link. To resend confirmation email please <a href=""%1"">click here</a>."
 Password,Password
 Continue,Continue
-"Order #","Order #"
 Login,Login
-"Payment Method","Payment Method"
 "Sorry, no quotes are available for this order at this time.","Sorry, no quotes are available for this order at this time."
 Display,Display
 User,User
@@ -341,7 +337,6 @@ Funding,Funding
 "Reference ID:","Reference ID:"
 Status:,Status:
 Updated:,Updated:
-"Payment Method:","Payment Method:"
 "Ship To","Ship To"
 "Back to Billing Agreements","Back to Billing Agreements"
 "There are no billing agreements yet.","Você não aceitou nenhum termo de cobrança ainda."

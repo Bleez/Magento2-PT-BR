@@ -7,8 +7,8 @@ Telephone,Telephone
 Comment,Comment
 "Email Template","Email Template"
 Contacts,Contatos
-"Contact Us","Contact Us"
-"Enable Contact Us","Enable Contact Us"
-"Email Options","Email Options"
-"Send Emails To","Send Emails To"
-"Email Sender","Email Sender"
+"Contact Us","Fale Conosco"
+"Enable Contact Us","Habilitar"
+"Email Options","Opções de Email"
+"Send Emails To","Enviar Para"
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Template baseado no tema da loja quando o ""Default"" for escolhido"

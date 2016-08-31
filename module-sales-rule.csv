@@ -9,7 +9,6 @@ Yes,Yes
 "Website","Website"
 Status,Status
 "Save and Continue Edit","Save and Continue Edit"
-Description,Description
 Rule,Rule
 "Start on","Start on"
 "End on","End on"
@@ -20,9 +19,7 @@ Websites,Websites
 "Edit Rule '%1'","Edit Rule '%1'"
 "New Rule","New Rule"
 "Rule Information","Rule Information"
-"Discount Amount","Discount Amount"
 "Stop Further Rules Processing","Stop Further Rules Processing"
-Conditions,Conditions
 "Rule Name","Rule Name"
 Inactive,Inactive
 "From Date","From Date"
@@ -42,11 +39,8 @@ Priority,Priority
 "Conditions Combination","Conditions Combination"
 "Product Attribute","Product Attribute"
 "Shipping Method","Shipping Method"
-"Payment Method","Payment Method"
 Alphanumeric,Alphanumeric
 "Apply To","Apply To"
-"is one of","is one of"
-"is not one of","is not one of"
 "equals or greater than","equals or greater than"
 "equals or less than","equals or less than"
 "greater than","greater than"
@@ -58,8 +52,6 @@ Auto,Auto
 Coupon,Coupon
 "Shopping Cart Price Rule","Shopping Cart Price Rule"
 "Coupon Code","Coupon Code"
-is,is
-"is not","is not"
 CSV,CSV
 "Excel XML","Excel XML"
 "Total Weight","Total Weight"

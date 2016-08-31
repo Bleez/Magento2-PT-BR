@@ -4,7 +4,6 @@ Customers,Clientes
 Edit,Edit
 Orders,Orders
 Customer,Cliente
-"Grand Total","Grand Total"
 "All Store Views","All Store Views"
 "First Name","First Name"
 "Last Name","Last Name"
@@ -23,7 +22,6 @@ Type,Type
 "IP Address","IP Address"
 Order,Order
 "Personal Information","Dados Pessoais"
-View,View
 "* Required Fields","* Required Fields"
 Day,Day
 label,label
@@ -37,21 +35,21 @@ Password,Password
 "Confirm Password","Confirme a Senha"
 Login,Login
 "Forgot Your Password?","Esqueceu sua senha?"
+"Forgot your password?","Esqueceu sua senha?"
 Register,Register
-"Billing Address","Billing Address"
 "Log Out","Log Out"
 "Log In","Log In"
 "You subscribe to our newsletter.","Você está inscrito em nossa newsletter."
 "You don't subscribe to our newsletter.","Você não está inscrito em nossa newsletter."
 "You are currently not subscribed to our newsletter.","You are currently not subscribed to our newsletter."
-"You have not set a default shipping address.","You have not set a default shipping address."
-"You have not set a default billing address.","You have not set a default billing address."
+"You have not set a default shipping address.","Não há endereço de entrega padrão."
+"You have not set a default billing address.","Não há endereço de cobrança padrão."
 "Address Book","Endereços Cadastrados"
 "Edit Address","Editar Endereço"
 region,region
-"Add New Customer","Adicionar Novo Cliente"
-"Save Customer","Salvar Cliente"
-"Delete Customer","Excluir Cliente"
+"Add New Customer","Novo"
+"Save Customer","Salvar"
+"Delete Customer","Excluir"
 "Reset Password","Resetar Senha"
 "New Customer","Novo Cliente"
 "or ","ou "
@@ -76,10 +74,6 @@ Sent,Sent
 Sending,Sending
 Paused,Paused
 Unknown,Unknown
-"Purchase Date","Purchase Date"
-"Bill-to Name","Bill-to Name"
-"Ship-to Name","Ship-to Name"
-"Purchase Point","Purchase Point"
 Never,Never
 Offline,Offline
 Confirmed,Confirmado
@@ -128,13 +122,13 @@ Visitor,Visitor
 "Customer Login","Acesso de Usuário"
 "Create New Customer Account","Criar Nova Conta"
 "This account is not confirmed.' ' <a href=""%1"">Click here</a> to resend confirmation email.","This account is not confirmed.' ' <a href=""%1"">Click here</a> to resend confirmation email."
-"Invalid login or password.","Invalid login or password."
+"Invalid login or password.","Login ou senha inválidos."
 "There was an error validating the login and password.","There was an error validating the login and password."
 "Login and password are required.","Login and password are required."
 "Account confirmation is required. Please, check your email for the confirmation link. To resend the confirmation email please <a href=""%1"">click here</a>.","Account confirmation is required. Please, check your email for the confirmation link. To resend the confirmation email please <a href=""%1"">click here</a>."
 "There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","Já existe uma conta com este email. <a href=""%1"">Clique aqui</a> caso você não lembre sua senha."
 "Cannot save the customer.","Cannot save the customer."
-"Thank you for registering with %1.","Thank you for registering with %1."
+"Thank you for registering with %1.","Obrigado pelo seu cadastro."
 "If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter you shipping address for proper VAT calculation","If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter you shipping address for proper VAT calculation"
 "If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter you billing address for proper VAT calculation","If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter you billing address for proper VAT calculation"
 "Bad request.","Bad request."
@@ -195,7 +189,7 @@ Visitor,Visitor
 "The first name cannot be empty.","The first name cannot be empty."
 "The last name cannot be empty.","The last name cannot be empty."
 "Please correct this email address: ""%1"".","Please correct this email address: ""%1""."
-"The Date of Birth is required.","The Date of Birth is required."
+"The Date of Birth is required.","A Data de Nascimento é obrigatória."
 "The TAX/VAT number is required.","O CPF é obrigatório."
 "Gender is required.","Gender is required."
 "Invalid password reset token.","Invalid password reset token."
@@ -286,18 +280,17 @@ Newsletters,Newsletters
 "Subscription option","Opção de inscrição"
 "General Subscription","Lista Principal"
 "Sign Up for Newsletter","Assinar Newsletter"
-"Address Information","Address Information"
+"Address Information","Endereço"
 "Login Information","Login Information"
 "Create account","Criar Conta"
 "Create Account","Criar Conta"
 "Reset a Password","Reset a Password"
 "You have logged out and will be redirected to our homepage in 5 seconds.","You have logged out and will be redirected to our homepage in 5 seconds."
 "By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more.","By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more."
-"Date of Birth","Date of Birth"
 DD,DD
 MM,MM
 YYYY,YYYY
-Gender,Gender
+Gender,Sexo
 "Tax/VAT number","CPF"
 "Subscribe to Newsletter","Subscribe to Newsletter"
 "Recovery Link Expiration Period (days)","Recovery Link Expiration Period (days)"
@@ -347,7 +340,7 @@ Gender,Gender
 "Show Suffix","Show Suffix"
 "The suffix that goes after name (Jr., Sr., etc.)","The suffix that goes after name (Jr., Sr., etc.)"
 "Suffix Dropdown Options","Suffix Dropdown Options"
-"Show Date of Birth","Show Date of Birth"
+"Show Date of Birth","Exibir Data de Nascimento"
 "Show Tax/VAT Number","Exibir CPF"
 "Show Gender","Show Gender"
 "Login Options","Login Options"
@@ -376,7 +369,8 @@ n/a,n/a
 Prefix,Prefix
 "Middle Name/Initial","Middle Name/Initial"
 Suffix,Suffix
-"Date Of Birth","Date Of Birth"
+"Date of Birth","Data de Nascimento"
+"Date Of Birth","Data de Nascimento"
 "Send Welcome Email From","Send Welcome Email From"
 "Disable Automatic Group Change Based on VAT ID","Disable Automatic Group Change Based on VAT ID"
 "Online Customers Options","Online Customers Options"
@@ -398,9 +392,33 @@ Suffix,Suffix
 "See order and shipping status","Ver status da compra e da entrega"
 "Track order history","Ver histórico de pedidos"
 "Check out faster","Finalizar compra mais rápido"
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Criando uma conta você terá as seguintes vantagens: finalizar compra mais rápido, endereços pré-cadastrados, rastrear pedidos, etc."
 "Sign-in Information","Informações de Acesso"
 "Account Dashboard","Meu Painel"
 "You saved the account information.","Informações salvas."
 "You subscribe to \"$1\"","Você está inscrito na lista \"$1\""
 "If you have an account, sign in with your email address.","Informe seus dados para fazer login."
 "taxvat is a required field.","CPF é um campo obrigatório"
+"Reset My Password","Resetar Senha"
+"Please enter your email address below to receive a password reset link.","Informe seu email abaixo para receber o link para resetar sua senha."
+"Set a New Password","Informe Nova Senha"
+"Password Strength:","Força da Senha:"
+"Password Strength","Força da Senha"
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","A senha precisa conter %1 ou mais caracteres."
+"Minimum length of this field must be equal or greater than 8 symbols. Leading and trailing spaces will be ignored.","A senha precisa conter 8 ou mais caracteres."
+Update,Atualizar
+"No Password","Sem Senha"
+"Weak","Fraca"
+"Medium","Médio"
+"Strong","Forte"
+"Very Strong","Muito Forte"
+"Change Email","Mudar Email"
+"You updated your password.","Senha alterada com sucesso."
+"The customer will receive an email with a link to reset password.","O cliente receberá um email com link para resetar a senha."
+"Something went wrong while resetting customer password.","Houve um erro ao resetar a senha."
+"Create Order","Criar Pedido"
+"Too many password reset requests. Please wait and try again or contact hello@example.com.","Muitos pedidos se recuperação de senha feitos. Tente novamente mais tarde."
+Male,Masculino
+Female,Feminino
+"Not Specified","Não especificado"
+"Account","Minha Conta"

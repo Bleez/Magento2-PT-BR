@@ -8,7 +8,6 @@ Yes,Yes
 Status,Status
 "Save and Continue Edit","Save and Continue Edit"
 Type,Type
-Description,Description
 Actions,Ações
 Rule,Regra
 "Start on","Start on"
@@ -28,10 +27,9 @@ Websites,Websites
 "By Fixed Amount","By Fixed Amount"
 "To Percentage of the Original Price","To Percentage of the Original Price"
 "To Fixed Amount","To Fixed Amount"
-"Discount Amount","Discount Amount"
 "Enable Discount to Subproducts","Enable Discount to Subproducts"
 "Stop Further Rules Processing","Stop Further Rules Processing"
-Conditions,Conditions
+Conditions,Condições
 "Conditions (leave blank for all products)","Conditions (leave blank for all products)"
 "Rule Name","Rule Name"
 Inactive,Inactive

@@ -1,6 +1,5 @@
 "Incl. Tax","Incl. Tax"
 "Use Default","Use Default"
-"Add Option","Add Option"
 "Use To Create Configurable Product","Use To Create Configurable Product"
 "Create Empty","Create Empty"
 "Generate Variations","Generate Variations"
@@ -26,7 +25,7 @@ Include,Include
 %,%
 "begin typing to add value","begin typing to add value"
 Variations,Variações
-"Current Variations","Current Variations"
+"Current Variations","Variações Cadastradas"
 "Upload Image","Upload Image"
 Choose,Escolha
 Select,Escolha
@@ -39,4 +38,6 @@ Select,Escolha
 Confirm,Confirmar
 "File extension not known or unsupported type.","File extension not known or unsupported type."
 "Configurable Product Image","Configurable Product Image"
-"Add Products Manually","Add Products Manually"
+"Add Products Manually","Adicionar Manualmente"
+"Select Associated Product","Selecionar Produtos"
+"Choose a new product to delete and replace the current product configuration.",""

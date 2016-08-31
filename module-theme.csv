@@ -1,4 +1,3 @@
-Remove,Remover
 Close,Fechar
 "Delete File","Deletar arquivo"
 General,Geral
@@ -10,7 +9,6 @@ Hour,Hora
 Minute,Minuto
 Page,Página
 label,rótulo
-Empty,Vazio
 "Close Window","Fechar janela"
 "%1 Item","%1 Item"
 "%1 Item(s)","%1 Item(ns)"
@@ -100,8 +98,6 @@ Manage,Gerenciar
 "You're currently reading page","Você está lendo a página"
 "We don't recognize this file extension.","Não reconhementos a extenção desse arquivo."
 "We cannot detect a size.","Não pudemos detectar o tamanho."
-"Logo Image","Logo Image"
-"Logo Image Alt","Logo Image Alt"
 "HTML Head","HTML Head"
 "Favicon Icon","Favicon Icon"
 "Allowed file types: ICO, PNG, GIF, JPG, JPEG, APNG, SVG. Not all browsers support all these formats!","Arquivos permitidos: ICO, PNG, GIF, JPG, JPEG, APNG, SVG. Nem todos os navegadores suportam todos esses formatos!"
@@ -113,8 +109,8 @@ Manage,Gerenciar
 "Miscellaneous Scripts","Scripts variados"
 "This will be included before head closing tag in page HTML.","Isso será incluido antes do fechamento da tag head."
 "Display Demo Store Notice","Exibir aviso de loja demonstração"
-"Search Engine Robots","Search Engine Robots"
-"Default Robots","Default Robots"
+"Search Engine Robots","Motores de Busca"
+"Default Robots","Indexação Padrão"
 "Edit custom instruction of robots.txt File","Editar instruções do robots.txt"
 "Reset to Defaults","Resetar para o padrão"
 "This action will delete your custom instructions and reset robots.txt file to system's default settings.","Isso vai deletar suas instruções e resetar o robots.txt do sistema."
@@ -135,3 +131,4 @@ Copyright,Copyright
 "Your design change for the specified store intersects with another one, please specify another date range.","Suas mudanças de design para uma loja específica coincidem com outra loja, favor especificar outra data."
 Copy,Copiar
 "Circular-reference in theme inheritance detected for ""%1""","Circular-reference in theme inheritance detected for ""%1"""
+"This will be displayed just before the body closing tag.","Será inserido antes de fechar a tag body"

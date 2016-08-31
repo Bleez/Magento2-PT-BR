@@ -1,10 +1,8 @@
 "Order Quantity","Order Quantity"
 "IP Address","IP Address"
 "All Websites","All Websites"
-"Tax Amount","Tax Amount"
 Invoiced,Invoiced
 Refunded,Refunded
-Canceled,Canceled
 "In stock","In stock"
 "Out of stock","Out of stock"
 Day,Day
@@ -15,7 +13,6 @@ Day,Day
 Updated,Atualizado
 Reports,Relatórios
 Details,Detalhes
-Unlimited,Unlimited
 Fulfilled,Fulfilled
 Filter,Filtro
 Link,Link
@@ -61,7 +58,6 @@ Detail,Detail
 "Unpaid Invoices","Unpaid Invoices"
 "Total Refunded Report","Total Refunded Report"
 "Refunded Orders","Refunded Orders"
-"Total Refunded","Total Refunded"
 "Online Refunds","Online Refunds"
 "Offline Refunds","Offline Refunds"
 "Total Ordered Report","Total Ordered Report"
@@ -122,7 +118,7 @@ Statistics,Estatísticas
 "Promotion Coupons Usage Report","Promotion Coupons Usage Report"
 "Most Viewed Products Report","Most Viewed Products Report"
 "Show By","Show By"
-"Select Date","Select Date"
+"Select Date","Selecionar"
 "Customers that have wish list: %1","Customers that have wish list: %1"
 "Number of wish lists: %1","Number of wish lists: %1"
 "Number of items bought from a wish list: %1","Number of items bought from a wish list: %1"
@@ -131,8 +127,8 @@ Statistics,Estatísticas
 "Number of wish list conversions: %1","Number of wish list conversions: %1"
 "Show Report For:","Show Report For:"
 "Recently Viewed","Recently Viewed"
-"Recently Compared Products","Recently Compared Products"
-"Recently Viewed Products","Recently Viewed Products"
+"Recently Compared Products","Produtos Comparados Recentemente"
+"Recently Viewed Products","Produtos Visualizados Recentemente"
 "Recently Compared","Recently Compared"
 "Recently Viewed/Compared Products","Recently Viewed/Compared Products"
 "Show for Current","Show for Current"
@@ -142,7 +138,6 @@ Statistics,Estatísticas
 "Current Month Starts","Current Month Starts"
 "Select day of the month.","Select day of the month."
 "List of Products Recently Viewed by Visitor","List of Products Recently Viewed by Visitor"
-"Number of Products to display","Number of Products to display"
 "Viewed Products Grid Template","Viewed Products Grid Template"
 "Viewed Products List Template","Viewed Products List Template"
 "Viewed Products Images and Names Template","Viewed Products Images and Names Template"

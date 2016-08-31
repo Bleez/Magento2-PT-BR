@@ -21,7 +21,6 @@ Reauthorize,Reauthorize
 "Create New Wish List","Create New Wish List"
 "Please enter a valid credit card verification number.","Please enter a valid credit card verification number."
 "Edit Order","Edit Order"
-Complete,Complete
 "Upload Security Error","Upload Security Error"
 "Upload HTTP Error","Upload HTTP Error"
 "Upload I/O Error","Upload I/O Error"
@@ -32,7 +31,7 @@ MB,MB
 kB,kB
 B,B
 "Add Products By SKU","Add Products By SKU"
-"Insert Widget...","Insert Widget..."
+"Insert Widget...","Inserir Widget..."
 "HTML tags are not allowed","HTML tags are not allowed"
 "The value is not within the specified range.","The value is not within the specified range."
 "Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.","Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas."
@@ -67,16 +66,13 @@ B,B
 "Please enter a valid month (1-12).","Please enter a valid month (1-12)."
 "Please enter a valid year (1900-%1).","Please enter a valid year (1900-%1)."
 "Please enter a valid full date","Please enter a valid full date"
-Done,Done
 "File extension not known or unsupported type.","File extension not known or unsupported type."
 "Configure Product","Configure Product"
 "Gift Options for ","Gift Options for "
 "Add Products to New Option","Add Products to New Option"
 "Add Products to Option ""%1""","Add Products to Option ""%1"""
-"Add Selected Products","Add Selected Products"
 "Select type of option.","Select type of option."
 "Please add rows to option.","Please add rows to option."
-"Select Product","Select Product"
 "Add Products to Group","Add Products to Group"
 "Choose existing category.","Choose existing category."
 "Something went wrong while loading the theme.","Something went wrong while loading the theme."

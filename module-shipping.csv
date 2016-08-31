@@ -2,9 +2,6 @@
 "Add Products","Add Products"
 "Incl. Tax","Incl. Tax"
 "Close Window","Close Window"
-"Product Name","Product Name"
-"Payment Information","Payment Information"
-"Shipping Information","Shipping Information"
 Weight,Peso
 Package,Package
 Packages,Packages
@@ -48,7 +45,6 @@ Number,Number
 "Items in the Package","Items in the Package"
 "Shipping and Tracking Information","Shipping and Tracking Information"
 "Track this shipment","Track this shipment"
-Ship,Ship
 "Order # %1","Order # %1"
 "Back to My Orders","Back to My Orders"
 "View Another Order","View Another Order"
