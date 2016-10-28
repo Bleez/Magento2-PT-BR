@@ -66,7 +66,7 @@ Checkout,Checkout
 "Enter discount code","Informe o cupom"
 "Apply Discount","Aplicar"
 "Clear Shopping Cart","Clear Shopping Cart"
-"Update Cart","Update Cart"
+"Update Cart","Atualizar Carrinho"
 "Unit Price Excl. Tax","Unit Price Excl. Tax"
 "Unit Price Incl. Tax","Unit Price Incl. Tax"
 "Subtotal Excl. Tax","Subtotal Excl. Tax"
@@ -97,6 +97,7 @@ Total:,Total:
 Company,Empresa
 Address,Address
 "Street Address %1","Endereço %1"
+"Street address %1","Endereço %1"
 Telephone,Telephone
 Fax,Fax
 Password,Password
@@ -126,7 +127,7 @@ Register,Register
 "Your credit card will be charged for","Your credit card will be charged for"
 "Select a shipping address from your address book or enter a new address.","Select a shipping address from your address book or enter a new address."
 "Use Billing Address","Use Billing Address"
-"Sorry, no quotes are available for this order at this time.","Sorry, no quotes are available for this order at this time."
+"Sorry, no quotes are available for this order at this time.","Nenhum método de entrega disponível."
 "Thank you for your purchase!","Obrigado pela compra!"
 "Your order # is: %1.","O número do seu pedido é: %1."
 "Your order # is: <span class=""order-number"" ><strong>%1</strong></span>","O número do seu pedido é: <span class=""order-number"" ><strong>%1</strong></span>"
@@ -176,3 +177,6 @@ Payment,Pagamento
 "We'll email you an order confirmation with details and tracking info.","Em breve você receberá um email com a confirmação do pedido e as informações de rastreamento."
 "You can track your order status by creating an account.","Você pode ver o status do seu pedido caso crie uma conta."
 "You already have an account with us. Sign in or continue as guest.","Você já possui uma conta. Faça login ou continue como visitante."
+"Estimate Tax","Estimativa de taxa"
+"Your order number is: %1.","O número do seu pedido é: %1."
+"Guest checkout is disabled.", "Você precisa estar logado para fazer uma compra"

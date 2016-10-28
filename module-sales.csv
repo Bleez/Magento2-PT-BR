@@ -36,8 +36,8 @@ Refunded,Devolvido
 Canceled,Cancelado
 Closed,Fechado
 From:,De:
-To:,Até:
-"Gift Message","Gift Message"
+To:,Para:
+"Gift Message","Mensagem do Presente"
 Message:,Mensagem:
 "Tier Pricing","Tier Pricing"
 "Go to Home Page","Go to Home Page"
@@ -69,9 +69,9 @@ Billing,Billing
 "Order Status","Status de Pedido"
 "View Order","View Order"
 Amount,Acumulado
-Message,Message
+Message,Mensagem
 Information,Information
-"Gift Options","Gift Options"
+"Gift Options","Opçoes de presente"
 "If you don't want to leave a gift message for the entire order, leave this box blank.","If you don't want to leave a gift message for the entire order, leave this box blank."
 New,New
 "Custom Price","Custom Price"

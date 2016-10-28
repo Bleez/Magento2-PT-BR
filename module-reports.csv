@@ -9,7 +9,7 @@ Day,Day
 "Search Query","Search Query"
 "Add to Wishlist","Add to Wishlist"
 "Add to Compare","Add to Compare"
-"Items in Cart","Items in Cart"
+"Items in Cart","Itens no Carrinho"
 Updated,Atualizado
 Reports,Relatórios
 Details,Detalhes
@@ -118,7 +118,7 @@ Statistics,Estatísticas
 "Promotion Coupons Usage Report","Promotion Coupons Usage Report"
 "Most Viewed Products Report","Most Viewed Products Report"
 "Show By","Show By"
-"Select Date","Selecionar"
+"Select Date","Escolha uma Data"
 "Customers that have wish list: %1","Customers that have wish list: %1"
 "Number of wish lists: %1","Number of wish lists: %1"
 "Number of items bought from a wish list: %1","Number of items bought from a wish list: %1"

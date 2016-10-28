@@ -9,7 +9,7 @@ Loading...,Loading...
 OK,OK
 "Please enter a number 0 or greater in this field.","Please enter a number 0 or greater in this field."
 "The From Date value should be less than or equal to the To Date value.","The From Date value should be less than or equal to the To Date value."
-"select all","select all"
+"select all","Selecionar tudo"
 Allow,Allow
 "Please specify at least one search term.","Please specify at least one search term."
 "Delete Folder","Delete Folder"
@@ -107,7 +107,7 @@ Translate,Translate
 "No confirmation","No confirmation"
 "Sorry, something went wrong.","Sorry, something went wrong."
 "Sorry, something went wrong. Please try again later.","Sorry, something went wrong. Please try again later."
-"unselect all","unselect all"
+"unselect all","Remover seleção"
 "Please agree to all Terms and Conditions before placing the orders.","Please agree to all Terms and Conditions before placing the orders."
 "Please choose to register or to checkout as a guest","Please choose to register or to checkout as a guest"
 "Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.","Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address."

@@ -198,15 +198,13 @@ Any,Qualquer
 From,De
 To,Até
 From:,De:
-To:,Até:
+To:,Para:
 "Date selector","Date selector"
 "[ deleted ]","[ deletado ]"
 "Select All","Selecionar Tudo"
 "Select all","Selecionar Tudo"
 "Deselect All","Desselecionar Tudo"
 "Deselect all","Desselecionar Tudo"
-"Unselect All","Desselecionar Tudo"
-"Unselect all","Desselecionar Tudo"
 " [deleted]"," [deletado]"
 "We couldn\'t find any records.","Não há registros."
 "We couldn't find any records.","Não há registros."
@@ -219,7 +217,7 @@ Submit,Enviar
 "You have logged out.","You have logged out."
 "Cache Management","Gerenciamento de Cache"
 "You flushed the cache storage.","You flushed the cache storage."
-"The Magento cache storage has been flushed.","The Magento cache storage has been flushed."
+"The Magento cache storage has been flushed.","Cache limpo com sucesso."
 "%1 cache type(s) enabled.","%1 cache type(s) enabled."
 "An error occurred while enabling cache.","An error occurred while enabling cache."
 "%1 cache type(s) disabled.","%1 cache type(s) disabled."
@@ -457,6 +455,7 @@ Country,País
 City,Cidade
 "VAT Number","CPF"
 "Street Address","Endereço"
+"Street address","Endereço"
 "Media Storage","Media Storage"
 Admin,Administração
 Advanced,Avançado
@@ -662,3 +661,5 @@ selected,selecionado(s)
 Address,Endereço
 "The order confirmation email was sent","Email de confirmação foi enviado"
 "Your current session has been expired.","Sua sessão expirou."
+"Are you sure to delete selected customers?","Deseja mesmo excluir os clientes selecionados?"
+"Use system value","Usar padrão"

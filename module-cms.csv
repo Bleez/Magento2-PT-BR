@@ -83,9 +83,11 @@ Block,Bloco
 Template,Template
 "Anchor Custom Text","Anchor Custom Text"
 "Anchor Custom Title","Anchor Custom Title"
-"CMS Home Page","CMS Home Page"
+"CMS Home Page","Home Page"
 "CMS No Route Page","CMS No Route Page"
 "CMS No Cookies Page","CMS No Cookies Page"
+"CMS Pages (All)","Todas as Páginas"
+"Contact Us Form","Página de Contato"
 "Show Breadcrumbs for CMS Pages","Show Breadcrumbs for CMS Pages"
 "Browser Capabilities Detection","Browser Capabilities Detection"
 "Redirect to CMS-page if Cookies are Disabled","Redirect to CMS-page if Cookies are Disabled"

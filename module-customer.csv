@@ -27,7 +27,7 @@ Day,Day
 label,label
 Global,Global
 Change,Change
-"A total of %1 record(s) were updated.","A total of %1 record(s) were updated."
+"A total of %1 record(s) were updated.","Total de %1 registros atualizados."
 "End Date","End Date"
 Telephone,Telephone
 Fax,Fax
@@ -169,7 +169,7 @@ Visitor,Visitor
 "An error occurred while saving the customer.","An error occurred while saving the customer."
 "Customer will receive an email with a link to reset password.","Customer will receive an email with a link to reset password."
 "An error occurred while resetting customer password.","An error occurred while resetting customer password."
-"A total of %1 record(s) were deleted.","A total of %1 record(s) were deleted."
+"A total of %1 record(s) were deleted.","Total de %1 registros excluídos."
 "Please select customer(s).","Please select customer(s)."
 "No wishlist item ID is defined.","No wishlist item ID is defined."
 "Please load the wish list item.","Please load the wish list item."
@@ -405,7 +405,6 @@ Suffix,Suffix
 "Password Strength:","Força da Senha:"
 "Password Strength","Força da Senha"
 "Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","A senha precisa conter %1 ou mais caracteres."
-"Minimum length of this field must be equal or greater than 8 symbols. Leading and trailing spaces will be ignored.","A senha precisa conter 8 ou mais caracteres."
 Update,Atualizar
 "No Password","Sem Senha"
 "Weak","Fraca"

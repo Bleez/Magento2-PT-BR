@@ -1,5 +1,5 @@
-"Gift Message","Gift Message"
-Message,Message
+"Gift Message","Mensagem do Presente"
+Message,Mensagem
 "Unknown entity type","Unknown entity type"
 "Do you have any gift items in your order?","Do you have any gift items in your order?"
 "Add gift options","Add gift options"
@@ -15,3 +15,4 @@ Message,Message
 "You can leave this box blank if you do not wish to add a gift message for the item.","You can leave this box blank if you do not wish to add a gift message for the item."
 "Allow Gift Messages on Order Level","Allow Gift Messages on Order Level"
 "Allow Gift Messages for Order Items","Allow Gift Messages for Order Items"
+"Gift Message (optional)","Mensagem do presente (opcional)"

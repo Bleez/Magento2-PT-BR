@@ -27,8 +27,8 @@ minor,minor
 notice,notice
 "Wrong message type","Wrong message type"
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. It is highly recommended to change this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. It is highly recommended to change this value in your Magento <a href=""%1"">configuration</a>."
-"One or more of the Cache Types are invalidated: %1. ","One or more of the Cache Types are invalidated: %1. "
-"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Please go to <a href=""%1"">Cache Management</a> and refresh cache types."
+"One or more of the Cache Types are invalidated: %1. ","Um ou mais caches estão inválidos: %1. "
+"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Vá em <a href=""%1"">Gerenciamento de Cache</a> e atualize-os."
 "One or more media files failed to be synchronized during the media storages synchronization process. Refer to the log file for details.","One or more media files failed to be synchronized during the media storages synchronization process. Refer to the log file for details."
 "Synchronization of media storages has been completed.","Synchronization of media storages has been completed."
 "Your web server is configured incorrectly. As a result, configuration files with sensitive information are accessible from the outside. Please contact your hosting provider.","Your web server is configured incorrectly. As a result, configuration files with sensitive information are accessible from the outside. Please contact your hosting provider."
@@ -38,7 +38,9 @@ Close,Close
 "Critical System Messages","Mensagens Críticas"
 "Major System Messages","Mensagens Prioritárias"
 "System messages","Mensagens do sistema"
+"System Messages","Mensagens do sistema"
 "System messages:","Mensagens do sistema:"
+"System Messages:","Mensagens do sistema:"
 Notification,Notificações
 Acknowledge,Acknowledge
 "See All (%1 unread)","See All (%1 unread)"

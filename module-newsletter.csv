@@ -26,7 +26,7 @@ Template,Template
 "Are you sure that you want to delete this template?","Are you sure that you want to delete this template?"
 "Sender Name","Nome do Remetente"
 "Sender Email","Email do Remetente"
-Message,Message
+Message,Mensagem
 Recipients,Recipients
 "Please enter a valid email address.","Please enter a valid email address."
 "Delete Selected Problems","Delete Selected Problems"
