@@ -62,7 +62,7 @@ Comment,Comment
 "Ship-to Name","Enviar Para"
 "Order Total","Total"
 "Purchase Point","Loja"
-"Recent Orders","Recent Orders"
+"Recent Orders","Compras Recentes"
 Notified,Notificado
 "Notify Customer by Email","Notificar Cliente por Email"
 Billing,Billing
@@ -72,6 +72,7 @@ Amount,Acumulado
 Message,Mensagem
 Information,Information
 "Gift Options","Opçoes de presente"
+"Gift options","Opçoes de presente"
 "If you don't want to leave a gift message for the entire order, leave this box blank.","If you don't want to leave a gift message for the entire order, leave this box blank."
 New,New
 "Custom Price","Custom Price"
@@ -88,7 +89,7 @@ Authorization,Authorization
 Void,Void
 "Created At","Created At"
 "Payment Method:","Forma de Pagamento:"
-"Ship To","Ship To"
+"Ship To","Enviar para"
 "Invalid parent block for this block","Invalid parent block for this block"
 "Grand Total (Base)","Total Cobrado"
 "Grand Total (Purchased)","Total Pago"
@@ -442,7 +443,7 @@ Complete,Completo
 "Move to Shopping Cart","Move to Shopping Cart"
 "Subscribe to Newsletter","Subscribe to Newsletter"
 "Click to change shipping method","Click to change shipping method"
-"Sorry, no quotes are available for this order.","Sorry, no quotes are available for this order."
+"Sorry, no quotes are available for this order.","Não foi possivel calcular o frete, verifique o CEP, o peso e quantidade de itens no carrinho"
 "Get shipping methods and rates","Get shipping methods and rates"
 "You don't need to select a shipping method.","You don't need to select a shipping method."
 "Customer's Activities","Customer's Activities"
@@ -526,7 +527,7 @@ Complete,Completo
 "Shipment #%1","Shipment #%1"
 "Items Shipped","Items Shipped"
 "Qty Shipped","Qty Shipped"
-"View All","View All"
+"View All","Ver Todos"
 "Gift Message for This Order","Gift Message for This Order"
 "About Your Order","About Your Order"
 "Shipment Comments","Shipment Comments"
@@ -642,9 +643,16 @@ Operations,Operações
 "Review & Payments","Pagamento"
 "Shipping Address","Endereço de Entrega"
 "Provided Zip/Postal Code seems to be invalid. Example: 12345-6789; 12345. If you believe it is the right one you can ignore this notice.","Aparentemente seu CEP é inválido ou não há registro de endereço dele."
+"Provided Zip/Postal Code seems to be invalid. Example: 12345; 12345-678. If you believe it is the right one you can ignore this notice.","Aparentemente seu CEP é inválido ou não há registro de endereço dele."
 "Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Horário:<br /><span class=""no-link"">%store_hours</span>."
 "Order & Account Information","Informações do Pedido e do Comprador"
 "Payment & Shipping Method","Pagamento e Frete"
 "Notes for this Order","Observações do Pedido"
 Not,Não
 "Comment added","Adicionado em "
+"Recently Ordered","Comprado recentemente"
+"Print Invoices","Imprimir Faturas"
+"Print Packing Slips","Imprimir Guias de Postagem"
+"Print Credit Memos","Imprimir Reembolsos"
+"Print All","Imprimit Tudo"
+"Print Shipping Labels","Imprimir Etiquetas de Envio"

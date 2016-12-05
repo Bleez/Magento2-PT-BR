@@ -2,7 +2,7 @@ ID,ID
 Apply,Aplicar
 No,Não
 Subtotal,Subtotal
-Discount,Disconto
+Discount,Desconto
 Uses,Usos
 Delete,Deletar
 Yes,Sim
@@ -59,9 +59,9 @@ CSV,CSV
 "Store View Specific Labels","Store View Specific Labels"
 "Shopping Cart Price Rules","Regras de Carrinho"
 "Update prices using the following information","Atualizar preços usando a seguinte informação"
-"Percent of product price discount","Disconto sobre percentual do preço do produto"
-"Fixed amount discount","Disconto fixo"
-"Fixed amount discount for whole cart","Disconto fixo para todo o carrinho"
+"Percent of product price discount","Desconto sobre percentual do preço do produto"
+"Fixed amount discount","Desconto fixo"
+"Fixed amount discount for whole cart","Desconto fixo para todo o carrinho"
 "Buy X get Y free (discount amount is Y)","Compre X ganhe Y grátis (Desconto no valor de Y)"
 "Maximum Qty Discount is Applied To","Maximum Qty Discount is Applied To"
 "Discount Qty Step (Buy X)","Discount Qty Step (Buy X)"

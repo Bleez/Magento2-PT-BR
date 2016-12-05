@@ -1,7 +1,6 @@
 Customers,Clientes
 "No item specified.","No item specified."
 "Are you sure that you want to remove this item?","Are you sure that you want to remove this item?"
-Edit,Edit
 Orders,Orders
 Customer,Cliente
 "All Store Views","All Store Views"
@@ -81,7 +80,7 @@ Confirmed,Confirmado
 "Confirmation Not Required","Confirmation Not Required"
 Indeterminate,Indeterminate
 "The customer does not have default billing address.","The customer does not have default billing address."
-"Recent Orders","Recent Orders"
+"Recent Orders","Compras recentes"
 "Shopping Cart - %1 item(s)","Shopping Cart - %1 item(s)"
 "Shopping Cart of %1 - %2 item(s)","Shopping Cart of %1 - %2 item(s)"
 "Wishlist - %1 item(s)","Wishlist - %1 item(s)"
@@ -97,7 +96,6 @@ Addresses,Addresses
 Wishlist,Wishlist
 Newsletter,Newsletter
 Download,Download
-"Delete Image","Delete Image"
 "View Full Size","View Full Size"
 "All countries","All countries"
 "Add New Customer Group","Add New Customer Group"
@@ -242,8 +240,9 @@ Visitor,Visitor
 "Set as Default Shipping Address","Usar Como Endereço de Entrega Padrão"
 "Default Shipping Address","Endereço de Entrega Padrão"
 "New Customer Address","New Customer Address"
-"Last Logged In:","Last Logged In:"
-"Last Logged In (%1):","Last Logged In (%1):"
+"Last Logged In:","Último Login:"
+"Last Logged In (%1):","Último Login (%1):"
+"Account Lock","Bloqueio de Conta"
 "Confirmed email:","Confirmed email:"
 "Account Created on:","Account Created on:"
 "Account Created on (%1):","Account Created on (%1):"
@@ -404,7 +403,7 @@ Suffix,Suffix
 "Set a New Password","Informe Nova Senha"
 "Password Strength:","Força da Senha:"
 "Password Strength","Força da Senha"
-"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","A senha precisa conter %1 ou mais caracteres."
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","A senha precisa conter %1 ou mais caracteres. Espaços a direita e a esquerda serão ignorados."
 Update,Atualizar
 "No Password","Sem Senha"
 "Weak","Fraca"
@@ -421,3 +420,15 @@ Male,Masculino
 Female,Feminino
 "Not Specified","Não especificado"
 "Account","Minha Conta"
+"You are signed out","Você saiu da sua conta"
+"You have signed out and will go to our homepage in 5 seconds.","Você saiu da sua conta e irá para página inicial em 5 segundos."
+"You subscribe to General Subscription.","Você está inscrito na nossa newsletter"
+"Newsletter Subscriptions","Inscrição na Newsletter"
+"Subscribe to Newsletter","Inscrever em Newsletter"
+"Unsubscribe from Newsletter","Remover de Newsletter"
+"Assign a Customer Group","Adicionar em um Grupo"
+"Customer Since","Cliente Desde"
+"Confirmed Email","Email Confirmado"
+"Confirmed email","Email Confirmado"
+"Confirmation Not Required","Não Precisa"
+"ZIP","CEP"

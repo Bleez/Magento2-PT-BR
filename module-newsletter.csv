@@ -43,7 +43,6 @@ Start,Start
 Pause,Pause
 "Do you really want to cancel the queue?","Do you really want to cancel the queue?"
 Resume,Resume
-"Newsletter Templates","Newsletter Templates"
 "Return HTML Version","Return HTML Version"
 "Save As","Save As"
 "Edit Newsletter Template","Edit Newsletter Template"
@@ -56,11 +55,11 @@ Sender,Sender
 "Newsletter Problems Report","Newsletter Problems Report"
 "Newsletter Problem Reports","Newsletter Problem Reports"
 "We unsubscribed the people you identified.","We unsubscribed the people you identified."
-"Newsletter Queue","Newsletter Queue"
+"Newsletter Queue","Fila de Envio"
 "Edit Queue","Edit Queue"
 "Please correct the newsletter template and try again.","Please correct the newsletter template and try again."
 "The newsletter queue has been saved.","The newsletter queue has been saved."
-"Newsletter Subscribers","Newsletter Subscribers"
+"Newsletter Subscribers","Emails Inscritos"
 Subscribers,Subscribers
 "Please select one or more subscribers.","Please select one or more subscribers."
 "Create Newsletter Template","Create Newsletter Template"
@@ -72,15 +71,15 @@ Subscribers,Subscribers
 "We saved the subscription.","Informações salvas."
 "We removed the subscription.","We removed the subscription."
 "The confirmation request has been sent.","The confirmation request has been sent."
-"Thank you for your subscription.","Thank you for your subscription."
-"There was a problem with the subscription: %1","There was a problem with the subscription: %1"
-"Something went wrong with the subscription.","Something went wrong with the subscription."
-"Your subscription has been confirmed.","Your subscription has been confirmed."
-"This is an invalid subscription confirmation code.","This is an invalid subscription confirmation code."
-"This is an invalid subscription ID.","This is an invalid subscription ID."
-"You have been unsubscribed.","You have been unsubscribed."
+"Thank you for your subscription.","Obrigado por se inscrever."
+"There was a problem with the subscription: %1","Houve um problema ao se inscrever: %1"
+"Something went wrong with the subscription.","Houve um problema ao se inscrever."
+"Your subscription has been confirmed.","Sua inscrição foi confirmada."
+"This is an invalid subscription confirmation code.","Código de confirmação inválido."
+"This is an invalid subscription ID.","ID de inscrição inválido."
+"You have been unsubscribed.","Sua inscrição foi removida."
 "Something went wrong with the un-subscription.","Something went wrong with the un-subscription."
-"This email address is already assigned to another user.","This email address is already assigned to another user."
+"This email address is already assigned to another user.","O email já está associado a outro usuário."
 "Sorry, but the administrator denied subscription for guests. ' 'Please <a href=""%1"">register</a>.","Sorry, but the administrator denied subscription for guests. ' 'Please <a href=""%1"">register</a>."
 Cancelled,Cancelled
 "There are no subscribers selected.","There are no subscribers selected."
@@ -124,4 +123,7 @@ Unsubscribe,Unsubscribe
 Subscribed,Subscribed
 Unsubscribed,Unsubscribed
 Unconfirmed,Unconfirmed
-"Newsletter Template","Newsletter Template"
+"Newsletter Template","Template de Newsletter"
+Newsletter Subscriptions,Inscrições de Newsletter
+"You have been successfully subscribed to our newsletter.","Você se cadastrou com sucesso na nossa newsletter."
+"Newsletter subscription success","Inscrição em newsletter com sucesso"

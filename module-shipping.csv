@@ -85,7 +85,7 @@ Number,Number
 "Cannot load track with retrieving identifier.","Cannot load track with retrieving identifier."
 "The comment text field cannot be empty.","The comment text field cannot be empty."
 "We don't recognize or support the file extension in this shipment: %1.","We don't recognize or support the file extension in this shipment: %1."
-"There are no shipping labels related to selected orders.","There are no shipping labels related to selected orders."
+"There are no shipping labels related to selected orders.","Não há etiquetas de envio relacionadas aos pedidos selecionados."
 "There are no shipping labels related to selected shipments.","There are no shipping labels related to selected shipments."
 "Sorry, but we can't deliver to the destination country with this shipping module.","Sorry, but we can't deliver to the destination country with this shipping module."
 "The shipping module is not available.","The shipping module is not available."

@@ -394,6 +394,7 @@ Minute,Minuto
 "Please enter a valid phone number (for example, (123) 456-7890 or 123-456-7890).","Please enter a valid phone number (for example, (123) 456-7890 or 123-456-7890)."
 "Please enter a valid date.","Please enter a valid date."
 "Please enter a valid email address(for example johndoe@domain.com.).","Informe um endereço válido(exemplo joao@gmail.com.)."
+"Please enter a valid email address (Ex: johndoe@domain.com).","Informe um endereço válido (exemplo joao@gmail.com.)."
 "Please enter 6 or more characters.","Please enter 6 or more characters."
 "Please make sure your passwords match.","Please make sure your passwords match."
 "Please enter a valid URL (for example, the URL must begin with ""http://"").","Please enter a valid URL (for example, the URL must begin with ""http://"")."
@@ -406,7 +407,7 @@ Minute,Minuto
 "Please select one of these options.","Please select one of these options."
 "Please select State/Province.","Please select State/Province."
 "Please enter a valid password.","Please enter a valid password."
-"Please enter a number greater than 0 in this field.","Please enter a number greater than 0 in this field."
+"Please enter a number greater than 0 in this field.","Insira um número maior que 0."
 "Please enter a valid credit card number.","Please enter a valid credit card number."
 "Please wait, loading...","Aguarde, carregando..."
 "JavaScript may be disabled in your browser.","JavaScript may be disabled in your browser."
@@ -650,7 +651,6 @@ Extensions,Extensões
 "Filters","Filtros"
 "Active filters:","Filtros aplicados:"
 "Please wait...","Aguarde..."
-Shipping,Frete
 "Selected Attributes","Atributos Selecionados"
 or,ou
 "Delete items","Excluir Itens"

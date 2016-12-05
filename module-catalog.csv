@@ -174,7 +174,8 @@ Cross-sells,Cross-sells
 "Update Attributes","Atualizar Atributos"
 "Update attributes","Atualizar atributos"
 "Click here or drag and drop to add images.","Clique aqui ou arraste imagens para cá."
-"Delete image","Delete image"
+"Delete image","Excluir Imagem"
+"Delete Image","Excluir Imagem"
 "Make Base","Make Base"
 Hidden,Hidden
 "Image Management","Image Management"
@@ -476,7 +477,7 @@ each,each
 and,and
 save,save
 "Actual Price","Actual Price"
-"Shop By","Shop By"
+"Shop By","Refine sua busca"
 "Shopping Options","Filtros"
 "Compare Products","Comparar Produtos"
 "1 item","1 item"
@@ -490,7 +491,7 @@ save,save
 "Are you sure you would like to remove all products from your comparison?","Are you sure you would like to remove all products from your comparison?"
 "Remove This Item","Remove This Item"
 Compare,Compare
-"Clear All","Clear All"
+"Clear All","Limpar todos"
 Prev,Prev
 "There are no products matching the selection.","There are no products matching the selection."
 "Add to Compare","Add to Compare"
@@ -498,7 +499,7 @@ Prev,Prev
 "You may also be interested in the following product(s)","You may also be interested in the following product(s)"
 "More Choices:","Produtos Semelhantes:"
 "New Products","Produtos Novos"
-"Check items to add to the cart or","Check items to add to the cart or"
+"Check items to add to the cart or","Marque items para adicionar ao carrinho ou"
 "select all","Selecionar Tudo"
 "View as","View as"
 "Sort By","Ordenar Por"

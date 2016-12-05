@@ -1,6 +1,5 @@
-"Shop By","Shop By"
 "Remove This Item","Remove This Item"
-"Clear All","Clear All"
+"Clear All","Limpar todos"
 "Can be used only with catalog input type Dropdown, Multiple Select and Price","Só funciona se o tipo do atributo for Dropdown, Seleção Multipla ou Preço"
 "Filterable (with results)","Filtrável (com resultados)"
 "Filterable (no results)","Filtrável (sem resultados)"
@@ -20,3 +19,4 @@
 "This setting will be applied when all prices in the specific price interval are equal.","This setting will be applied when all prices in the specific price interval are equal."
 "Interval Division Limit","Interval Division Limit"
 "Please specify the number of products, that will not be divided into subintervals.","Please specify the number of products, that will not be divided into subintervals."
+"Now Shopping by","Navegando por"
