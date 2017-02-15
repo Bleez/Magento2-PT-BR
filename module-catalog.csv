@@ -527,7 +527,7 @@ Template,Template
 "Maximal Depth","Maximal Depth"
 "Anchor Custom Text","Anchor Custom Text"
 "Anchor Custom Title","Anchor Custom Title"
-"Product Fields Auto-Generation","Product Fields Auto-Generation"
+"Product Fields Auto-Generation","Geração Automática de Campos de Produtos"
 "Mask for SKU","Mask for SKU"
 "Use {{name}} as Product Name placeholder","Use {{name}} as Product Name placeholder"
 "Mask for Meta Title","Mask for Meta Title"
@@ -550,7 +550,7 @@ Comma-separated.,Comma-separated.
 "Whether to show ""All"" option in the ""Show X Per Page"" dropdown","Whether to show ""All"" option in the ""Show X Per Page"" dropdown"
 "Allow Dynamic Media URLs in Products and Categories","Allow Dynamic Media URLs in Products and Categories"
 "E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.","E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance."
-"Product Image Placeholders","Product Image Placeholders"
+"Product Image Placeholders","Espaço Reservado das Imagens de Produtos (Placeholder)"
 "Search Engine Optimization","SEO"
 "Category URL Suffix","Category URL Suffix"
 "You need to refresh the cache.","You need to refresh the cache."
@@ -562,8 +562,8 @@ Comma-separated.,Comma-separated.
 "Use Canonical Link Meta Tag For Products","Use Canonical Link Meta Tag For Products"
 "Catalog Price Scope","Escopo"
 "This defines the base currency scope (""Currency Setup"" > ""Currency Options"" > ""Base Currency"").","This defines the base currency scope (""Currency Setup"" > ""Currency Options"" > ""Base Currency"")."
-"Category Top Navigation","Category Top Navigation"
-"Date & Time Custom Options","Date & Time Custom Options"
+"Category Top Navigation","Navegação da Categoria Principal"
+"Date & Time Custom Options","Opções de Data e Hora Personalizadas"
 "Use JavaScript Calendar","Use JavaScript Calendar"
 "Date Fields Order","Date Fields Order"
 "Time Format","Time Format"
@@ -654,7 +654,7 @@ Configurations,Configurações
 "CMS Block","Bloco CMS"
 "Is Anchor","É Ancora"
 Columns,Colunas
-Storefront,Storefront
+Storefront,Vitrine
 "Base Image","Imagem Base"
 "Small Image","Imagem Pequena"
 "Swatch Image","Imagem de Amostra"
@@ -773,7 +773,7 @@ Cost,Custo
 "Include in Menu","Incluir no Menu"
 "Products in Category","Produtos Nesta Categoria"
 Anchor,Âncora
-"Layered Navigation Price Step","Intervalo de Preço na Navegação Facetada"
+"Layered Navigation Price Step","Intervalo de Preço na Navegação em Camadas"
 "Category Image","Imagem"
 "Add CMS Block","Adicionar Bloco"
 "Display Mode","Modo de Exibição"
