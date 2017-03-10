@@ -1,4 +1,4 @@
-"Conditions Combination","Conditions Combination"
+"Conditions Combination","Combinação de condições"
 contains,contém
 "Open Chooser","Open Chooser"
 "is one of","está entre"
@@ -25,3 +25,4 @@ TRUE,VERDADEIRO
 FALSE,FALSO
 "If %1 of these conditions are %2:","Se %1 dessas condições for %2:"
 "There is no information about associated entity type ""%1"".","There is no information about associated entity type ""%1""."
+'This won\'t take long . . .','Isso não levará muito tempo . . .'

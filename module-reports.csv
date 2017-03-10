@@ -6,7 +6,6 @@ Refunded,Refunded
 "In stock","In stock"
 "Out of stock","Out of stock"
 Day,Day
-"Search Query","Search Query"
 "Add to Wishlist","Add to Wishlist"
 "Add to Compare","Add to Compare"
 Updated,Atualizado
@@ -33,13 +32,13 @@ Purchases,Purchases
 CSV,CSV
 "Excel XML","Excel XML"
 Viewed,Viewed
-Purchased,Purchased
-"Low stock","Low stock"
+Purchased,Comprado
+"Low stock","Baixo estoque"
 "Products Ordered","Products Ordered"
 "Most Viewed","Most Viewed"
 "Show Report","Show Report"
 Interval,Interval
-"Refresh Statistics","Refresh Statistics"
+"Refresh Statistics","Atualizar Estatísticas"
 "Customers Reviews","Customers Reviews"
 "Reviews for %1","Reviews for %1"
 Detail,Detail
@@ -71,7 +70,6 @@ Carrier/Method,Carrier/Method
 "Total Shipping","Total Shipping"
 "Order Taxes Report Grouped by Tax Rate","Order Taxes Report Grouped by Tax Rate"
 Rate,Rate
-"Abandoned carts","Abandoned carts"
 "Applied Coupon","Applied Coupon"
 "Products in carts","Products in carts"
 Carts,Carts
@@ -88,8 +86,8 @@ Carts,Carts
 "Ordered Products Report","Ordered Products Report"
 "Product Views Report","Product Views Report"
 "Products Most Viewed Report","Products Most Viewed Report"
-"Low Stock Report","Low Stock Report"
-"Low Stock","Low Stock"
+"Low Stock Report","Relatório de Estoque Baixo"
+"Low Stock","Baixo Estoque"
 "Downloads Report","Downloads Report"
 "Customer Reviews Report","Customer Reviews Report"
 "Customers Report","Customers Report"
@@ -104,7 +102,7 @@ Carts,Carts
 Coupons,Coupons
 "Customer Shopping Carts","Customer Shopping Carts"
 "Products in Carts","Products in Carts"
-"Abandoned Carts","Abandoned Carts"
+"Abandoned Carts","Carrinhos Abandonados"
 Statistics,Estatísticas
 "No report code is specified.","No report code is specified."
 "Recent statistics have been updated.","Recent statistics have been updated."
@@ -166,12 +164,12 @@ Hits,Hits
 "Refresh Statistics for the Last Day","Refresh Statistics for the Last Day"
 "Are you sure you want to refresh statistics for last day?","Are you sure you want to refresh statistics for last day?"
 undefined,undefined
-"Products in Cart","Products in Cart"
-"By Customers","By Customers"
-"By Products","By Products"
-Refunds,Refunds
+"Products in Cart","Produtos no Carrinho"
+"By Customers","Por Clientes"
+"By Products","Por Produtos"
+Refunds,Reembolsos
 "PayPal Settlement","PayPal Settlement"
-"Order Count","Order Count"
+"Order Count","Quantidade de Pedidos"
 "Bestsellers","Mais vendidos"
 "Bestseller","Mais vendido"
 "Date Used","Date Used"

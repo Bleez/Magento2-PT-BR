@@ -1,24 +1,22 @@
 "Delete File","Delete File"
 Status,Status
-"Save and Continue Edit","Save and Continue Edit"
 Title,Title
-"URL Key","URL Key"
 Home,Home
 Content,Conteúdo
 "Go to Home Page","Go to Home Page"
 px.,px.
 "Static Blocks","Blocos Estáticos"
-"Add New Block","Adicionar Novo Bloco"
-"Save Block","Salvar Bloco"
-"Delete Block","Excluir Bloco"
-"Edit Block '%1'","Editar Bloco '%1'"
-"New Block","Novo Bloco"
+"Add New Block","Novo"
+"Save Block","Salvar"
+"Delete Block","Excluir"
+"Edit Block '%1'","Editar '%1'"
+"New Block","Novo"
 "Block Title","Título do Bloco"
 Identifier,Identificador
 "Manage Pages","Gerenciar Páginas"
-"Add New Page","Adicionar Nova Página"
-"Save Page","Salvar Página"
-"Delete Page","Excluir Página"
+"Add New Page","Novo"
+"Save Page","Salvar"
+"Delete Page","Excluir"
 "Edit Page '%1'","Editar Página '%1'"
 "New Page","Nova Página"
 "Content Heading","Cabeçalho"
@@ -38,7 +36,7 @@ Keywords,Keywords
 Created,Criado
 Created:,Criado:
 Modified,Modificado
-Preview,Preview
+Preview,Visualizar
 "Media Storage","Media Storage"
 "Create Folder...","Criar Pasta"
 "Delete Folder","Delete Folder"
@@ -60,7 +58,7 @@ Pages,Página
 "Edit Page","Edit Page"
 "The page has been saved.","The page has been saved."
 "Something went wrong while saving the page.","Something went wrong while saving the page."
-"The page has been deleted.","The page has been deleted."
+"The page has been deleted.","Excluído com sucesso"
 "We can't find a page to delete.","We can't find a page to delete."
 "The directory %1 is not writable by server.","The directory %1 is not writable by server."
 "Make sure that static block content does not reference the block itself.","Make sure that static block content does not reference the block itself."
@@ -80,7 +78,6 @@ Pages,Página
 "Directory %1 is not under storage root path.","Directory %1 is not under storage root path."
 "No files found","No files found"
 Block,Bloco
-Template,Template
 "Anchor Custom Text","Anchor Custom Text"
 "Anchor Custom Title","Anchor Custom Title"
 "CMS Home Page","Home Page"

@@ -1,7 +1,6 @@
 Close,Fechar
 "Delete File","Deletar arquivo"
 General,Geral
-"Save and Continue Edit","Salvar e Continuar"
 "About the calendar","Sobre o calendário"
 WK,WK
 Time, Tempo
@@ -36,7 +35,6 @@ Header,Cabeçalho
 "(ver. %1)","(ver. %1)"
 "Welcome, %1!","Bem vindo, %1!"
 "Add New Theme","Add Novo Tema"
-Themes,Temas
 "Theme: %1","Tema: %1"
 "New Theme","Novo Tema"
 "Theme CSS","CSS do Tema"

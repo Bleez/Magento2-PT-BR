@@ -9,7 +9,6 @@ Qty,Qtd
 "Custom Design","Tema"
 "Website","Website"
 Status,Status
-"Save and Continue Edit","Salvar e Continuar Editando"
 Title,Título
 Type,Tipo
 Home,Home
@@ -169,7 +168,7 @@ Cross-sells,Cross-sells
 "Watermark File for %1","Watermark File for %1"
 "Position of Watermark for %1","Position of Watermark for %1"
 "Name in %1","Name in %1"
-"Notify Low Stock RSS","Notify Low Stock RSS"
+"Notify Low Stock RSS","RSS de Estoque Baixo"
 "Change status","Mudar status"
 "Update Attributes","Atualizar Atributos"
 "Update attributes","Atualizar atributos"
@@ -184,22 +183,20 @@ Hidden,Hidden
 "Add New Images","Adicionar Nova Imagem"
 "Inc. Tax","Inc. Tax"
 lbs,lbs
-"Add New Search Term","Add New Search Term"
-"Save Search","Save Search"
-"Delete Search","Delete Search"
-"Edit Search '%1'","Edit Search '%1'"
-"New Search","New Search"
+"Add New Search Term","Novo"
+"Save Search","Salvar"
+"Delete Search","Excluir"
+"Edit Search '%1'","Editar '%1'"
+"New Search","Novo"
 "Search Information","Search Information"
-"Search Query","Search Query"
-"Number of results","Number of results"
-"Number of results (For the last time placed)","Number of results (For the last time placed)"
-"For the last time placed.","For the last time placed."
-"Number of Uses","Number of Uses"
+"Number of results","Número de Resultados"
+"Number of results (For the last time placed)","Número de Resultados (da última vez)"
+"For the last time placed.","Da última pesquisa feita."
+"Number of Uses","Número de Usos"
 "Synonym For","Synonym For"
 "Will make search for the query above return results for this search","Will make search for the query above return results for this search"
-"Redirect URL","Redirect URL"
-"ex. http://domain.com","ex. http://domain.com"
-"Display in Suggested Terms","Display in Suggested Terms"
+"ex. http://domain.com","ex. http://dominio.com.br"
+"Display in Suggested Terms","Exibir em Sugestão de Termos"
 "Go to Home Page","Go to Home Page"
 "%1 RSS Feed","%1 RSS Feed"
 "Products Comparison List","Products Comparison List"
@@ -262,7 +259,6 @@ Categories,Categorias
 "You deleted the search.","You deleted the search."
 "We can't find a search term to delete.","We can't find a search term to delete."
 "Please select catalog searches.","Please select catalog searches."
-"Total of %1 record(s) were deleted","Total of %1 record(s) were deleted"
 "You added product %1 to the comparison list.","You added product %1 to the comparison list."
 "You removed product %1 from the comparison list.","You removed product %1 from the comparison list."
 "You cleared the comparison list.","You cleared the comparison list."
@@ -515,7 +511,7 @@ Show,Show
 "Click on image to zoom","Click on image to zoom"
 "Email to a Friend","Email para Amigos"
 Details,Details
-Template,Template
+Template,Modelo
 "File extension not known or unsupported type.","File extension not known or unsupported type."
 "Configure Product","Configure Product"
 "Select type of option.","Select type of option."
@@ -624,12 +620,12 @@ none,nenhum
 Overview,Overview
 "Field ""%1"" was not found in DO ""%2"".","Field ""%1"" was not found in DO ""%2""."
 "Is Active","Ativo"
-"URL Key","URL Key"
+"URL Key","URL"
 "Description","Descrição"
 "Image","Imagem"
 "Page Title","Título da Página"
-"Meta Keywords","Meta Keywords"
-"Meta Description","Meta Description"
+"Meta Keywords","Meta palavras-chave"
+"Meta Description","Meta Descrição"
 "Display Mode","Modo de Exibição"
 "CMS Block","Bloco CMS"
 "Available Product Listing Sort By","Ordenações Disponíveis"
@@ -672,7 +668,7 @@ Cost,Custo
 "Set Product as New to Date","Até"
 "Country of Manufacture","País do Fabricante"
 "Allow Gift Message","Permitir Mensagem de Presente"
-"Meta Title","Meta Title"
+"Meta Title","Meta título"
 "Maximum 255 chars","Maximum 255 chars"
 "Simple Product","Produto Simples"
 "Configurable Product","Produto Configurável"
@@ -794,3 +790,4 @@ Su,Do
 Aug,Ago
 Attention,Atenção
 "The file was not uploaded.","O arquivo não foi enviado."
+"We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.","Existem regras que não foram aplicadas. Clique em ""Aplicar Regras"" para atualizar seu catálogo."
