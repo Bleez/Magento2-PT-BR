@@ -27,3 +27,5 @@ composer require bleez/magento2-pt_br
 - [rafaelstz](https://github.com/rafaelstz)
 - [hewersonfreitas](https://github.com/hewersonfreitas)
 - [danilonobre](https://github.com/danilonobre)
+- [brunoviana](https://github.com/brunoviana)
+- [alinte-matos](https://github.com/aline-matos)
