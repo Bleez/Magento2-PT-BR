@@ -1,15 +1,11 @@
 "Excl. Tax","Excl. Tax"
 Total,Total
 "Incl. Tax","Incl. Tax"
-Reset,Reset
 "Unit Price","Unit Price"
 Save,Save
-Code,Code
 "Sort Order","Sort Order"
-"Save and Continue Edit","Save and Continue Edit"
-"Are you sure you want to do this?","Are you sure you want to do this?"
 "New Rule","New Rule"
-Priority,Priority
+Priority,Prioridade
 "Edit Rule","Edit Rule"
 "Endereço de Entrega","Shipping Address"
 CSV,CSV
@@ -37,7 +33,7 @@ State,State
 "Manage Tax Rules","Manage Tax Rules"
 "Add New Tax Rule","Add New Tax Rule"
 "Save Rule","Save Rule"
-"Delete Rule","Delete Rule"
+"Delete Rule","Excluir"
 "Tax Rule Information","Tax Rule Information"
 "Customer Tax Class","Customer Tax Class"
 "Product Tax Class","Product Tax Class"
@@ -149,3 +145,4 @@ State/Region,State/Region
 Taxes,Impostos
 "Import/Export Tax Rates","Importar/Exportar Impostos"
 "Asynchronous sending","Envio assíncrono"
+"Web Site","Website"

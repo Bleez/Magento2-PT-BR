@@ -1,5 +1,5 @@
-"Search Query","Search Query"
-"Redirect URL","Redirect URL"
+"Search Query","Palavra Chave"
+"Redirect URL","Redirecionar para URL"
 "Go to Home Page","Go to Home Page"
 Grid,Grid
 List,List
@@ -36,6 +36,7 @@ name,name
 "Apply Layered Navigation if Search Results are Less Than","Apply Layered Navigation if Search Results are Less Than"
 "Enter ""0"" to enable layered navigation for any number of results.","Enter ""0"" to enable layered navigation for any number of results."
 Synonym,Synonym
-"Suggested Terms","Suggested Terms"
-yes,yes
-no,no
+"Suggested Terms","Sugerir Termo"
+yes,sim
+no,não
+"Your search returned no results.","Sua busca não retornou resultados."

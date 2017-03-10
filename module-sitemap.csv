@@ -1,31 +1,30 @@
 Always,Always
-Priority,Priority
+Priority,Prioridade
 Path,Path
 Daily,Daily
 Weekly,Weekly
 Monthly,Monthly
 Never,Never
-Generate,Generate
 Hourly,Hourly
 "Start Time","Start Time"
 Frequency,Frequency
-"Save & Generate","Save & Generate"
+"Save & Generate","Salvar e Gerar"
 "Edit Sitemap","Edit Sitemap"
 "New Sitemap","New Sitemap"
 "Sitemap Information","Sitemap Information"
 Sitemap,Sitemap
-Filename,Filename
-"example: sitemap.xml","example: sitemap.xml"
-"example: ""sitemap/"" or ""/"" for base path (path must be writeable)","example: ""sitemap/"" or ""/"" for base path (path must be writeable)"
+"Filename","Nome do Arquivo"
+"example: sitemap.xml","exemplo: sitemap.xml"
+"example: ""sitemap/"" or ""/"" for base path (path must be writeable)","exemplo: ""sitemap/"" ou ""/"" para caminho base (deve ter permissão de escrita)"
 "XML Sitemap","XML Sitemap"
-"Add Sitemap","Add Sitemap"
-"Site Map","Site Map"
+"Add Sitemap","Novo"
+"Site Map","Sitemap"
 "This sitemap no longer exists.","This sitemap no longer exists."
-"New Site Map","New Site Map"
+"New Site Map","Novo"
 "The sitemap has been saved.","The sitemap has been saved."
 "The sitemap has been deleted.","The sitemap has been deleted."
 "We can't find a sitemap to delete.","We can't find a sitemap to delete."
-"The sitemap ""%1"" has been generated.","The sitemap ""%1"" has been generated."
+"The sitemap ""%1"" has been generated.","O Sitemap ""%1"" foi gerado"
 "Something went wrong generating the sitemap.","Something went wrong generating the sitemap."
 "We can't find a sitemap to generate.","We can't find a sitemap to generate."
 "The priority must be between 0 and 1.","The priority must be between 0 and 1."
@@ -51,5 +50,7 @@ Yearly,Yearly
 "File size in bytes.","File size in bytes."
 "Search Engine Submission Settings","Search Engine Submission Settings"
 "Enable Submission to Robots.txt","Enable Submission to Robots.txt"
-"Link for Google","Link for Google"
-"Last Generated","Last Generated"
+"Link for Google","Link Para Google"
+"Last Generated","Gerado Em"
+"You saved the sitemap.","Salvo com sucesso"
+"You deleted the sitemap.","Excluído com sucesso"

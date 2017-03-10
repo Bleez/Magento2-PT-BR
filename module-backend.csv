@@ -1,5 +1,4 @@
 Custom,Personalizado
-"Are you sure?","Tem certeza?"
 Close,Fechar
 Cancel,Cancelar
 Back,Voltar
@@ -96,18 +95,18 @@ Add,Adicionar
 "-- No Theme --","-- Sem Tema --"
 Synchronize,Sincronizar
 "Configuration","Configuração"
-"Add Design Change","Add Mudanças no Design"
+"Add Design Change","Novo"
 Delete,Excluir
 Save,Salvar
-"Edit Design Change","Editar Mudanças no Design"
-"New Store Design Change","New Store Design Change"
+"Edit Design Change","Editar Mudanças de Design"
+"New Store Design Change","Nova Mudança de Design"
 "General Settings","Configuração Geral"
 Store,Loja
 "-- Please Select --","-- Selecione --"
 "-- Please select --","-- Selecione --"
 "Custom Design","Design Customizado"
-"Date From","Date From"
-"Date To","Date To"
+"Date From","Início"
+"Date To","Fim"
 "Design Change","Mudanças no Design"
 General,Geral
 "Delete %1 '%2'","Excluir %1 '%2'"
@@ -118,16 +117,16 @@ General,Geral
 Yes,Sim
 "Delete Store","Exluir Loja"
 "Delete Website"," Website"
-"Save Website","Salvar Website"
-"Save Store","Salvar Store"
-"Save Store View","Salvar Store View"
-"Delete Store View","Excluir Store View"
-"Edit Website","Editar Website"
-"New Website","Novo Website"
-"Edit Store","Editar Loja"
-"New Store","Nova Loja"
-"Edit Store View","Editar Visão de Loja"
-"New Store View","Nova Visão de Loja"
+"Save Website","Salvar"
+"Save Store","Salvar"
+"Save Store View","Salvar"
+"Delete Store View","Excluir"
+"Edit Website","Editar"
+"New Website","Novo"
+"Edit Store","Editar"
+"New Store","Novo"
+"Edit Store View","Editar"
+"New Store View","Novo"
 "Store Information","Informações da Loja"
 "Website","Website"
 Name,Nome
@@ -138,7 +137,7 @@ Code,Código
 Status,Status
 "Sort Order","Ordenar Pedidos"
 "Website Information","Website Information"
-"Default Store","Store Padrão"
+"Default Store","Loja Padrão"
 "Set as Default","Usar como Padrão"
 Stores,Lojas
 "Create Website","Criar Website"
@@ -171,22 +170,20 @@ Product:,Produto:
 "CMS page:"," Página CMS:"
 "Chosen cms page does not associated with any website.","Chosen cms page does not associated with any website."
 Title,Título
-"URL Key","URL Key"
 "Store View","Visão de Loja"
 "Edit URL Rewrite","Edit URL Rewrite"
 "Add New URL Rewrite","Add New URL Rewrite"
-"Are you sure you want to do this?","Are you sure you want to do this?"
-"URL Rewrite Information","URL Rewrite Information"
+"URL Rewrite Information","Informações de Reescrita de URL"
 Type,Tipo
 "ID Path","ID Path"
-"Request Path","Request Path"
-"Target Path","Target Path"
+"Request Path","Caminho de Requisição"
+"Target Path","Caminho Alvo"
 Redirect,Redirecionar
 Description,Descrição
 "For category","For category"
 "For product","For product"
 "For CMS page","For CMS page"
-"Create URL Rewrite:","Create URL Rewrite:"
+"Create URL Rewrite:","Criar Reescrita de URL:"
 "Global Attribute","Atributo Global"
 "This attribute shares the same value in all stores.","This attribute shares the same value in all stores."
 Home,Home
@@ -196,7 +193,9 @@ Search,Buscar
 Any,Qualquer
 "All Countries","All Countries"
 From,De
+from,de
 To,Até
+to,até
 From:,De:
 To:,Para:
 "Date selector","Date selector"
@@ -358,7 +357,7 @@ Password:,Senha:
 password,senha
 "Log in","Log in"
 "Select Range:","Select Range:"
-"No Data Found","No Data Found"
+"No Data Found","Sem dados"
 "Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Gráfico desabilitado. Para habilitar <a href=""%1"">clique aqui</a>."
 "Last 5 Orders","Últimos 5 Pedidos"
 "Last 5 Search Terms","ùltimos 5 Termos Procurados"
@@ -436,7 +435,7 @@ Thumbnail,Miniatura
 "Total %1 records found","%1 registros encontrados"
 "%1 records found","%1 registros encontrados"
 "records found","registros encontrados"
-View,Visão
+View,Ver
 "per page","por página"
 Page,Página
 "Previous page","Página anterior"
@@ -467,9 +466,9 @@ Advanced,Avançado
 "Sender Name","Sender Name"
 "Sender Email","Sender Email"
 Locale,Localização
-"Base URL","Base URL"
+"Base URL","URL Base"
 "Enable Charts","Enable Charts"
-"Secure Base URL","Secure Base URL"
+"Secure Base URL","URL Base Segura"
 Host,Host
 "File extension not known or unsupported type.","File extension not known or unsupported type."
 Debug,Debug
@@ -477,11 +476,11 @@ Debug,Debug
 Services,Serviços
 "Disable Modules Output","Disable Modules Output"
 "Store Email Addresses","Emails da Loja"
-"Custom Email 1","Custom Email 1"
-"Custom Email 2","Custom Email 2"
-"General Contact","General Contact"
-"Sales Representative","Sales Representative"
-"Customer Support","Customer Support"
+"Custom Email 1","Personalizado 1"
+"Custom Email 2","Personalizado 2"
+"General Contact","Contato Geral"
+"Sales Representative","Representante de Vendas"
+"Customer Support","SAC"
 "User-Agent Exceptions","User-Agent Exceptions"
 "
                         Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>
@@ -629,8 +628,9 @@ Extensions,Extensões
 "VAT number","CPF"
 "Top destinations","Destinos Principais"
 "Store Hours of Operation","Hora de Funcionamento"
-"Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. http://example.com/magento/","Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. http://example.com/magento/"
-"Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. https://example.com/magento/","Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. https://example.com/magento/"
+"Store Hours","Hora de Funcionamento"
+"Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. http://example.com/magento/","Os links devem terminar com '/'"
+"Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. https://example.com/magento/","Os links devem terminar com '/'"
 "Use Secure URLs on Storefront","Use Secure URLs on Storefront"
 "Use SID on Storefront","Use SID on Storefront"
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected."
@@ -662,4 +662,36 @@ Address,Endereço
 "The order confirmation email was sent","Email de confirmação foi enviado"
 "Your current session has been expired.","Sua sessão expirou."
 "Are you sure to delete selected customers?","Deseja mesmo excluir os clientes selecionados?"
-"Use system value","Usar padrão"
+"Use system value","Usar padrão",
+"Store View:","Visões de loja"
+"Phone","Fone"
+"Add New","Novo"
+"Add New Endereços","Adicionar"
+"New Shipment for Guest","Novo Envio Para Visitante"
+"You saved the email template.","Salvo com sucesso"
+"You saved the synonym group.","Salvo com sucesso"
+"The synonym group has been deleted.","Excluído com sucesso"
+"You saved the search term.","Salvo com sucesso"
+"View/Edit","Ver/Editar"
+"You saved the rule.","Salvo com sucesso"
+"You deleted the rule.","Excluído com sucesso"
+"One or more <a href=""%1"">indexers are invalid</a>. Make sure your <a href=""%2"" target=""_blank"">Magento cron job</a> is running.","Um ou mais <a href=""%1"">índices estão inválidos</a>. Veja se seu <a href=""%2"" target=""_blank"">Magento cron job</a> está rodando."
+"Are you sure you want to delete this template?","Tem certeza?"
+"You deleted the email template.","Excluído com sucesso"
+"You deleted the block.","Excluído com sucesso"
+"Design Configuration","Configuração de Design"
+"Theme Name","Nome do Tema"
+"Save and Continue","Salvar e Continuar"
+"Save Configuration","Salvar"
+"Default Theme","Tema Padrão"
+"Applied Theme","Tema Aplicado"
+"If no value is specified, the system default is used. The system default may be modified by third party extensions.",""
+"Design Rule","Regra de Aplicação"
+"User Agent Rules","Regra de User Agent"
+"User agent exceptions override product and CMS pages rules.","Exceções de User Agent sobrescrevem as regras de Produtos e Páginas"
+"Add New User Agent Rule Rule","Adicionar"
+"Store Design Schedule","Agendamento de Design"
+"Web Site Information","Informações do Website"
+"Save Web Site","Salvar"
+"Before modifying the website code please make sure it is not used in index.php.","Antes de modificar o código tenha certeza de que ele não é usando no index.php"
+"Before modifying the store view code please make sure it is not used in index.php.","Antes de modificar o código tenha certeza de que ele não é usando no index.php"

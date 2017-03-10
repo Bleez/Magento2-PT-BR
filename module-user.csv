@@ -1,6 +1,5 @@
 All,Todos
 Custom,Custom
-Reset,Resetar
 "User Name","Usuario"
 "First Name","Nome"
 "Last Name","Sobrenome"
@@ -10,7 +9,6 @@ Email,Email
 "Password Confirmation","Confirmar senha"
 "Interface Locale","Interface Locale"
 Status,Status
-"Are you sure you want to do this?","Are you sure you want to do this?"
 System,Sistema
 "Access denied.","Acesso negado."
 "Log into Magento Admin Page","Acessar a administração do magento"
@@ -117,3 +115,14 @@ Unlocked,Desbloqueado
 "All Users","Todos usuários"
 "User Roles","Grupos de usuários"
 "Your Password","Sua senha"
+"Hello,","Olá,"
+"We have received a request to change the following information associated with your account at %store_name: %changes.","Nós recebemos um pedido parar mudar a seguinte informação: %changes na sua conta do %store_name."
+"If you have not authorized this action, please contact us immediately at %store_email","Se você não autorizou essa ação entre em contato imediatamente com: %store_email"
+"or call us at %store_phone","ou ligue para nos: %store_phone"
+"Thanks,","Obrigado,"
+"Thank you,","Obrigado,"
+"New %changes for %user_name", "Nova %changes para %user_name"
+"Password Reset Confirmation for %name", "Confirmação de recuperação de senha para %name"
+"There was recently a request to change the password for your account.", "Recebemos uma solicitação para mudar a senha da sua conta."
+"If you requested this change, reset your password here:","Se você solicitou essa mudançã, mude a senha no seguinte link:"
+"If you did not make this request, you can ignore this email and your password will remain the same.","Se você não fez essa solicitação, pode ignorar esse email e sua senha continuará a mesma."
