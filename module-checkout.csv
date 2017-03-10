@@ -101,7 +101,7 @@ Address,Address
 Telephone,Telephone
 Fax,Fax
 Password,Password
-"Save in address book","Save in address book"
+"Save in address book","Guardar no livro de endereços"
 "Ship to this address","Ship to this address"
 "Ship to different address","Ship to different address"
 Continue,Continue
@@ -182,3 +182,6 @@ Payment,Pagamento
 "Your order number is: %1.","O número do seu pedido é: %1."
 "Guest checkout is disabled.", "Você precisa estar logado para fazer uma compra"
 "Unable to place order. Please try again later.","Não foi possivel efetuar sua compra, verifique as informações ou tente novamente mais tarde"
+"A letter with further instructions will be sent to your email.","Foi enviado um e-mail para você com as instruções para continuar o cadastro."
+"You used coupon code ""%1"".","Você utilizou o cupom ""%1""."
+"Success Page","Página de Sucesso"

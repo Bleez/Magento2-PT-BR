@@ -22,11 +22,8 @@ Customer,Cliente
 " [deleted]"," [deleted]"
 title,title
 Specified,Specified
-Order,Order
-"Order #%1","Order #%1"
 "Shipping Amount","Shipping Amount"
 "Tax Amount","Imposto"
-View,View
 "We cannot add this item to your shopping cart.","We cannot add this item to your shopping cart."
 N/A,N/A
 Ordered,Pedido
@@ -49,12 +46,11 @@ Message:,Mensagem:
 "Clear Shopping Cart","Clear Shopping Cart"
 Address,Address
 Telephone,Telephone
-"Save in address book","Save in address book"
+"Save in address book","Guardar no livro de endereços"
 Continue,Continue
 "Order #","Pedido #"
 "Payment Method","Forma de Pagamento"
 Sales,Vendas
-Select,Select
 Comment,Comment
 %1,%1
 "Purchase Date","Data da Compra"
@@ -74,7 +70,7 @@ Information,Information
 "Gift Options","Opçoes de presente"
 "Gift options","Opçoes de presente"
 "If you don't want to leave a gift message for the entire order, leave this box blank.","If you don't want to leave a gift message for the entire order, leave this box blank."
-New,New
+New,Novo
 "Custom Price","Custom Price"
 Processing,Processando
 Pending,Pendente
@@ -99,9 +95,9 @@ Void,Void
 CSV,CSV
 "Excel XML","Excel XML"
 "Total Refunded","Total Devolvido"
-Paid,Paid
-Coupons,Coupons
-Print,Print
+Paid,Pago
+Coupons,Cupons
+Print,Imprimir
 "Submit Comment","Enviar"
 Returned,Returned
 "Order Date","Data"
@@ -155,7 +151,7 @@ Invoices,Faturas
 "Refund Shipping (Incl. Tax)","Refund Shipping (Incl. Tax)"
 "Refund Shipping (Excl. Tax)","Refund Shipping (Excl. Tax)"
 "Refund Shipping","Refund Shipping"
-"Update Qty's","Update Qty's"
+"Update Qty's","Atualizar Quantidades"
 Refund,Refund
 "Refund Offline","Refund Offline"
 "Paid Amount","Paid Amount"
@@ -173,10 +169,10 @@ Refund,Refund
 "New Invoice and Shipment for Order #%1","New Invoice and Shipment for Order #%1"
 "New Invoice for Order #%1","New Invoice for Order #%1"
 "Submit Invoice and Shipment","Submit Invoice and Shipment"
-"Submit Invoice","Submit Invoice"
+"Submit Invoice","Criar Fatura"
 "Are you sure you want to send an Invoice email to customer?","Are you sure you want to send an Invoice email to customer?"
-"Credit Memo","Credit Memo"
-Capture,Capture
+"Credit Memo","Reembolso"
+Capture,Capturar
 "the invoice email was sent","the invoice email was sent"
 "the invoice email is not sent","the invoice email is not sent"
 "Invoice #%1 | %2 | %4 (%3)","Invoice #%1 | %2 | %4 (%3)"
@@ -195,7 +191,7 @@ Capture,Capture
 "Order Status Information","Order Status Information"
 "Status Code","Status Code"
 "Status Label","Status Label"
-"Store View Specific Labels","Store View Specific Labels"
+"Store View Specific Labels","Título específico para loja"
 "Total Paid","Total Pago"
 "Total Due","Total Devido"
 "Are you sure you want to send an order email to customer?","Are you sure you want to send an order email to customer?"
@@ -241,7 +237,7 @@ Fetch,Fetch
 Key,Chave
 Value,Valor
 "We found an invalid entity model.","We found an invalid entity model."
-"Order # %1","Order # %1"
+"Order # %1","Pedido # %1"
 "Back to My Orders","Back to My Orders"
 "View Another Order","View Another Order"
 "About Your Refund","About Your Refund"
@@ -304,18 +300,18 @@ Unassign,Unassign
 "The invoice no longer exists.","The invoice no longer exists."
 "The order does not allow an invoice to be created.","The order does not allow an invoice to be created."
 "Cannot create an invoice without products.","Cannot create an invoice without products."
-"New Invoice","New Invoice"
+"New Invoice","Nova Fatura"
 "Cannot update item quantity.","Cannot update item quantity."
 "The invoice and the shipment  have been created. ' 'The shipping label cannot be created now.","The invoice and the shipment  have been created. ' 'The shipping label cannot be created now."
 "You created the invoice and shipment.","You created the invoice and shipment."
-"The invoice has been created.","The invoice has been created."
-"We can't send the invoice email.","We can't send the invoice email."
-"We can't send the shipment.","We can't send the shipment."
-"We can't save the invoice.","We can't save the invoice."
-"The invoice has been captured.","The invoice has been captured."
-"Invoice capturing error","Invoice capturing error"
-"You canceled the invoice.","You canceled the invoice."
-"Invoice canceling error","Invoice canceling error"
+"The invoice has been created.","A fatura foi criada."
+"We can't send the invoice email.","Não foi possível enviar email da fatura."
+"We can't send the shipment.","Não foi possivel enviar código de rastreio."
+"We can't save the invoice.","Não foi possível criar a fatura."
+"The invoice has been captured.","A fatura foi capturada."
+"Invoice capturing error","Erro ao capturar a fatura"
+"You canceled the invoice.","A fatura foi cancelada."
+"Invoice canceling error","Erro ao cancelar a fatura"
 "The invoice has been voided.","The invoice has been voided."
 "Invoice voiding error","Invoice voiding error"
 "Create New Order Status","Create New Order Status"
@@ -406,14 +402,13 @@ Mixed,Mixed
 "Ship to:","Enviar para:"
 "Ship To:","Enviar Para:"
 "Shipping Method:","Forma de Envio:"
-"Total Shipping Charges","Total Shipping Charges"
 "We found an invalid renderer model.","We found an invalid renderer model."
 "Please define the PDF object before using.","Please define the PDF object before using."
 "We don't recognize the draw line data. Please define the ""lines"" array.","We don't recognize the draw line data. Please define the ""lines"" array."
 "Total (ex)","Total (ex)"
 "Total (inc)","Total (inc)"
 "Credit Memo # ","Credit Memo # "
-"Invoice # ","Invoice # "
+"Invoice # ","Fatura # "
 "The order object is not specified.","The order object is not specified."
 "The source object is not specified.","The source object is not specified."
 "An item object is not specified.","An item object is not specified."
@@ -447,7 +442,7 @@ Complete,Completo
 "Get shipping methods and rates","Get shipping methods and rates"
 "You don't need to select a shipping method.","You don't need to select a shipping method."
 "Customer's Activities","Customer's Activities"
-"Append Comments","Append Comments"
+"Append Comments","Adicionar Comentário"
 "Email Order Confirmation","Email Order Confirmation"
 "Grand Total Excl. Tax","Grand Total Excl. Tax"
 "Grand Total Incl. Tax","Grand Total Incl. Tax"
@@ -467,19 +462,19 @@ Complete,Completo
 "No Items","No Items"
 "Credit Memo History","Credit Memo History"
 "Credit Memo Totals","Credit Memo Totals"
-"Create Shipment","Create Shipment"
+"Create Shipment","Gerar Envio"
 "Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice."
-"Qty to Invoice","Qty to Invoice"
-"Invoice History","Invoice History"
-"Invoice Comments","Invoice Comments"
-"Invoice Totals","Invoice Totals"
+"Qty to Invoice","Qtd a Faturar"
+"Invoice History","Histórico"
+"Invoice Comments","Comentários"
+"Invoice Totals","Total da Fatura"
 "Capture Amount","Capture Amount"
 "Capture Online","Capture Online"
 "Capture Offline","Capture Offline"
 "Not Capture","Not Capture"
 "The invoice will be created offline without the payment gateway.","The invoice will be created offline without the payment gateway."
-"Email Copy of Invoice","Email Copy of Invoice"
-"Items Invoiced","Items Invoiced"
+"Email Copy of Invoice","Enviar Email da Fatura ao Cliente"
+"Items Invoiced","Itens Faturados"
 "Total Tax","Total Tax"
 "From Name","From Name"
 "To Name","To Name"
@@ -516,17 +511,17 @@ Complete,Completo
 "You have placed no orders.","Você não fez nenhum pedido ainda."
 "<span class=""label"">Order Date:</span> %1","<span class=""label"">Order Date:</span> %1"
 "No shipping information available","No shipping information available"
-"Print Order","Print Order"
+"Print Order","Imprimir"
 "Subscribe to Order Status","Subscribe to Order Status"
-"Print All Invoices","Print All Invoices"
-"Invoice #","Invoice #"
-"Print Invoice","Print Invoice"
-"Qty Invoiced","Qty Invoiced"
-"Refund #%1","Refund #%1"
-"Invoice #%1","Invoice #%1"
-"Shipment #%1","Shipment #%1"
-"Items Shipped","Items Shipped"
-"Qty Shipped","Qty Shipped"
+"Print All Invoices","Imprimir Todas as Faturas"
+"Invoice #","Fatura #"
+"Print Invoice","Imprimir Fatura"
+"Qty Invoiced","Qtd Faturada"
+"Refund #%1","Reembolso #%1"
+"Invoice #%1","Fatura #%1"
+"Shipment #%1","Entrega #%1"
+"Items Shipped","Itens Enviados"
+"Qty Shipped","Qtd Enviada"
 "View All","Ver Todos"
 "Gift Message for This Order","Gift Message for This Order"
 "About Your Order","About Your Order"
@@ -587,10 +582,10 @@ Comma-separated,Comma-separated
 "Invoice Comment Email Template for Guest","Invoice Comment Email Template for Guest"
 "Send Invoice Comment Email Copy To","Send Invoice Comment Email Copy To"
 "Send Invoice Comments Email Copy Method","Send Invoice Comments Email Copy Method"
-Shipment,Shipment
+Shipment,Envio
 "Shipment Email Sender","Shipment Email Sender"
 "Shipment Email Template","Shipment Email Template"
-"Shipment Email Template for Guest","Shipment Email Template for Guest"
+"Shipment Email Template for Guest","Modelo de Email de Envio Para Visitantes"
 "Send Shipment Email Copy To","Send Shipment Email Copy To"
 "Send Shipment Email Copy Method","Send Shipment Email Copy Method"
 "Shipment Comment Email Sender","Shipment Comment Email Sender"
@@ -623,8 +618,8 @@ order-header,order-header
 "Print Credit Memos","Print Credit Memos"
 "Print All","Print All"
 "Print Shipping Labels","Print Shipping Labels"
-"Ship Date","Ship Date"
-"Total Quantity","Total Quantity"
+"Ship Date","Data do Envio"
+"Total Quantity","Quantidade Total"
 "Default Status","Default Status"
 "State Code and Title","State Code and Title"
 "PDF Packing Slips","PDF Packing Slips"
@@ -644,6 +639,10 @@ Operations,Operações
 "Shipping Address","Endereço de Entrega"
 "Provided Zip/Postal Code seems to be invalid. Example: 12345-6789; 12345. If you believe it is the right one you can ignore this notice.","Aparentemente seu CEP é inválido ou não há registro de endereço dele."
 "Provided Zip/Postal Code seems to be invalid. Example: 12345; 12345-678. If you believe it is the right one you can ignore this notice.","Aparentemente seu CEP é inválido ou não há registro de endereço dele."
+"Provided Zip/Postal Code seems to be invalid.","Aparentemente seu CEP é inválido"
+"Example:","Exemplo:"
+" Example: "," Exemplo: "
+"If you believe it is the right one you can ignore this notice.","Se você acha que esta certo pode ignorar esse aviso."
 "Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Horário:<br /><span class=""no-link"">%store_hours</span>."
 "Order & Account Information","Informações do Pedido e do Comprador"
 "Payment & Shipping Method","Pagamento e Frete"
@@ -656,3 +655,5 @@ Not,Não
 "Print Credit Memos","Imprimir Reembolsos"
 "Print All","Imprimit Tudo"
 "Print Shipping Labels","Imprimir Etiquetas de Envio"
+"Items to Invoice","Itens a Faturar"
+"VAT","CPF"

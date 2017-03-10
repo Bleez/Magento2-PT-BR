@@ -2,3 +2,5 @@
 "If enabled, can be used by functional tests for extended reporting","If enabled, can be used by functional tests for extended reporting"
 "Log JS Errors to Session Storage Key","Log JS Errors to Session Storage Key"
 "Use this key to retrieve collected js errors","Use this key to retrieve collected js errors"
+"Save View As...","Salvar visualização como..."
+"Default View","Visualização Padrão"

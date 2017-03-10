@@ -1,12 +1,11 @@
 Product,Product
 ID,ID
 SKU,SKU
-Apply,Apply
-No,No
-Yes,Yes
+Apply,Aplicar
+No,Não
+Yes,Sim
 "Website","Website"
 Status,Status
-"Save and Continue Edit","Save and Continue Edit"
 Type,Type
 Actions,Ações
 Rule,Regra
@@ -15,11 +14,11 @@ Rule,Regra
 Active,Active
 "This rule no longer exists.","This rule no longer exists."
 Websites,Websites
-"Apply Rules","Apply Rules"
+"Apply Rules","Aplicar Regras"
 "Catalog Price Rules","Regras de Catálogo"
 "Add New Rule","Add New Rule"
-"Save and Apply","Save and Apply"
-"Edit Rule '%1'","Edit Rule '%1'"
+"Save and Apply","Salvar e aplicar"
+"Edit Rule '%1'","Editar Regra '%1'"
 "New Rule","New Rule"
 "Rule Information","Rule Information"
 "Update Prices Using the Following Information","Update Prices Using the Following Information"
@@ -35,11 +34,11 @@ Conditions,Condições
 Inactive,Inactive
 "From Date","From Date"
 "To Date","To Date"
-Priority,Priority
+Priority,Prioridade
 "Catalog Price Rule","Regras de Catálogo"
 Promotions,Promoções
 Promo,Promo
-"New Catalog Price Rule","New Catalog Price Rule"
+"New Catalog Price Rule","Nova regra de catálogo"
 "Edit Rule","Edit Rule"
 "Wrong rule specified.","Wrong rule specified."
 "The rule has been saved.","The rule has been saved."
@@ -57,11 +56,16 @@ Promo,Promo
 "By Fixed value","By Fixed value"
 "By Percentage","By Percentage"
 "Update product's %1 %2: %3","Update product's %1 %2: %3"
-"Conditions Combination","Conditions Combination"
+"Conditions Combination","Combinação de condições"
 "Product Attribute","Product Attribute"
 "The rules have been applied.","The rules have been applied."
 "Percentage discount should be between 0 and 100.","Percentage discount should be between 0 and 100."
 "Discount value should be 0 or greater.","Discount value should be 0 or greater."
 "Unknown action.","Unknown action."
 "Subproduct discounts","Subproduct discounts"
-"Discard subsequent rules","Discard subsequent rules"
+"Discard subsequent rules","Descartar outras regras"
+"Conditions (don't add conditions if rule is applied to all products)","Condições (se não adicionar condições as regras serão aplicadas a todos os produtos)"
+"Apply as percentage of original","Aplicar percentagem do valor original"
+"Apply as fixed amount","Aplicar valor fixo"
+"Adjust final price to this percentage","Ajustar valor final a porcentagem"
+"Adjust final price to discount value","Ajustar valor final ao valor do desconto"

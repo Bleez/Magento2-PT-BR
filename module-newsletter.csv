@@ -1,8 +1,5 @@
 Type,Type
 "A total of %1 record(s) were updated.","A total of %1 record(s) were updated."
-"Total of %1 record(s) were deleted","Total of %1 record(s) were deleted"
-Preview,Preview
-Subject,Subject
 Sent,Sent
 "Not Sent","Not Sent"
 Sending,Sending
@@ -10,20 +7,6 @@ Paused,Paused
 Newsletter,Newsletter
 Updated,Updated
 "Newsletter Subscription","Inscrição na Newsletter"
-"Add New Template","Add New Template"
-"Delete Template","Delete Template"
-"Convert to Plain Text","Convert to Plain Text"
-"Preview Template","Preview Template"
-"Save Template","Save Template"
-"Template Information","Template Information"
-"Template Name","Template Name"
-"Template Subject","Template Subject"
-"Template Content","Template Content"
-"Template Styles","Template Styles"
-"Edit Template","Edit Template"
-"New Template","New Template"
-Template,Template
-"Are you sure that you want to delete this template?","Are you sure that you want to delete this template?"
 "Sender Name","Nome do Remetente"
 "Sender Email","Email do Remetente"
 Message,Mensagem
@@ -39,7 +22,7 @@ Recipients,Recipients
 "Queue Date Start","Queue Date Start"
 "Subscribers From","Subscribers From"
 "Newsletter Styles","Newsletter Styles"
-Start,Start
+Start,Começo
 Pause,Pause
 "Do you really want to cancel the queue?","Do you really want to cancel the queue?"
 Resume,Resume
@@ -47,13 +30,11 @@ Resume,Resume
 "Save As","Save As"
 "Edit Newsletter Template","Edit Newsletter Template"
 "New Newsletter Template","New Newsletter Template"
-"No Templates Found","No Templates Found"
 Added,Added
 Sender,Sender
 "Template Type","Template Type"
 "Queue Newsletter...","Queue Newsletter..."
-"Newsletter Problems Report","Newsletter Problems Report"
-"Newsletter Problem Reports","Newsletter Problem Reports"
+"Newsletter Problem Reports","Problemas em Newsletter"
 "We unsubscribed the people you identified.","We unsubscribed the people you identified."
 "Newsletter Queue","Fila de Envio"
 "Edit Queue","Edit Queue"
@@ -117,13 +98,15 @@ Subscriber,Subscriber
 "Queue End","Queue End"
 Processed,Processed
 Unsubscribe,Unsubscribe
-"Customer First Name","Customer First Name"
-"Customer Last Name","Customer Last Name"
-"Not Activated","Not Activated"
-Subscribed,Subscribed
-Unsubscribed,Unsubscribed
+"Customer First Name","Nome"
+"Customer Last Name","Sobrenome"
+"Not Activated","Não Ativo"
+Subscribed,Inscrito
+"Unsubscribed","Não Inscrito"
 Unconfirmed,Unconfirmed
-"Newsletter Template","Template de Newsletter"
-Newsletter Subscriptions,Inscrições de Newsletter
+"Newsletter Template","Modelo de Newsletter"
+"Newsletter Templates","Modelos de Newsletter"
+"Newsletter Subscriptions","Inscrições de Newsletter"
 "You have been successfully subscribed to our newsletter.","Você se cadastrou com sucesso na nossa newsletter."
 "Newsletter subscription success","Inscrição em newsletter com sucesso"
+"Currently Used For","Usado Para"
