@@ -7,7 +7,7 @@
         "AFL-3.0"
     ],
     "require": {
-        "magento/framework": "^100.0.0"
+        "magento/product-enterprise-edition": "^2.*"
     },
     "type": "magento2-language",
     "autoload": {
