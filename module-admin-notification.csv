@@ -10,22 +10,22 @@ close,fechar
 "Read details","Leia os Detalhes"
 Notifications,Notificações
 "The message has been marked as Read.","A mensagem foi marcada como lida."
-"We couldn't mark the notification as Read because of an error.","We couldn't mark the notification as Read because of an error."
-"Please select messages.","Please select messages."
-"A total of %1 record(s) have been marked as Read.","A total of %1 record(s) have been marked as Read."
-"The message has been removed.","The message has been removed."
-"We couldn't remove the messages because of an error.","We couldn't remove the messages because of an error."
-"Total of %1 record(s) have been removed.","Total of %1 record(s) have been removed."
-"1 Hour","1 Hour"
-"2 Hours","2 Hours"
-"6 Hours","6 Hours"
-"12 Hours","12 Hours"
-"24 Hours","24 Hours"
-critical,critical
-major,major
-minor,minor
-notice,notice
-"Wrong message type","Wrong message type"
+"We couldn't mark the notification as Read because of an error.","Não foi possível marcar a notificação como Lida por causa de um erro."
+"Please select messages.","Por favor selecione as mensagens."
+"A total of %1 record(s) have been marked as Read.","Um total de %1 registros(s) foram marcados como Lidos."
+"The message has been removed.","A mensagem foi removida."
+"We couldn't remove the messages because of an error.","Não foi possível remover as mensagens devido a um erro."
+"Total of %1 record(s) have been removed.","Total de %1 registro(s) foram removidos."
+"1 Hour","1 Hora"
+"2 Hours","2 Horas"
+"6 Hours","6 Horas"
+"12 Hours","12 Horas"
+"24 Hours","24 Horas"
+critical,crítico
+major,maior
+minor,menor
+notice,notícia
+"Wrong message type","Tipo de mensagem errado"
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. It is highly recommended to change this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. It is highly recommended to change this value in your Magento <a href=""%1"">configuration</a>."
 "One or more of the Cache Types are invalidated: %1. ","Um ou mais caches estão inválidos: %1. "
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Vá em <a href=""%1"">Gerenciamento de Cache</a> e atualize-os."
