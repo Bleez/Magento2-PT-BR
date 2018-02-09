@@ -1,10 +1,10 @@
 Email,Email
-"* Required Fields","* Required Fields"
-Telephone,Telephone
-"Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Thanks for contacting us with your comments and questions. We'll respond to you very soon."
-"We can't process your request right now. Sorry, that's all we know.","We can't process your request right now. Sorry, that's all we know."
+"* Required Fields","* Campos Obrigatórios"
+Telephone,Telefone
+"Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Obrigado pelo seu comentário. Nós iremos responder em breve."
+"We can't process your request right now. Sorry, that's all we know.","Ops. Ocorreu um problema no envio, tente novamente mais tarde"
 "Contact Information","Informação de Contato"
-Comment,Comment
+Comment,Comentário
 "Email Template","Email Template"
 Contacts,Contatos
 "Contact Us","Fale Conosco"
@@ -12,6 +12,6 @@ Contacts,Contatos
 "Email Options","Opções de Email"
 "Send Emails To","Enviar Para"
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Template baseado no tema da loja quando o ""Default"" for escolhido"
-"Write Us","Escreva-nos"
-"Jot us a note and we’ll get back to you as quickly as possible.","Deixe uma nota e nós vamos voltar para você o mais rápido possível."
+"Write Us","Fale Conosco"
+"Jot us a note and we’ll get back to you as quickly as possible.","Escreva abaixo caso tenha alguma dúvida, crítica ou sugestão, vamos responder o mais rápido possível."
 "What’s on your mind?","Deixe uma mensagem"
