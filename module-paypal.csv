@@ -5,10 +5,10 @@
 "Shipping Information","Shipping Information"
 "Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order."
 "Account confirmation is required. Please, check your e-mail for confirmation link. To resend confirmation email please <a href=""%1"">click here</a>.","Account confirmation is required. Please, check your e-mail for confirmation link. To resend confirmation email please <a href=""%1"">click here</a>."
-Password,Password
-Continue,Continue
+Password,Senha
+Continue,Continuar
 Login,Login
-Display,Display
+Display,Exibir
 User,User
 Daily,Daily
 Never,Never
@@ -43,7 +43,7 @@ Help,Help
 "Please re-enable the previously enabled payment solutions.","Please re-enable the previously enabled payment solutions."
 "View Demo","View Demo"
 "See terms","See terms"
-"You will be redirected to the PayPal website.","You will be redirected to the PayPal website."
+"You will be redirected to the PayPal website.","Você será redirecionado para o site do Paypal."
 "Would you like to sign a billing agreement ' 'to streamline further purchases with PayPal?","Would you like to sign a billing agreement ' 'to streamline further purchases with PayPal?"
 "You will be redirected to the PayPal website when you place an order.","You will be redirected to the PayPal website when you place an order."
 "Click here if you are not redirected within 10 seconds.","Click here if you are not redirected within 10 seconds."
@@ -635,10 +635,11 @@ Vendor,Vendor
 "Website Payments Pro Hosted Solution (Includes Express Checkout)","Website Payments Pro Hosted Solution (Includes Express Checkout)"
 "Website Payments Pro Hosted Solution and Express Checkout","Website Payments Pro Hosted Solution and Express Checkout"
 "Basic Settings - PayPal Website Payments Pro Hosted Solution","Basic Settings - PayPal Website Payments Pro Hosted Solution"
-"PayPal Payment Solutions","PayPal Payment Solutions"
+"PayPal Payment Solutions","PayPal Soluções em Pagaemnto"
 "Display on Product Details Page","Display on Product Details Page"
-verified,verified
-unverified,unverified
-Eligible,Eligible
-Ineligible,Inligible
-"PayPal Express Checkout","PayPal Express Checkout"
+verified,verificado
+"unverified","não verificado"
+Eligible,Elegíbel
+Ineligible,Inéligível
+"PayPal Express Checkout","PayPal Checkout Expresso"
+"Continue to PayPal","Finalizar com PayPal"
