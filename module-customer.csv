@@ -1,63 +1,63 @@
 Customers,Clientes
-"No item specified.","No item specified."
-"Are you sure that you want to remove this item?","Are you sure that you want to remove this item?"
-Orders,Orders
+"No item specified.","Nenhum item especificado."
+"Are you sure that you want to remove this item?","Tem certeza que deseja remover esse item?"
+Orders,Pedidos
 Customer,Cliente
 "All Store Views","Todas as Visões"
-"First Name","First Name"
-"Last Name","Last Name"
+"First Name","Nome"
+"Last Name","Sobrenome"
 Email,Email
-"New Password","New Password"
-"Delete File","Delete File"
-Delete,Delete
-Save,Save
-Store,Store
-Yes,Yes
+"New Password","Nova Senha"
+"Delete File","Excluir Arquivo"
+Delete,Deletar
+Save,Salvar
+Store,Loja
+Yes,Sim
 "Website","Website"
 Status,Status
-Type,Type
-"You deleted the customer.","You deleted the customer."
-"IP Address","IP Address"
+Type,Tipo
+"You deleted the customer.","Você excluiu o cliente."
+"IP Address","Endereço de IP"
 "Personal Information","Dados Pessoais"
-"* Required Fields","* Required Fields"
-Day,Day
-label,label
+"* Required Fields","* Campos Obrigatórios"
+Day,Dia
+label,etiqueta
 Global,Global
-Change,Change
+Change,Mundar
 "A total of %1 record(s) were updated.","Total de %1 registros atualizados."
-"End Date","End Date"
-Telephone,Telephone
-Fax,Fax
-Password,Password
+"End Date","Data Final"
+Telephone,Telefone
+Fax,Celular
+Password,Senha
 "Confirm Password","Confirme a Senha"
 Login,Login
 "Forgot Your Password?","Esqueceu sua senha?"
 "Forgot your password?","Esqueceu sua senha?"
-Register,Register
-"Log Out","Log Out"
-"Log In","Log In"
+Register,Cadastrar
+"Log Out","Sair"
+"Log In","Entrar"
 "You subscribe to our newsletter.","Você está inscrito em nossa newsletter."
 "You don't subscribe to our newsletter.","Você não está inscrito em nossa newsletter."
-"You are currently not subscribed to our newsletter.","You are currently not subscribed to our newsletter."
+"You are currently not subscribed to our newsletter.","Você ainda não está inscrito na nossa newsletter."
 "You have not set a default shipping address.","Não há endereço de entrega padrão."
 "You have not set a default billing address.","Não há endereço de cobrança padrão."
 "Address Book","Endereços Cadastrados"
 "Edit Address","Editar Endereço"
-region,region
+region,Região
 "Add New Customer","Novo"
 "Save Customer","Salvar"
 "Delete Customer","Excluir"
 "Reset Password","Resetar Senha"
 "New Customer","Novo Cliente"
 "or ","ou "
-" Send auto-generated password"," Send auto-generated password"
+" Send auto-generated password"," Enviar senha gerado automaticamente"
 "Please select","Selecione"
-"Send Welcome Email","Send Welcome Email"
-"Send From","Send From"
-"Send Welcome Email after Confirmation","Send Welcome Email after Confirmation"
+"Send Welcome Email","Enviar E-mail de Boas-vindas"
+"Send From","Enviar Para"
+"Send Welcome Email after Confirmation","Enviar E-mail de Boas-Vindas após confirmação"
 "Delete Address","Excluir Endereço"
-"Edit Customer's Address","Edit Customer's Address"
-"Shopping Cart from %1","Shopping Cart from %1"
+"Edit Customer's Address","Editar Endereço do Cliente"
+"Shopping Cart from %1","Carrinho de %1"
 "Newsletter Information","Newsletter Information"
 "Subscribed to Newsletter","Subscribed to Newsletter"
 "Last Date Subscribed","Last Date Subscribed"
