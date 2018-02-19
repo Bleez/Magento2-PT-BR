@@ -16,7 +16,7 @@ Updated,Updated
 "View Order","View Order"
 Event,Event
 "Please Select","Please Select"
-"Submitting order information...","Submitting order information..."
+"Submitting order information...","Aguarde..."
 Authorization,Authorization
 "You notified customer about invoice #%1.","You notified customer about invoice #%1."
 "Note: %1","Note: %1"
@@ -141,7 +141,7 @@ Auto,Auto
 "Buyer claims that the received merchandise is unsatisfactory, defective, or damaged.","Buyer claims that the received merchandise is unsatisfactory, defective, or damaged."
 "Unknown reason. Please contact PayPal customer service.","Unknown reason. Please contact PayPal customer service."
 "Payer ID","Payer ID"
-"Payer Email","Payer Email"
+"Payer Email","E-mail do remetente"
 "Payer Status","Payer Status"
 "Payer Address ID","Payer Address ID"
 "Payer Address Status","Payer Address Status"
@@ -150,8 +150,8 @@ Auto,Auto
 "Last Correlation ID","Last Correlation ID"
 "Address Verification System Response","Address Verification System Response"
 "CVV2 Check Result by PayPal","CVV2 Check Result by PayPal"
-"Buyer's Tax ID","Buyer's Tax ID"
-"Buyer's Tax ID Type","Buyer's Tax ID Type"
+"Buyer's Tax ID","ID do imposto do comprador
+"Buyer's Tax ID Type","Tipo de identificação fiscal do comprador"
 Chargeback,Chargeback
 Complaint,Complaint
 Dispute,Dispute
