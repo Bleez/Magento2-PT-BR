@@ -23,7 +23,7 @@ Type,Tipo
 Day,Dia
 label,etiqueta
 Global,Global
-Change,Mundar
+Change,Alterar
 "A total of %1 record(s) were updated.","Total de %1 registros atualizados."
 "End Date","Data Final"
 Telephone,Telefone
@@ -354,7 +354,6 @@ Group,Grupo
 "Assign a Customer Group","Assign a Customer Group"
 Phone,Phone
 ZIP,ZIP
-"Customer Since","Customer Since"
 n/a,n/a
 "Session Start Time","Session Start Time"
 "Last Activity","Last Activity"

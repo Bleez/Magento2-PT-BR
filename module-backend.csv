@@ -339,7 +339,7 @@ Database,Database
 "HTTPS (SSL)","HTTPS (SSL)"
 "Yes (302 Found)","Yes (302 Found)"
 "Yes (301 Moved Permanently)","Yes (301 Moved Permanently)"
-Specified,Specified
+Specified,Especificado
 Order,Pedido
 "Order # %1","Pedido #%1"
 "Order #%1","Pedido #%1"
@@ -616,7 +616,7 @@ Options,Options
 "Top Search Terms","Principais Buscas"
 "Your Password","Sua Senha"
 "You saved the account.","Você salvou a conta."
-"Current User Identity Verification","Current User Identity Verification"
+"Current User Identity Verification","Verificação de Identidade do Usuário"
 Marketing,Marketing
 Communications,Comunicação
 "SEO & Search","SEO & Busca"
