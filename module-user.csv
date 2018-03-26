@@ -80,7 +80,7 @@ Permissions,Permissões
 "Your password must be at least %1 characters.","Sua senha de conter pelo menos %1 caracteres."
 "Your password must include both numeric and alphabetic characters.","Sua senha deve conter numeros e letras."
 "Your password confirmation must match your password.","A confirmação da senha deve ser igual a senha."
-"You did not sign in correctly or your account is temporarily disabled.","Você não pode se logar sua conta foi desativada temporariamente."
+"You did not sign in correctly or your account is temporarily disabled.","Você não fez login corretamente ou sua conta está desativada temporariamente."
 "Forgot your user name or password?","Esqueceu seu usuário ou sua senha?"
 "Retrieve Password","Recuperar Senha"
 "Roles Resources","Recursos do grupo"
