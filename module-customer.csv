@@ -414,6 +414,7 @@ Update,Atualizar
 "You updated your password.","Senha alterada com sucesso."
 "The customer will receive an email with a link to reset password.","O cliente receberá um email com link para resetar a senha."
 "Something went wrong while resetting customer password.","Houve um erro ao resetar a senha."
+"Something went wrong while saving the new password.","Houve um erro ao salvar a nova senha."
 "Create Order","Criar Pedido"
 "Too many password reset requests. Please wait and try again or contact hello@example.com.","Muitos pedidos se recuperação de senha feitos. Tente novamente mais tarde."
 Male,Masculino
