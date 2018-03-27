@@ -18,7 +18,7 @@ Role,Role
 Inactive,Inativo
 Password,Senha
 "Reset Password","Recuperar senha"
-"If there is an account associated with %1 you will receive an email with a link to reset your password.","Se existir uma conta assiciado a %1 você receberá um e-mail para recuperar sua senha."
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","Se existir uma conta associado a %1 você receberá um e-mail para recuperar sua senha."
 "Your password reset link has expired.","Seu link de recuperação de senha expirou."
 "Your password has been updated.","Sua senha foi atualizada."
 "The first name cannot be empty.","O campo nome é obrigatório."
