@@ -438,3 +438,4 @@ Female,Feminino
 "Are you sure you want to delete this item?","Tem certeza?"
 "Checkout as a new customer","Criar nova conta"
 "Please enter the same value again.", "Por favor digite a mesma senha."
+"New Password and Confirm New Password values didn't match.", "Os valores de senha e Confirmar nova senha não são iguais."
