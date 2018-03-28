@@ -405,7 +405,7 @@ Suffix,Sufixo
 "Password Strength","Força da Senha"
 "Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","A senha precisa conter %1 ou mais caracteres. Espaços a direita e a esquerda serão ignorados."
 Update,Atualizar
-"No Password","Sem Senha"
+"No Password","Muito Fraca"
 "Weak","Fraca"
 "Medium","Médio"
 "Strong","Forte"
