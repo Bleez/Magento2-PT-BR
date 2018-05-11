@@ -18,7 +18,7 @@ Role,Role
 Inactive,Inativo
 Password,Senha
 "Reset Password","Recuperar senha"
-"If there is an account associated with %1 you will receive an email with a link to reset your password.","Se existir uma conta assiciado a %1 você receberá um e-mail para recuperar sua senha."
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","Se existir uma conta associado a %1 você receberá um e-mail para recuperar sua senha."
 "Your password reset link has expired.","Seu link de recuperação de senha expirou."
 "Your password has been updated.","Sua senha foi atualizada."
 "The first name cannot be empty.","O campo nome é obrigatório."
@@ -80,7 +80,7 @@ Permissions,Permissões
 "Your password must be at least %1 characters.","Sua senha de conter pelo menos %1 caracteres."
 "Your password must include both numeric and alphabetic characters.","Sua senha deve conter numeros e letras."
 "Your password confirmation must match your password.","A confirmação da senha deve ser igual a senha."
-"You did not sign in correctly or your account is temporarily disabled.","Você não pode se logar sua conta foi desativada temporariamente."
+"You did not sign in correctly or your account is temporarily disabled.","Email ou senha está incorreto."
 "Forgot your user name or password?","Esqueceu seu usuário ou sua senha?"
 "Retrieve Password","Recuperar Senha"
 "Roles Resources","Recursos do grupo"

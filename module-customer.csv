@@ -405,7 +405,7 @@ Suffix,Sufixo
 "Password Strength","Força da Senha"
 "Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","A senha precisa conter %1 ou mais caracteres. Espaços a direita e a esquerda serão ignorados."
 Update,Atualizar
-"No Password","Sem Senha"
+"No Password","Muito Fraca"
 "Weak","Fraca"
 "Medium","Médio"
 "Strong","Forte"
@@ -414,6 +414,7 @@ Update,Atualizar
 "You updated your password.","Senha alterada com sucesso."
 "The customer will receive an email with a link to reset password.","O cliente receberá um email com link para resetar a senha."
 "Something went wrong while resetting customer password.","Houve um erro ao resetar a senha."
+"Something went wrong while saving the new password.","Houve um erro ao salvar a nova senha."
 "Create Order","Criar Pedido"
 "Too many password reset requests. Please wait and try again or contact hello@example.com.","Muitos pedidos se recuperação de senha feitos. Tente novamente mais tarde."
 Male,Masculino
@@ -436,3 +437,6 @@ Female,Feminino
 "Account Created:","Conta criada:"
 "Are you sure you want to delete this item?","Tem certeza?"
 "Checkout as a new customer","Criar nova conta"
+"Please enter the same value again.", "Por favor digite a mesma senha."
+"New Password and Confirm New Password values didn't match.", "Os valores de senha e Confirmar nova senha não são iguais."
+"Please type the letters and numbers below","Digite as letras e números abaixo"
