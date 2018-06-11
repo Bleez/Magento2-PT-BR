@@ -1,57 +1,57 @@
-Type,Type
-"A total of %1 record(s) were updated.","A total of %1 record(s) were updated."
-Sent,Sent
-"Not Sent","Not Sent"
-Sending,Sending
-Paused,Paused
+Type,Tipo
+"A total of %1 record(s) were updated.","Um total de %1 registro(s) foram atualizados."
+Sent,Emviar
+"Not Sent","Não Enviar"
+Sending,Enviando
+Paused,Pausado
 Newsletter,Newsletter
-Updated,Updated
+Updated,Atualizado
 "Newsletter Subscription","Inscrição na Newsletter"
 "Sender Name","Nome do Remetente"
 "Sender Email","Email do Remetente"
 Message,Mensagem
 Recipients,Recipients
-"Please enter a valid email address.","Please enter a valid email address."
-"Delete Selected Problems","Delete Selected Problems"
+"Please enter a valid email address.","Por favor informe um email válido."
+"Delete Selected Problems","Deletar Problemas Selecionados"
 "Unsubscribe Selected","Unsubscribe Selected"
-"Save Newsletter","Save Newsletter"
-"Save and Resume","Save and Resume"
-"View Newsletter","View Newsletter"
-"Edit Newsletter","Edit Newsletter"
-"Queue Information","Queue Information"
+"Save Newsletter","Salvar Newsletter"
+"Save and Resume","Salvar e Continuar"
+"View Newsletter","Visualizar Newsletter"
+"Edit Newsletter","Editar Newsletter"
+"Queue Information","Informações da Queue"
 "Queue Date Start","Queue Date Start"
 "Subscribers From","Subscribers From"
-"Newsletter Styles","Newsletter Styles"
+"Newsletter Styles","Estilos da Newsletter"
 Start,Começo
-Pause,Pause
-"Do you really want to cancel the queue?","Do you really want to cancel the queue?"
-Resume,Resume
+Pause,Pausa
+"Do you really want to cancel the queue?","Você realmente gostaria de cancelar a queue?"
+Resume,Resump
 "Return HTML Version","Return HTML Version"
-"Save As","Save As"
-"Edit Newsletter Template","Edit Newsletter Template"
-"New Newsletter Template","New Newsletter Template"
-Added,Added
-Sender,Sender
-"Template Type","Template Type"
+"Save As","Salvar Como"
+"Edit Newsletter Template","Editar template da Newsletter"
+"New Newsletter Template","Novo Template da Newsletter"
+Added,Adicionado
+Sender,Remetente
+"Template Type","Tipo do Template"
 "Queue Newsletter...","Queue Newsletter..."
-"Newsletter Problem Reports","Problemas em Newsletter"
+"Newsletter Problem Reports","Reportar Problemas da Newsletter"
 "We unsubscribed the people you identified.","We unsubscribed the people you identified."
 "Newsletter Queue","Fila de Envio"
 "Edit Queue","Edit Queue"
-"Please correct the newsletter template and try again.","Please correct the newsletter template and try again."
+"Please correct the newsletter template and try again.","Por favor, selecione o template correto da newsletter e tente novamente."
 "The newsletter queue has been saved.","The newsletter queue has been saved."
 "Newsletter Subscribers","Emails Inscritos"
-Subscribers,Subscribers
-"Please select one or more subscribers.","Please select one or more subscribers."
-"Create Newsletter Template","Create Newsletter Template"
-"The newsletter template has been saved.","The newsletter template has been saved."
-"An error occurred while saving this template.","An error occurred while saving this template."
-"The newsletter template has been deleted.","The newsletter template has been deleted."
+Subscribers,Inscritos
+"Please select one or more subscribers.","Por favor, selecione um ou mais inscritos."
+"Create Newsletter Template","Criar um template para a Newsletter"
+"The newsletter template has been saved.","O template da newsletter foi salvo."
+"An error occurred while saving this template.","Um erro ocorreu quando o template estava sendo salvo."
+"The newsletter template has been deleted.","O template da newsletter foi excluído."
 "An error occurred while deleting this template.","An error occurred while deleting this template."
 "Something went wrong while saving your subscription.","Something went wrong while saving your subscription."
 "We saved the subscription.","Informações salvas."
-"We removed the subscription.","We removed the subscription."
-"The confirmation request has been sent.","The confirmation request has been sent."
+"We removed the subscription.","Nós removemos a inscrição."
+"The confirmation request has been sent.","o email de confirmação foi enviado."
 "Thank you for your subscription.","Obrigado por se inscrever."
 "There was a problem with the subscription: %1","Houve um problema ao se inscrever: %1"
 "Something went wrong with the subscription.","Houve um problema ao se inscrever."
@@ -62,18 +62,18 @@ Subscribers,Subscribers
 "Something went wrong with the un-subscription.","Something went wrong with the un-subscription."
 "This email address is already assigned to another user.","O email já está associado a outro usuário."
 "Sorry, but the administrator denied subscription for guests. ' 'Please <a href=""%1"">register</a>.","Sorry, but the administrator denied subscription for guests. ' 'Please <a href=""%1"">register</a>."
-Cancelled,Cancelled
+Cancelled,Cancelado
 "There are no subscribers selected.","There are no subscribers selected."
 "You selected an invalid queue.","You selected an invalid queue."
 "We cannot mark as received subscriber.","We cannot mark as received subscriber."
-"Duplicate template code","Duplicate template code"
+"Duplicate template code","Código de template duplicado"
 "Follow this link to unsubscribe <!-- This tag is for unsubscribe link  -->' '<a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}' '</a>","Follow this link to unsubscribe <!-- This tag is for unsubscribe link  -->' '<a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}' '</a>"
 "Choose Store View:","Choose Store View:"
 "Newsletter Message Preview","Newsletter Message Preview"
 "Add to Queue","Add to Queue"
 "Are you sure that you want to strip all tags?","Are you sure that you want to strip all tags?"
-"Please enter new template name.","Please enter new template name."
-" Copy"," Copy"
+"Please enter new template name.","Por favor, insira um novo nome de template"
+" Copy"," Copiar"
 "Sign Up for Our Newsletter:","Sign Up for Our Newsletter:"
 "Enter your email address","Informe seu email"
 Subscribe,Inscrever
@@ -88,7 +88,7 @@ CSV,CSV
 "Success Email Template","Success Email Template"
 "Unsubscription Email Sender","Unsubscription Email Sender"
 "Unsubscription Email Template","Unsubscription Email Template"
-"We found no problems.","We found no problems."
+"We found no problems.","Nós não encontramos problemas."
 Subscriber,Subscriber
 "Queue Start Date","Queue Start Date"
 "Queue Subject","Queue Subject"
