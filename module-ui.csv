@@ -4,3 +4,206 @@
 "Use this key to retrieve collected js errors","Use this key to retrieve collected js errors"
 "Save View As...","Salvar visualização como..."
 "Default View","Visualização Padrão"
+"Condition type ""%1"" is not allowed","Tipo de condição ""%1"" não é permitida
+"The configuration parameter ""formElement"" is a required for ""%1"" field.","O parâmetro de configuração ""formElement"" é obrigatório para o campo ""%1""."
+"Remove %1","Remover %1"
+"Add New %1","Add Novo %1"
+"New %1","Novo %1"
+"Please select item(s).","Por favor selecione um item(s)."
+"Invalid XML in file %1:\n%2","XML inválido no arquivo %1:\n%2"
+.,.
+"Unsupported bookmark action.","Ação de marcador não suportada."
+"Parameter ""class"" must be present.","Parâmetro ""class"" precisa estar presente."
+"Parameter ""sortOrder"" must be present.","Parâmetro ""sortOrder"" precisa estar presente."
+"Invalid UI Component element name: '%1'","Inválido UI Component nome do elemento: '%1'"
+"Bookmark with id ""%1"" does not exist.","Bookmark with id ""%1"" does not exist."
+"Invalid UI Component element name: ''","Invalid UI Component element name: ''"
+Cancel,Cancelar
+Back,Voltar
+Next,Próximo
+"Changes have been made to this section that have not been saved.","Changes have been made to this section that have not been saved."
+"This tab contains invalid data. Please resolve this before saving.","This tab contains invalid data. Please resolve this before saving."
+Assign,Atribuir
+Options,Opções
+"records found","registros encontrados"
+selected,selecionado
+of,de
+Filters,Filtros
+Add,Add
+"Something went wrong.","Algo deu errado."
+Yes,Sim
+No,Não
+Done,Feito
+options,opções
+Select...,Selecionar...
+Selected,Selecionado
+"Select All","Selecionar Tudo"
+"Deselect All","Desmarcar Tudo"
+"Select All on This Page","Selecionar Tudo nessa Página"
+"Deselect All on This Page","Desmarcar Tudo nessa Página"
+On,Ligado
+Off,Desligado
+"Go to Details Page","Ir para Página de Detalhes"
+"New View","Nova Visão"
+"Default View","Visão Padrão"
+"${ $.visible } out of ${ $.total } visible","${ $.visible } de um ${ $.total } visível"
+"You have successfully saved your edits.","Você salvou com sucesso suas edições."
+"There are {placeholder} messages requires your attention.","Existem {placeholder} mensagens que necessitam da sua atenção."
+from,de
+to,para
+"You haven't selected any items!","Você não selecionou nenhum item(s)!"
+"Search by keyword","Buscar por palavra-chave"
+Keyword,Palavra-chave
+"Select Date","Selecionar Data"
+"Please enter more or equal than {0} symbols.","Por favor digite mais ou igual a {0} símbolos."
+"Please enter less or equal than {0} symbols.","Por favor digite menos ou igual a {0} symbols."
+"Please enter {0} words or less.","Por favor digite {0} palavras ou menos."
+"Please enter at least {0} words.","Por favor digite ao menos {0} palavras."
+"Please enter between {0} and {1} words.","Por favor digite entre {0} e {1} palavras."
+"Letters or punctuation only please","Apenas letras e pontuações por favor."
+"Letters, numbers, spaces or underscores only please","Letras, números, espaços ou underline apenas."
+"Letters only please","Apenas letras por favor"
+"No white space please","Sem espaços vazios por favor"
+"Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","Seu CEP estar dentro do intervalo 902xx-xxxx e 905-xx-xxxx"
+"A positive or negative non-decimal number please","Informe um número positivo ou não decimal"
+"The specified vehicle identification number (VIN) is invalid.","A placa de indentificão do carro (VIN) é inválida"
+"Please enter a correct date","Por favor informe uma data correta"
+"Vul hier een geldige datum in.","Vul hier een geldige datum in."
+"Please enter a valid time, between 00:00 and 23:59","Por favor informe uma hora válida, entre 00:00 e 23:59"
+"Please enter a valid time, between 00:00 am and 12:00 pm","Por favor informe uma hora válida, entre 00:00 am e 12:00 pm"
+"Please specify a valid phone number","Por favor digite um número de telefone válido"
+"Please specify a valid mobile number","Por favor digite um número de celular válido"
+"Please enter at least {0} characters","Por favor digite no mínimo {0} caracteres"
+"Please enter a valid credit card number.","Please digite número de cartão de crédito válido."
+"Please enter a valid IP v4 address.","Por favor digite um número de endereço IP V4 válido."
+"Please enter a valid IP v6 address.","Por favor digite um núnero de endereço IP v6 válido."
+"Invalid format.","Formato inválido."
+"HTML tags are not allowed.","Tags HTML não são permitidas."
+"Please select an option.","Por favor selecione uma opção."
+"Empty Value.","Valor Vazio."
+"Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.","Por favor use apenas letras (a-z ou A-Z), números (0-9) ou espaços nesse campo."
+"Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Por favor use apenas letras (a-z ou A-Z), números (0-9) ou underline (_) nesse campo, e o primeiro caracter precisa ser uma letra."
+"Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.","Por favor use apenas letras (a-z ou A-Z), números (0-9), espaços e ""#"" nesse campo."
+"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","Por favor informe um número de telefone válido. Por exemplo (123) 456-7890 ou 123-456-7890."
+"Please enter a valid fax number (Ex: 123-456-7890).","Por favor informe um número de fax válido (Ex: 123-456-7890)."
+"Please enter a valid email address (Ex: johndoe@domain.com).","Por favor informe um endereço de e-mail (Ex: johndoe@domain.com)."
+"Please enter 6 or more characters. Leading and trailing spaces will be ignored.","Por favor informe 6 ou mais caracteres. Espaços à esquerda e à direita serão ignorados."
+"Please enter 7 or more characters, using both numeric and alphabetic.","Por favor informe 7 ou mais caracteres, usando ambos númericos e alfabéticos."
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","O comprimento mínimo deste campo deve ser igual ou maior que %1 símbolos. Espaços à esquerda e à direita serão ignorados."
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Informe diferentes tipos de caracteres, no mínimo %1. Minúscula, Maiúsculas, Dígitos, Caracteres especiais."
+"Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","Por favor informe uma URL válida. Protocolo é obrigatório (http://, https:// or ftp://)."
+"Please enter a valid URL. For example http://www.example.com or www.example.com.","Por favor informe uma URL válida. Por exemplo http://www.examplo.com.br ou www.examplo.com.br"
+"Please enter a valid XML-identifier (Ex: something_1, block5, id-4).","Por favor informe válido XML-identificador (Ex: something_1, block5, id-4)."
+"Please enter a valid social security number (Ex: 123-45-6789).","Por favor insira um número de segurança social válido (Ex: 123-45-6789)."
+"Please enter a valid zip code (Ex: 90602 or 90602-1234).","Por favor informe um CEP válido (Ex: 90602 ou 90602-1234)."
+"Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.","Por favor use o seguinte formato de data: dd/mm/yyyy. Pr exemplo 17/03/2006 para 17 de Março de 2006."
+"Please enter a valid $ amount. For example $100.00.","Por favor informe um montate de dinheiro válido. Por exemplo $100.00."
+"Please enter a number 0 or greater in this field.","Por favor informe um número 0 ou maior nesse campo."
+"Please enter a number greater than 0 in this field.","Por favor informe maior que 0 nesse campo."
+"Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).","Por favor insira um tamanho de CSS válido (Ex: 100px, 77pt, 20em, .5ex or 50%)."
+"Please enter a valid number in this field.","Por favor informe um número válido nesse campo."
+"Please enter a valid integer in this field.","Por favor informe um número inteiro válido nesse campo."
+"The value is not within the specified range.","O valor não está entre os intervalo especificado."
+"Please use letters only (a-z or A-Z) in this field.","Por favor use apenas (a-z ou A-Z) nesse campo."
+"Please use only letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Por favor use apenas letras (a-z), números (0-9) ou underline (_) nesse campo, e o primeiro caracter precisa ser uma letra."
+"Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.","Por favor use apenas letras (a-z ou A-Z) ou números (0-9) nesse campo. Espaços ou outros caracteres não são permitidos."
+"Please enter a valid date.","Please enter a valid date."
+"Please enter a valid URL Key (Ex: ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"").","Por favor informe uma URL amigável válida (Ex: ""example-page"", ""example-page.html"" ou ""anotherlevel/example-page"")."
+"Please enter a valid zip code.","Por favor informe um CEP válido."
+"Please select State/Province.","Por favor selecione o Estado."
+"Please enter a value less than or equal to {0}.","Por favor informe um valor menor ou igual a {0}."
+"Please enter a value greater than or equal to {0}.","Por favor informe um valor maior ou igual a {0}."
+"Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com.","Por favor informe endereços de e-mail válidos, separado por vírgula. Por exemplo: johndoe@domain.com, johnsmith@domain.com."
+"Please enter issue number or start date for switch/solo card type.","Por favor insira o número da edição ou a data de início do tipo de cartão switch/solo."
+"This is a required field.","Campo obrigatório."
+"Please enter positive number in this field.","Por favor informe um número positivo nesse campo."
+"Please enter a valid value, ex: 10,20,30","Por favor informe um valor válido, ex: 10,20,30"
+"We don't recognize or support this file extension type.","Não reconhecemos ou suportamos essa extenção de arquivo."
+"File you are trying to upload exceeds maximum file size limit.","Arquivo que você está tentando enviar excede o tamanho limite de arquivos."
+"Please use tag SCRIPT with SRC attribute or with proper content to include JavaScript to the document.","Por favor use tag SCRIPT with SRC attribute or with proper content to include JavaScript to the document."
+"The date is not within the specified range.","A data não está no intervalo especificado."
+Attention,Atenção
+OK,OK
+Close,Fechar
+Ok,Ok
+"Label Button 2","Label Button 2"
+"Label Actions One","Label Actions One"
+"Label Actions Two","Label Actions Two"
+"Some Dynamic Actions","Some Dynamic Actions"
+"Log JS Errors to Session Storage","Log JS Errors to Session Storage"
+"Log JS Errors to Session Storage Key","Log JS Errors to Session Storage Key"
+settings/label,settings/label
+settings/confirm/title,settings/confirm/title
+"settings/confirm/message
+                        ","settings/confirm/message
+                        "
+"
+                            settings/callback/provider
+                        ","
+                            settings/callback/provider
+                        "
+"settings/callback/target
+                        ","settings/callback/target
+                        "
+"settings/newViewLabel
+                    ","settings/newViewLabel
+                    "
+settings/title,settings/title
+settings/description,settings/description
+"
+                        settings/addButtonLabel
+                    ","
+                        settings/addButtonLabel
+                    "
+"
+                        formElements/*[name(.)=../../@formElement]/settings/description
+                    ","
+                        formElements/*[name(.)=../../@formElement]/settings/description
+                    "
+"
+                        formElements/*[name(.)=../../@formElement]/settings/caption
+                    ","
+                        formElements/*[name(.)=../../@formElement]/settings/caption
+                    "
+"
+                        formElements/*[name(.)=../../@formElement]/settings/title
+                    ","
+                        formElements/*[name(.)=../../@formElement]/settings/title
+                    "
+settings/placeholder,settings/placeholder
+settings/caption,settings/caption
+settings/subTitle,settings/subTitle
+settings/visible,settings/visible
+settings/showLabel,settings/showLabel
+settings/breakLine,settings/breakLine
+settings/required,settings/required
+settings/size,settings/size
+settings/notice,settings/notice
+settings/tooltip/description,settings/tooltip/description
+settings/addBefore,settings/addBefore
+settings/addAfter,settings/addAfter
+Action,Ação
+CSV,CSV
+"Excel XML","Excel XML"
+"Please select one of the options above.","Por favor selecione uma das opções acima."
+"Please select a file.","Por favor seleciona um arquivo."
+"Please select one of the options.","Por favor selecione uma das opcões."
+"Please enter a value less than or equal to %s.","Por favor informe um valor menor ou igual a %s."
+"Please enter a value greater than or equal to %s.","Por favor informe valor maior ou igual a %s."
+"Card type does not match credit card number.","Cartão não corresponde a um número de cartão de crédito."
+"Credit card number does not match credit card type.","Número do cartão de crédito não corresponde ao tipo do cartão."
+"Incorrect credit card expiration date.","Data de expiração de cartão de crédito é incorreta."
+"Please enter less or equal than %1 symbols.","Por favor introduza menos ou igual a %1 símbolos"
+"Please enter more or equal than %1 symbols.","Por favor introduza mais ou igual a %1 símbolos."
+"Please enter a valid value from list","Por favor insira um valor válido da lista"
+"Please enter valid SKU key.","Por favor informe uma SKU válida."
+"Please enter a valid number.","Por favor informe um número válido."
+"Admin is a required field in the each row.","Admin é um campo obrigatório em cada linha."
+"Please fix this field.","Por favor corrija esse campo."
+"Please enter a valid date (ISO).","Por favor informe uma data válida (ISO)."
+"Please enter only digits.","Por favor digite apenas dígitos."
+"Please enter the same value again.","Por favor digite o mesmo valor novamente."
+"Please enter no more than {0} characters.","Por favor não digite mais que {0} caracteres."
+"Please enter at least {0} characters.","Por favor digite ao menos {0} caracteres."
+"Please enter a value between {0} and {1} characters long.","Por favor digite um valor entre {0} e {1} de comprimento."
+"Please enter a value between {0} and {1}.","Por favor digite um valor entre {0} e {1}."

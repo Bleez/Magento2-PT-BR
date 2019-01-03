@@ -21,3 +21,4 @@ Layouts,Layouts
 "Collection data files.","Collection data files."
 "All Stores","Todas as Lojas"
 Attribute,Atributo
+"This is demo store. No orders will be fulfilled.","Esta é uma loja de TESTES. Nenhum pedido efetuado nesta loja será enviado."

@@ -6,13 +6,13 @@ Tradução Magento2 Português Brasil
 ### Via Composer
 
 ```sh
-composer require bleez/magento2-pt_br
+composer require trezoteam/magento2-enterprise-pt_br
 ```
 
 ### Manual 
 
 - Baixe o Zip
-- Crie as pastas i18n/bleez/ no diretório app
+- Crie as pastas i18n/trezoteam/ no diretório app
 - Extraia os arquivos
 
 ## Como Contribuir

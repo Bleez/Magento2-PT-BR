@@ -6,14 +6,14 @@
 "No records found.","No records found."
 Loading...,Loading...
 OK,OK
-"Please enter a number 0 or greater in this field.","Please enter a number 0 or greater in this field."
+"Please enter a number 0 oYou deleted the address.r greater in this field.","Please enter a number 0 or greater in this field."
 "The From Date value should be less than or equal to the To Date value.","The From Date value should be less than or equal to the To Date value."
 "select all","Selecionar tudo"
 Allow,Allow
 "Please specify at least one search term.","Please specify at least one search term."
 "Delete Folder","Delete Folder"
 Folder,Folder
-"Are you sure you want to delete this address?","Are you sure you want to delete this address?"
+"Are you sure you want to delete this address?","Tem certeza que deseja remover o endereço?"
 "Sorry, there was an unknown error.","Sorry, there was an unknown error."
 Activate,Activate
 Reauthorize,Reauthorize
@@ -119,3 +119,6 @@ Translations,Translations
 "Please put your store into maintenance mode and redeploy static files after changing strategy","Please put your store into maintenance mode and redeploy static files after changing strategy"
 "Dictionary (Translation on Storefront side)","Dictionary (Translation on Storefront side)"
 "Embedded (Translation on Admin side)","Embedded (Translation on Admin side)"
+"Your coupon was successfully removed.","Seu cupom foi removido."
+"Your coupon was successfully applied.","Seu cupom foi aplicado."
+"Cancel coupon","Cancelar cupom"

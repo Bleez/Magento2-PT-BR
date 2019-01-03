@@ -21,7 +21,7 @@ Backorders,Backorders
 "Not all of your products are available in the requested quantity.","Not all of your products are available in the requested quantity."
 "We cannot specify a product identifier for the order item.","We cannot specify a product identifier for the order item."
 "The fewest you may purchase is %1.","The fewest you may purchase is %1."
-"Please correct the quantity for some products.","Please correct the quantity for some products."
+"Please correct the quantity for some products.","Por favor corrija a quantidade para alguns produtos."
 "The most you may purchase is %1.","The most you may purchase is %1."
 "We don't have as many ""%1"" as you requested.","Não temos tantos ""%1"" quanto você solicitou."
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","We don't have as many ""%1"" as you requested, but we'll back order the remaining %2."

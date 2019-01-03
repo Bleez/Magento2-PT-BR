@@ -1,0 +1,145 @@
+"Gift Card Accounts","Contas Cartão Presentes"
+"Add Gift Card Account","Adicionar Conta de Cartão de Presente"
+Save,Salvar
+Delete,Deletar
+"Save & Send Email","Salvar e Enviar Email"
+"Edit Gift Card Account: %1","Editar Conta de Cartão de Presente: %1"
+"New Gift Card Account","Nova Conta de Cartão de Presente"
+ID,ID
+Date,Data
+Action,Ação
+"Balance Change","Balanço Geral"
+Balance,Balanço
+"More Information","Mais Informações"
+Information,Informações
+"Gift Card Code","Código de Cartão de Presente"
+Status,Status
+Active,Ativo
+Yes,Sim
+No,Não
+Redeemable,Resgatável
+Website,Website
+"Expiration Date","Data de Expiração"
+"Send Gift Card","Enviar Cartão de Presente"
+"Recipient Email","E-mail do Destinatário"
+"Recipient Name","Nome do Destinatário"
+"Send Email from the Following Store View","Enviar e-mail da para a seguinte Visão de Loja"
+"-- First Please Select a Website --","-- Primeiro Selecione um Website --"
+"Gift Card Account","Conta de Cartão Presente"
+History,Hitória
+"This gift card account has been deleted.","Essa conta cartão de presente foi deletada."
+"We couldn't find a gift card account to delete.","Nós não conseguimos encontrar a conta de cartão-presente para deleta-lá."
+"Edit Gift Card Account","Editar Conta de Cartão Presente"
+"New Account","Nova Conta"
+"New code pool was generated.","Novo grupo de códigos gerado."
+"We were unable to generate a new code pool.","Não foi possível gerar um novo grupo de códigos."
+"Code Pool used: <b>%1%</b> (free <b>%2</b> of <b>%3</b> total). Generate new code pool <a href=""%4"">here</a>.","Grupo de código usado: <b>%1%</b> (livres <b>%2</b> de um total <b>%3</b>). Gerar novo grupo de código <a href=""%4"">aqui</a>."
+"Please select a gift card account(s)","Por favor selecione a(s) conta(s) de cartão presente"
+"You deleted a total of %1 records.","Você excluiu um total de %1 registros."
+"You saved the gift card account.","Você salvou a conta de cartão presente."
+"An email was not sent because the gift card account is not active.","O e-mail não foi enviado porque a conta não está ativa."
+"You saved the gift card account, but an email was not sent.","Você salvou a conta, porém o e-mail não foi enviado."
+"We will refund the gift card amount to your customer’s store credit","Nós restituimos o valor do cartão de presente para os créditos da conta do seu cliente."
+"Please enable Store Credit to refund the gift card amount to your customer"," Por favor habilite o Crédito por Loja para poder restituir o valor do cartão presente para seu cliente"
+"Please correct the gift card code.","Por favor corrija o código do cartão presente."
+"Gift Card ""%1"" was added.","Cartão Presente ""%1"" foi adicionado."
+"We cannot apply this gift card.","Não conseguimos aplicar seu cartão-presente."
+"Gift Card ""%1"" was removed.","Cartão Presente ""%1"" foi removido."
+"You can't remove this gift card.","Você não pode remover esse cartão-presente."
+"You can't redeem a gift card now.","Você não pode resgatar um cartão de presente agora."
+"Gift Card ""%1"" was redeemed.","Cartão Presente ""%1"" foi resgatado."
+"We cannot redeem this gift card.","Não podemos resgatar este cartão-presente."
+"Gift Card","Cartão Presente"
+"By admin: %1.","Pelo admin: %1."
+"The expiration date must be set in the future.","A data de validade deve ser definida no futuro."
+"The balance cannot be less than zero.","O saldo não pode ser inferior a zero."
+"This gift card account is already in the quote.","Esta conta do cartão presente já está no pedido."
+"Please correct the gift card account code: ""%1"".","Corrija o código da conta do cartão presente: ""%1""."
+"This gift card account wasn't found in the quote.","Esta conta do cartão de presente não foi encontrada no pedido."
+"Please correct the gift card account ID. Requested code: ""%1""","Corrija o ID da conta do cartão presente. Código solicitado: ""%1"""
+"Please correct the gift card account website: %1.","Corrija o website da conta do cartão presente: %1."
+"Gift card account %1 is not enabled.","A conta do cartão de presente %1 não está habilitada"
+"Gift card account %1 is expired.","A conta do cartão %1 está expirado."
+"Gift card account %1 has a zero balance.","A conta do cartão %1 está sem saldo."
+"Gift card account %1 balance is lower than the charged amount.","A conta do cartão %1 possui saldo menor que o valor alterado."
+Available,Disponível
+Used,Usado
+Redeemed,Resgatado
+Expired,Expirado
+"Please enter a valid customer ID.","Por favor informe um ID de cliente válido."
+"Gift Card Redeemed: %1. For customer #%2.","Cartão Presente Resgatado: %1. Para o cliente #%2."
+Created,Criado
+Updated,Atualizado
+Sent,Enviado
+"Order #%1.","Pedido #%1."
+"Recipient: %1.","Destinatário: %1."
+"Customer #%1.","Cliente #%1."
+"Please assign a gift card account.","Atribua uma conta de cartão presente."
+"Unknown history action.","Ação da história desconhecida."
+"We were unable to create full code pool size. Please check settings and try again.","Não foi possível criar o grupo de códigos completamente. Verifique as configurações e tente novamente."
+"No codes left in the pool.","Sem códigos disponíveis no grupo de códigos."
+"Cart %1 doesn't contain products","O carrinho %1 não contém produtos"
+"Could not delete gift card from quote","Não foi possível excluir o cartão presente do pedido"
+"Could not add gift card code","Não foi possível adicionar o código do cartão presente"
+"Please correct the wrong or expired Gift Card Code.","Corrija o código de cartão de presente incorreto ou expirado."
+Alphanumeric,Alfanumérico
+Alphabetical,Alfabético
+Numeric,Numérico
+"The maximum generated code length is 255. Please correct your settings.","O tamanho máximo do código gerado é 255. Corrija as configurações."
+"Gift Cards","Cartões de Presente"
+"test message","mensagem teste"
+Generate,Gerado
+"Code Pool used: ","Grupo de códigos usado: "
+" (free "," (Gratis "
+" of "," de "
+" total)."," total)."
+"Are you sure you want to continue without saving your changes?","Tem certeza de que deseja continuar sem salvar suas alterações?"
+"Refund Gift Cards to Store Credit","Reembolsar cartões de presente para crédito de loja"
+"Add Gift Card","Add Cartão Presente"
+Remove,Remover
+"Gift Card (%1)","Cartão Presente (%1)"
+"This won't take long . . .","Isso não demorará muito . . ."
+"Enter gift card code","Informe o código do cartão presente"
+"Redeem Gift Card","Resgatar Cartão Presente"
+"Check status and balance","Verifique o status e o saldo"
+"Have a gift card? ","Você tem Cartão Presente? "
+"Click here","Clique aqui"
+" to redeem it."," para resgatar ele."
+"Enter the gift card code","Informe o código do cartão presente"
+"Check Gift Card status and balance","Verifique o status e o saldo do Cartão Presente"
+"Gift Card: ","Cartão Presente: "
+"Current Balance: ","Saldo Atual: "
+"Expires: ","Expira: "
+"Please enter a valid gift card code.","Informe um código do cartão presente válido."
+"Add or remove gift cards","Add ou remover cartões presentes"
+"Gift Card amount applied to order:","Valor do Cartão Presente aplicado para o pedido:"
+"You've been sent a gift from %store_name","Você recebeu um cartão presente de %store_name"
+"%name,","%nome,"
+"You've been sent a gift card for use at %store_name and it is now ready to be used for purchases.","Você recebeu um cartão de presente para uso em %store_name e agora está pronto para ser usado para compras."
+"Gift Card Code: %code","Código do Cartão Presente: %code"
+"The card has a balance of %balance and can be used at ","O cartão possui um saldo de %balance e pode ser usado em "
+%store_name,%store_name
+"Apply Gift Card","Aplicar Cartão Presente"
+"Gift Card:","Cartão Presente:"
+Apply,Aplicar
+"See Balance","Ver Saldo"
+"Gift Card amount applied to order: ","Valor do cartão de presente aplicado ao pedido: "
+"Email Sent from Gift Card Account Management","E-mail enviado pela Gestão de contas de cartão-presente"
+"Gift Card Email Sender","Cartão de presente remetente de e-mail"
+"Gift Card Template","Template do Cartão Presente"
+"Gift Card Account General Settings","Configurações gerais da conta do cartão de presente"
+"Code Length","Tamanho do Código"
+"Excluding prefix, suffix and separators.","Excluindo prefixo, sufixo e separadores."
+"Code Format","Formato do Código"
+"Code Prefix","Prefixo do Código"
+"Code Suffix","Sufixo do Código"
+"Dash Every X Characters","Traço a cada X caracteres"
+"if empty no separation","se vazio sem separação"
+"New Pool Size","Novo tamanho de grupo de códigos"
+"Low Code Pool Threshold","Limite de grupo de códigos baixos"
+"IMPORTANT: Be sure to save your configuration before running generation process.","IMPORTANTE: Certifique-se de salvar sua configuração antes de executar o processo de geração."
+CSV,CSV
+"Excel XML","Excel XML"
+"Are you sure you want to delete these gift card accounts?","Tem certeza de que deseja excluir essas contas de cartão presente?"
+Code,Código
+End,Fim

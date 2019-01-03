@@ -5,10 +5,10 @@
 "Shipping Information","Shipping Information"
 "Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order."
 "Account confirmation is required. Please, check your e-mail for confirmation link. To resend confirmation email please <a href=""%1"">click here</a>.","Account confirmation is required. Please, check your e-mail for confirmation link. To resend confirmation email please <a href=""%1"">click here</a>."
-Password,Password
-Continue,Continue
+Password,Senha
+Continue,Continuar
 Login,Login
-Display,Display
+Display,Exibir
 User,User
 Daily,Daily
 Never,Never
@@ -16,7 +16,7 @@ Updated,Updated
 "View Order","View Order"
 Event,Event
 "Please Select","Please Select"
-"Submitting order information...","Submitting order information..."
+"Submitting order information...","Aguarde..."
 Authorization,Authorization
 "You notified customer about invoice #%1.","You notified customer about invoice #%1."
 "Note: %1","Note: %1"
@@ -43,7 +43,7 @@ Help,Help
 "Please re-enable the previously enabled payment solutions.","Please re-enable the previously enabled payment solutions."
 "View Demo","View Demo"
 "See terms","See terms"
-"You will be redirected to the PayPal website.","You will be redirected to the PayPal website."
+"You will be redirected to the PayPal website.","Você será redirecionado para o site do Paypal."
 "Would you like to sign a billing agreement ' 'to streamline further purchases with PayPal?","Would you like to sign a billing agreement ' 'to streamline further purchases with PayPal?"
 "You will be redirected to the PayPal website when you place an order.","You will be redirected to the PayPal website when you place an order."
 "Click here if you are not redirected within 10 seconds.","Click here if you are not redirected within 10 seconds."
@@ -141,7 +141,7 @@ Auto,Auto
 "Buyer claims that the received merchandise is unsatisfactory, defective, or damaged.","Buyer claims that the received merchandise is unsatisfactory, defective, or damaged."
 "Unknown reason. Please contact PayPal customer service.","Unknown reason. Please contact PayPal customer service."
 "Payer ID","Payer ID"
-"Payer Email","Payer Email"
+"Payer Email","E-mail do remetente"
 "Payer Status","Payer Status"
 "Payer Address ID","Payer Address ID"
 "Payer Address Status","Payer Address Status"
@@ -150,8 +150,8 @@ Auto,Auto
 "Last Correlation ID","Last Correlation ID"
 "Address Verification System Response","Address Verification System Response"
 "CVV2 Check Result by PayPal","CVV2 Check Result by PayPal"
-"Buyer's Tax ID","Buyer's Tax ID"
-"Buyer's Tax ID Type","Buyer's Tax ID Type"
+"Buyer's Tax ID","ID do imposto do comprador
+"Buyer's Tax ID Type","Tipo de identificação fiscal do comprador"
 Chargeback,Chargeback
 Complaint,Complaint
 Dispute,Dispute
@@ -354,7 +354,7 @@ Create...,Create...
 "You will be required to enter your payment details after you place an order.","You will be required to enter your payment details after you place an order."
 "Additional Options","Additional Options"
 "Acceptance Mark","Acceptance Mark"
-"What is PayPal?","What is PayPal?"
+"What is PayPal?","O que é PayPal?"
 "Sign a billing agreement to streamline further purchases with PayPal.","Sign a billing agreement to streamline further purchases with PayPal."
 Size,Size
 "Sorry, something went wrong.","Sorry, something went wrong."
@@ -635,10 +635,11 @@ Vendor,Vendor
 "Website Payments Pro Hosted Solution (Includes Express Checkout)","Website Payments Pro Hosted Solution (Includes Express Checkout)"
 "Website Payments Pro Hosted Solution and Express Checkout","Website Payments Pro Hosted Solution and Express Checkout"
 "Basic Settings - PayPal Website Payments Pro Hosted Solution","Basic Settings - PayPal Website Payments Pro Hosted Solution"
-"PayPal Payment Solutions","PayPal Payment Solutions"
+"PayPal Payment Solutions","PayPal Soluções em Pagaemnto"
 "Display on Product Details Page","Display on Product Details Page"
-verified,verified
-unverified,unverified
-Eligible,Eligible
-Ineligible,Inligible
-"PayPal Express Checkout","PayPal Express Checkout"
+verified,verificado
+"unverified","não verificado"
+Eligible,Elegíbel
+Ineligible,Inéligível
+"PayPal Express Checkout","PayPal Checkout Expresso"
+"Continue to PayPal","Finalizar com PayPal"

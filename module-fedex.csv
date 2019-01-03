@@ -42,16 +42,16 @@ status,status
 Key,Key
 Debug,Debug
 "Enabled for Checkout","Enabled for Checkout"
-"Calculate Handling Fee","Calculate Handling Fee"
+"Calculate Handling Fee","Calcular taxa de manuseio"
 "Handling Applied","Handling Applied"
-"Handling Fee","Handling Fee"
+"Handling Fee","Taxa de manuseio"
 "Allowed Methods","Allowed Methods"
-"Displayed Error Message","Displayed Error Message"
+"Displayed Error Message","Displayed Error Message FEDEX"
 "Free Method","Free Method"
 "Free Shipping Amount Threshold","Free Shipping Amount Threshold"
-"Ship to Applicable Countries","Ship to Applicable Countries"
-"Ship to Specific Countries","Ship to Specific Countries"
-"Show Method if Not Applicable","Show Method if Not Applicable"
+"Ship to Applicable Countries","Enviar para países aplicáveis"
+"Ship to Specific Countries","Enviar para países específicos"
+"Show Method if Not Applicable","Mostrar método se não for aplicável"
 FedEx,FedEx
 "Account ID","Account ID"
 "Please make sure to use only digits here. No dashes are allowed.","Please make sure to use only digits here. No dashes are allowed."
